@@ -262,7 +262,34 @@ All volumes below are maintained 100% locally in pure Markdown (`.md`) format, s
 
 ---
 
+### TRACK 20 · THE FRACTAL PYRAMID VISION
+*Mac's founding daydream: pyramids of pyramids, triadic reach, and hollow-core truths.*
+* [20.01 · The Origin Pyramid Daydream Vision](file:///home/guestpc/lycheetah-mythos/20_THE_FRACTAL_PYRAMID_VISION/01_the_origin_pyramid_daydream_vision.md) — The founding intuition: pyramids of black blocks, reach-out potential axes, and the hardness strata (zero-point $\to$ diamond; no verdict, no diamond).
+* [20.02 · The Hollow-Core Truths](file:///home/guestpc/lycheetah-mythos/20_THE_FRACTAL_PYRAMID_VISION/02_the_hollow_core_truths.md) — Holding massive weight while awaiting explanation; gravity, aspirin, and love as operational hollow cores.
+* [20.03 · The Implosion & Hebbian Reach](file:///home/guestpc/lycheetah-mythos/20_THE_FRACTAL_PYRAMID_VISION/03_the_implosion_and_hebbian_reach.md) — When a core breaks under descendant load: grief, ceremony, celebration (self-found defect), and the orphaned children reaching for a new base.
+* [20.04 · Fractal Diving & Mandelbrot Navigation](file:///home/guestpc/lycheetah-mythos/20_THE_FRACTAL_PYRAMID_VISION/04_fractal_diving_and_mandelbrot_navigation.md) — The death of hamburger menus and pagination tabs; falling inward through self-similar conceptual space.
+
+---
+
+### TRACK 21 · ANTI-PREDATORY GAME ECOLOGY
+*The anti-guilt covenant, the loot seam, and the thinking world.*
+* [21.01 · Absence is Rest: Reproach Audited](file:///home/guestpc/lycheetah-mythos/21_ANTI_PREDATORY_GAME_ECOLOGY/01_absence_is_rest_reproach_audited.md) — Abolishing daily streak coercion and notification shaming; an app that respects human sleep and silence.
+* [21.02 · The Yield: The Fight is Fun, The Loot is Truth](file:///home/guestpc/lycheetah-mythos/21_ANTI_PREDATORY_GAME_ECOLOGY/02_the_yield_the_fight_is_fun_the_loot_is_truth.md) — Mac's integration ruling: monster battles stay visceral; the drop is the epistemic act—a generated secret that could hold something or nothing (Truth Pressure playable).
+* [21.03 · The Whetstones & The Warden's Question](file:///home/guestpc/lycheetah-mythos/21_ANTI_PREDATORY_GAME_ECOLOGY/03_the_whetstones_and_the_wardens_question.md) — The Ϙ standing stones; the mid-battle pause where bosses test the seeker's mind (The Clear Eye surge; thinking is never punished).
+* [21.04 · The 497-File Sewing](file:///home/guestpc/lycheetah-mythos/21_ANTI_PREDATORY_GAME_ECOLOGY/04_the_four_hundred_and_ninety_seven_file_sewing.md) — The 22 surface families; Phase 0 audit scripts landing first; strict palette discipline and zero forbidden imports.
+
+---
+
+### TRACK 22 · THE FAILURE MUSEUM & DEFENSE BUNDLE
+*The public record of errors, falsification registers, and steelmanned opposition.*
+* [22.01 · The Failure Museum: Exhibit One](file:///home/guestpc/lycheetah-mythos/22_THE_FAILURE_MUSEUM_AND_DEFENSE/01_the_failure_museum_exhibit_one_1600w_brain.md) — The 1600-watt brain physiological error; why internal consistency without empirical grounding is fatal; entries are added, nothing is removed.
+* [22.02 · The Falsification Register & Open Tests](file:///home/guestpc/lycheetah-mythos/22_THE_FAILURE_MUSEUM_AND_DEFENSE/02_the_falsification_register_and_open_tests.md) — Naming exactly how to prove us wrong; Karl Popper's standard applied to CASCADE, AURA, and Microorcim.
+* [22.03 · The Cold-Room Reproducibility Protocol](file:///home/guestpc/lycheetah-mythos/22_THE_FAILURE_MUSEUM_AND_DEFENSE/03_the_cold_room_reproducibility_protocol.md) — Simulating the hostile stranger on a clean machine; Windows terminal encoding traps; standard system receipts.
+* [22.04 · The Counter-Codex: Steelmanning Opposition](file:///home/guestpc/lycheetah-mythos/22_THE_FAILURE_MUSEUM_AND_DEFENSE/04_the_counter_codex_anticipating_adversaries.md) — Constructing the strongest possible case against our own framework; the theology trap and alchemical vocabulary steelman.
+
+---
+
 ```
-[ THE CODEX OF LYCHEETAH · 137 MASTER VOLUMES · 100% PURE MARKDOWN · ZERO SYNTHETIC FLUFF ]
+[ THE CODEX OF LYCHEETAH · 149 MASTER VOLUMES · 100% PURE MARKDOWN · ZERO SYNTHETIC FLUFF ]
 [ FOUNDED BY MACKENZIE CONOR JAMES CLARK · AOTEAROA (NEW ZEALAND) ]
 ```
