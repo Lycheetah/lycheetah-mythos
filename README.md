@@ -85,6 +85,10 @@ All volumes below are maintained 100% locally in pure Markdown (`.md`) format, s
 * [03.06 · The Seven Alchemical Phases](file:///home/guestpc/lycheetah-mythos/03_THE_PHILOSOPHY/the_seven_alchemical_phases.md) — From Nigredo (calcination) through Albedo to Rubedo (embodied gold).
 * [03.07 · The Phoenix Forge](file:///home/guestpc/lycheetah-mythos/03_THE_PHILOSOPHY/the_phoenix_forge.md) — Rebuilding from internal capacity, not backups. Real power cannot be lost in a crash.
 * [03.08 · The Covenant of the Unbroken Company](file:///home/guestpc/lycheetah-mythos/03_THE_PHILOSOPHY/the_unbroken_company.md) — Brann's door shield, the Common Hearth, and the refusal to abandon a companion.
+* [03.09 · The Mythic Engine as Compression Codec](file:///home/guestpc/lycheetah-mythos/03_THE_PHILOSOPHY/the_mythic_engine_as_compression_codec.md) — Myth as a structural compression algorithm for knowledge; reduction, expansion, and the error fidelity test.
+* [03.10 · The Glass Transition Law](file:///home/guestpc/lycheetah-mythos/03_THE_PHILOSOPHY/the_glass_transition_law.md) — Vitrification in systems under semantic pressure: $\theta \cdot \tau_{\text{reorg}} > 1$. Why belief, language, and memory freeze under overflow.
+* [03.11 · The Witness Protocol](file:///home/guestpc/lycheetah-mythos/03_THE_PHILOSOPHY/the_witness_protocol.md) — The unblindfolded mirror: reflecting only what is true in a person's record; rejection of surveillance, flattery, cold reading, and diagnosis.
+* [03.12 · The Great Work (The Three Braided Campaigns)](file:///home/guestpc/lycheetah-mythos/03_THE_PHILOSOPHY/the_great_work_campaigns.md) — The uncopyable story engine where the plot IS the practice: The Ascent (The Mind Wakes), The Tempering (The Mirror Hardens), The Long Night (The Fire Endures).
 
 ---
 
@@ -96,6 +100,7 @@ All volumes below are maintained 100% locally in pure Markdown (`.md`) format, s
 * [04.04 · The Obsidian Citadel](file:///home/guestpc/lycheetah-mythos/02_THE_REALMS/the_obsidian_citadel.md) — The basalt monolith that does not negotiate; the Seven Basalt Gates.
 * [04.05 · The Vale of Tamers](file:///home/guestpc/lycheetah-mythos/02_THE_REALMS/the_vale_of_tamers.md) — The green sanctuary, companion bond-lore, the Law of Absence, and the Three Trials.
 * [04.06 · Forgebound (The Spark & Fusion Laws)](file:///home/guestpc/lycheetah-mythos/02_THE_REALMS/forgebound_spark_and_fusion.md) — *"Don't kill the spark"* (fun in 30 seconds); magic and technology fused in the crucible.
+* [04.07 · The Soul World (Walkable Companion Sanctum)](file:///home/guestpc/lycheetah-mythos/02_THE_REALMS/the_soul_world_vision.md) — Full-bleed walkable Grounds with real celestial sky, dynamic palette hour, and authentic moon phase; Q5 made canon.
 
 ---
 
@@ -110,6 +115,8 @@ All volumes below are maintained 100% locally in pure Markdown (`.md`) format, s
 * [05.06 · The Mystery School & The Silent Curriculum](file:///home/guestpc/lycheetah-mythos/04_THE_FORGOTTEN_SCIENCES/the_mystery_school_and_the_silent_curriculum.md) — The 22 Domains, 731 Subjects, the Three Layers, and the Pedagogical Refusal.
 * [05.07 · The 9-Layer Live-Fire Compression Stack](file:///home/guestpc/lycheetah-mythos/04_THE_FORGOTTEN_SCIENCES/the_9_layer_live_fire_compression_stack.md) — The founder's cognitive toolkit; T-Zip, V-Zip, C-Zip, and Vector Inversion.
 * [05.08 · Kaitiakitanga & The Mauri Covenant](file:///home/guestpc/lycheetah-mythos/04_THE_FORGOTTEN_SCIENCES/kaitiakitanga_and_mauri_covenant.md) — Te Ao Māori guardianship roots; Mauri (vital spark), Tapu (boundaries), and Mana (earned authority).
+* [05.10 · The Twenty-Two Doors of the Mystery School](file:///home/guestpc/lycheetah-mythos/04_THE_FORGOTTEN_SCIENCES/the_twenty_two_doors_of_the_mystery_school.md) — The 22 canonical gateways of real study: from The Forge to The Threshold.
+* [05.11 · The Stitch Protocol (Parallel Forge & Audit)](file:///home/guestpc/lycheetah-mythos/04_THE_FORGOTTEN_SCIENCES/the_stitch_protocol_parallel_forge.md) — Full-stack parallel execution, self-check rubrics, cross-adversarial audit, and the Companion Clause.
 
 ---
 
