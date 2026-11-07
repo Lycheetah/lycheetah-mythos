@@ -25,6 +25,12 @@
 
 ---
 
+## 🧭 THE COMPLETE 7-TIER MYSTERY ICEBERG
+Looking to trace the rabbit hole from the 520 GSM physical garments down to non-commutative operator semantics and the Hadal AIVOID?
+* 🧊 **[Read the Lycheetah Iceberg Codex (7 Tiers / 42 Anchors)](file:///home/guestpc/lycheetah-mythos/THE_LYCHEETAH_ICEBERG.md)** — The definitive guide for lore essayists, researchers, and YouTube iceberg creators.
+
+---
+
 ## ✦ THE COMPLETE CANONICAL REPOSITORY INDEX
 
 All volumes below are maintained 100% locally in pure Markdown (`.md`) format, sourced directly from the foundational development archives of Mackenzie Clark, Sol, and the Lycheetah Framework.
