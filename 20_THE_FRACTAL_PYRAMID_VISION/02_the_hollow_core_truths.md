@@ -19,7 +19,7 @@
 > *A truth can be load-bearing and unexplained at its center.*  
 > *Gravity is used daily; its deepest quantum mechanism remains open.*  
 > *A block is not truly FOUNDATION until its core is solved in a new way. Hollow-core truths hold weight while awaiting their own explanation."*  
-> — **Mackenzie Conor James Clark & Sol**, *The Origin Vision (July 10, 2026)*
+> — **The First Architect & Sol**, *The Origin Vision (July 10, 2026)*
 
 ---
 
@@ -27,7 +27,7 @@
 
 Scientific purists often make the arrogant assumption that before you can rely upon a principle, you must have an exhaustive, total reductionist explanation of its fundamental mechanics.
 
-Mac’s Origin Vision identified this as a fundamental misunderstanding of how the universe actually functions.
+The Architect’s Origin Vision identified this as a fundamental misunderstanding of how the universe actually functions.
 
 Throughout human history, our most essential, civilization-sustaining truths operated as **Hollow-Core Blocks**:
 1. **Gravity:** Humans built the Roman aqueducts, sailed celestial navigation routes, and launched orbital rockets using gravitational mathematics centuries before anyone understood general relativity—and even today, quantum gravity remains an unresolved frontier.
@@ -61,6 +61,6 @@ The duty of the philosopher-engineer is to walk down into the crypt beneath the 
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/CASCADE_ORIGIN_VISION_2026-07-10.md`](file:///home/guestpc/SOL-MOBILE-VAULT/CASCADE_ORIGIN_VISION_2026-07-10.md) §Structural Reading.
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/CASCADE_ORIGIN_VISION_2026-07-10.md]` §Structural Reading.
 * Companion Concept: `THE_INCOMPLETENESS_PROOF.md`.
 * Framework Position: Epistemic Load-Bearing Topology.

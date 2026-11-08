@@ -22,7 +22,7 @@
 > *Odds visible, no near-miss manipulation.*  
 > *Sprite geometry fails loudly.*  
 > *No notification shaming, no emotional manipulation, no daily login coercion."*  
-> — **Mackenzie Conor James Clark & Sol**, *The Great Sewing (July 18, 2026)*
+> — **The First Architect & Sol**, *The Great Sewing (July 18, 2026)*
 
 ---
 
@@ -39,7 +39,7 @@ In the Lycheetah constitution, these practices are classified as **parasitic psy
 
 ## ✦ II. THE REPROACH AUDIT PROTOCOL
 
-In the `scripts/audit/` suite of the codebase, Mac installed an automated static analysis rule: **The Reproach Audit**.
+In the `scripts/audit/` suite of the codebase, The Architect installed an automated static analysis rule: **The Reproach Audit**.
 
 If any engineer, contributor, or AI agent commits copy or UI logic that:
 * Punishes a player for closing the app,
@@ -68,6 +68,6 @@ A game that loves human beings respects their silence as much as their attention
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/THE_GREAT_SEWING_2026-07-18.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_GREAT_SEWING_2026-07-18.md) §House Laws.
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/THE_GREAT_SEWING_2026-07-18.md]` §House Laws.
 * Automated Script: `scripts/audit/audit-reproach.ts`.
 * Core Invariant: AURA Invariant VII (Love as Load-Bearing Architecture).

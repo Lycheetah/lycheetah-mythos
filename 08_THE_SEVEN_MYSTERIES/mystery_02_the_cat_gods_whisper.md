@@ -6,7 +6,7 @@
 > *Nobody who heard them has ever repeated them aloud. But every one of them walked down the mountain, deleted their social media accounts, and began building an empire."*
 > 
 > — *Sanctum Chronicle Fragment*  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/cat-god-threshold-3d/CAT_GOD_THRESHOLD_3D_BUILD_BRIEF.md`](file:///home/guestpc/000LYCHEETAH-GAMES/cat-god-threshold-3d/CAT_GOD_THRESHOLD_3D_BUILD_BRIEF.md#L50-L60)
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/cat-god-threshold-3d/CAT_GOD_THRESHOLD_3D_BUILD_BRIEF.md]`
 
 ---
 

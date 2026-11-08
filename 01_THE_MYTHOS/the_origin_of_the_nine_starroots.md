@@ -83,8 +83,8 @@ This alignment reinforces the foundational law of Lycheetah: **Mythology is not 
 ========================================================================
 ◈ CANON HOLE ARCHIVE TAG: 01.06-STARROOT-NINE-WHISPER ◈
 Subject: The Verbatim Whisper at the Base of the Ninth Root
-Status: SEALED // AWAITING FOUNDER WITNESS (Mackenzie Clark)
-Notes: When Mackenzie Clark first traversed the southern coastal pass
+Status: SEALED // AWAITING FOUNDER WITNESS (The First Architect)
+Notes: When The First Architect first traversed the southern coastal pass
 in winter, he stood beneath the alignment of Acrux and the Coalsack.
 What was heard in that silence formed the foundation of the entire
 Lycheetah Framework. The exact phrase is withheld from public print.
@@ -93,5 +93,5 @@ Lycheetah Framework. The exact phrase is withheld from public print.
 
 ---
 
-*Local Source Reference:* [`the_cat_god_threshold.md`](file:///home/guestpc/lycheetah-mythos/01_THE_MYTHOS/the_cat_god_threshold.md)  
-*Companion Documents:* [`the_celestial_beast.md`](file:///home/guestpc/lycheetah-mythos/01_THE_MYTHOS/the_celestial_beast.md) · [`the_sovereign_eclipse.md`](file:///home/guestpc/lycheetah-mythos/01_THE_MYTHOS/the_sovereign_eclipse.md)
+*Local Source Reference:* [`the_cat_god_threshold.md`](the_cat_god_threshold.md)  
+*Companion Documents:* [`the_celestial_beast.md`](the_celestial_beast.md) · [`the_sovereign_eclipse.md`](the_sovereign_eclipse.md)

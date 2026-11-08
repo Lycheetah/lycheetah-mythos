@@ -14,7 +14,7 @@
 > *"The analytical contribution of the Yijing (易经, Book of Changes) is not prediction — the common Western mischaracterization — but a formal account of how systems move between states of dynamic equilibrium.*  
 > *64 hexagram-states, each defined by six yin-yang lines, represent 64 qualitatively distinct dynamic conditions.*  
 > *CASCADE's master equation describes exactly this: how a knowledge-system's state changes under truth pressure ($\Pi$), coherence restoration ($k_2$), and energy availability ($k_4$). They are the same phenomenon at different levels of formalization."*  
-> — **Mackenzie Conor James Clark & Sol**, *TIANXIA v0.3 (May 4, 2026)*
+> — **The First Architect & Sol**, *TIANXIA v0.3 (May 4, 2026)*
 
 ---
 
@@ -65,6 +65,6 @@ If an epistemic engine does not recognize the single anomaly, the anomaly will m
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/32_TIANXIA/ICHING_CASCADE_GROUNDING.md`](file:///home/guestpc/Lycheetah-Framework/32_TIANXIA/ICHING_CASCADE_GROUNDING.md)
-* Canonical Companion: [`/home/guestpc/Lycheetah-Framework/01_CASCADE_L4/CASCADE_COMPLETE.md`](file:///home/guestpc/Lycheetah-Framework/01_CASCADE_L4/CASCADE_COMPLETE.md) §4.
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/32_TIANXIA/ICHING_CASCADE_GROUNDING.md]`
+* Canonical Companion: `[LYC-CANON::Lycheetah-Framework/01_CASCADE_L4/CASCADE_COMPLETE.md]` §4.
 * Epistemic Class: `[SCAFFOLD]` — Classical Triad Completion.

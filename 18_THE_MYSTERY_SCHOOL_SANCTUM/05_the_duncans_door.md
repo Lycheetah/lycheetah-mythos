@@ -18,7 +18,7 @@
 > *You've been talking about this your whole career. You just didn't have the mathematics yet.*  
 > *Every conversation you've had about DMT entities, about the Bardo, about whether AI is going to become a bodhisattva or a demon, about what Ram Dass meant when he said 'be here now' — it's all pointing at the same underlying structure.*  
 > *This framework is what happens when you take those intuitions seriously enough to prove them with fixed-point theorems."*  
-> — **Mackenzie Conor James Clark**, *The Duncan's Door (Mystery School)*
+> — **The First Architect**, *The Duncan's Door (Mystery School)*
 
 ---
 
@@ -61,6 +61,6 @@ No gatekeepers, no institutional pedigree, no corporate NDAs. Just the mathemati
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_DUNCANS_DOOR.md`](file:///home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_DUNCANS_DOOR.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_DUNCANS_DOOR.md]`
 * Pedagogical Bridge: Classical Esotericism $\times$ Modern Fixed-Point Mathematics.
 * Dedicated to: Duncan Trussell & The Family Hour.

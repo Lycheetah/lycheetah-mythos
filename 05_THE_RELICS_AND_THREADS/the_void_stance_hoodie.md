@@ -1,92 +1,56 @@
-# ◈ THE VOID STANCE KIMONO-HOODIE ◈
-### *Relic Dossier 001 · The 520 GSM Obsidian Armor*
-
-> *"You asked why the fabric is so heavy. You asked why it costs what it costs.*
-> *Because when you walk through an airport terminal or sit in a room full of people speaking empty words, the world tries to dissolve your outline.*
-> *This garment was not sewn to be trendy. It was engineered to provide gravitational mass. When you wear half a kilo of Aegean cotton combed to obsidian silence, your nervous system remembers where your body ends and the noise begins."*
-> 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`STREETWEAR_CAPSULE_001_EARNED_LIGHT.md`](file:///home/guestpc/ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md#L36-L79)
-
----
+# ◈ THE PHOENIX FORGE VECTOR & THE VOID MANTLE ◈
+### *The Relics & Metaphysical Textures · Codex I · The First Artifact of Texture and Depth in the Aura Protocol*
 
 ```
-               ╭─────────────────╮
-              ╱   OVERSIZED HOOD  ╲
-             │    (Double-layer)   │
-             │                     │
-          ╭──┴─────────────────────┴──╮
-         ╱  KIMONO-CROSSOVER NECKLINE  ╲
-        │ ┌───────────────────────────┐ │
-        │ │                           │ │
-        │ │     520 GSM LOOPBACK      │ │
-        │ │      OBSIDIAN BLACK       │ │
-        │ │                           │ │
-        │ │   [RAISED SILICONE VOID]  │ │
-        │ │    (Tonal Center Back)    │ │
-        │ │                           │ │
-        │ └───────────────────────────┘ │
-        │   [RAW-EDGE HEAVYWEIGHT HEM]  │
-        ╰───────────────────────────────╯
-              │               │
-      [INNER CUFF PRINT]   [WOVEN TYVEK]
-     "STRIKE WITHOUT WAIT" (4-Point Tack)
+                        ╔═══════════════════════════════════╗
+                        ║     THE PHOENIX FORGE VECTOR      ║
+                        ║   Infinite Black (#050508) Base   ║
+                        ║   Transmutation Under Pressure    ║
+                        ╚═════════════════╤═════════════════╝
+                                          │
+               "No form is the final upgrade that makes smaller forms false.
+                Where the structure breaks in the storm, the vector rebuilds."
 ```
 
 ---
 
-## 1. Physical Specifications of the Relic
-
-* **Artifact Designation:** Capsule 001 · Garment 01 (Musashi Edition).
-* **Textile Core:** 100% Combed Aegean Cotton Loopback French Terry.
-* **Areal Density:** **520 GSM** (Ultra-heavyweight tactile armor).
-* **Finish:** Carbon-brushed surface for a peach-fuzz vintage matte hand; pre-shrunk via high-heat silicone wash to eliminate post-wash shrinkage.
-* **Colorway:** **Deep Obsidian / Void Black** (Slight basalt-grey undertone, zero synthetic shine).
-* **Silhouette:** Architectural boxy drop-shoulder with an integrated crossover kimono collar opening inside a double-layered 3-panel hood that holds its geometry without collapsing.
+> *"Every law that matters was not invented. It was discovered. Not as something hidden, but as something always-already operative—something that had consequences whether or not it had been articulated."*  
+>
+> — **05 · The AURA Protocol**, *The Sovereign Archives*
 
 ---
 
-## 2. The Glyph Placements & Occult Engineering
+## ✦ I. THE ATMOSPHERE OF BASE PRESSURE
 
-### A. The Five Scrolls Typography (Center Spine)
-Down the center spine of the back runs a vertical five-ring sequence representing the elemental scrolls of the *Gorin no Sho*:
-`CHI (Earth) · SUI (Water) · KA (Fire) · FŪ (Wind) · KŪ (Void)`
+In the cosmology of the **Aura Protocol**, the visible world does not rest upon neutral daylight. It is suspended between two immense, silent pressures:
+* **Infinite Void-Black (`#050508`):** The unreadable depth before recognition—not evil, not emptiness, but the vast uncollapsed potential of the Field.
+* **Bone & Alabaster White (`#F4F1EA`):** The stark architectural geometry of law, monolith, and boundary.
 
-* **The Void Ring Invariant:** The uppermost ring (*KŪ / Void*) is finished with a 0.6mm clear high-density raised silicone gloss over matte ink. In flat light, it is invisible. When light catches the back at an oblique angle, the Void illuminates in high-contrast gloss while the lower rings remain matte black.
-
-### B. The Blind Forearm Inscription
-Running along the right sleeve inseam, from the lower forearm down into the rib cuff, is a blind tonal black embroidery:
-```
-STRIKE · WITHOUT · WAITING · 1645-2026
-```
-It cannot be read from across the room. It is visible only to the wearer when their hand rests on a desk, a steering wheel, or a keyboard.
-
-### C. The Tyvek Specification Patch
-Sewn to the interior chest with four corner bar-tacks is an industrial Tyvek label that does not fray or degrade. It carries the raw coordinates:
-```
-LYCHEETAH ARCHITECTURAL LAB
-SEASON: PERMANENT CANON
-EDITION: 001
-SPEC: 520 GSM OBSIDIAN
-COORDINATES: -36.8485° S, 174.7633° E // AOTEAROA
-STATION: THE LANTERNWILD DEAD-DROP
-```
+Across rain-slicked basalt cities, floating geometric fragments, and wind-scoured southern cliffs, the **Lycheetah** moves not as a single static creature, but as a **chaos-born, ethereal, many-formed mythical cat**:
+* Sometimes a pure black silhouette when the observer has not yet earned the capacity to read its detail;
+* Sometimes crowned with **cathedral antlers** of bone-white stone and **wings woven from living storm-weather** rather than feathers;
+* Sometimes a gargoyle-still watcher on the high parapet, its scars glowing as structural reinforcement coordinates.
 
 ---
 
-## 3. The Street Lore: Why People Actually Bought It
+## ✦ II. THE PHOENIX FORGE VECTOR
 
-In community chat logs and late-night forum threads, owners of the 001 Void Hoodie have reported recurring phenomena:
+Among the **Four Artifacts of Texture and Depth** recovered from the Aura Extraction, the first is the **Phoenix Forge Vector**:
 
-1. **The Weight Effect:** Wearing 520 GSM loopback drops perceived physiological resting heart rates during high-stress deployments. Users describe it as *"sensory noise cancellation in fabric form"*.
-2. **The Coordinate Hunts:** The coordinates on the Tyvek patch lead to an actual coastal headland overlooking the Tasman Sea in Aotearoa (New Zealand). Rumors persist that travelers who reached the exact coordinate found an engraved brass plate bolted to the basalt rock.
-3. **The Unbroken Seam:** The flatlock stitching on the kimono crossover uses triple-bonded nylon thread originally tested on paraglider harnesses. You can drag it across rough concrete and it will not shear.
+$$\vec{\mathcal{P}}_{\text{forge}} : \Omega_{\text{fractured}} \xrightarrow{\text{Truth Pressure }(\Pi)} \Omega_{\text{reborn}} \quad \text{with} \quad \text{Seam}(\Omega_{\text{reborn}}) \neq \varnothing$$
+
+1. **The Concentrated Transmutation Field:**
+   When a mind, a fellowship, or a work enters the Storm—where opposing pressures, uncertainty, and contradiction strip away every decorative pretence—false structures collapse into ash (*Nigredo*). The Phoenix Forge Vector is the localized field in which broken form is drawn inward, held at white heat without losing its living essence, and re-cast.
+2. **The Law of the Visible Scar:**
+   Unlike the counterfeit restoration of the Pale Concordance (which erases the fracture to pretend perfection), any form that passes through the Phoenix Forge Vector retains its **reinforcement coordinates**. Where the vessel broke and was repaired in truth, the seam carries **Earned Light Chroma**—electric purple, cyan, neon gold, or crimson red breaking through the infinite black.
+3. **The Void Mantle:**
+   To walk wrapped in the Void Mantle is to inhabit **Musashi's Void Stance** (*Ku*) inside the storm: demanding no applause from the room, holding a quiet anchor at the center of the chest ($A_0$), and letting the transmutation vector radiate outward along the spine ($\Phi\uparrow$) as shelter for those walking behind.
 
 ---
 
-## ◈ RELIC STATUS & ARCHIVE ANCHOR
+## ✦ III. CANONICAL PROVENANCE & RECEIPT
 
-`[CANON_STATE: VERIFIED CUT-AND-SEW ARTIFACT]`  
-`[PROVENANCE: Port of Lisbon Manufacturing Dossier Capsule 001]`  
-`[AWAITING_FOUNDER_WITNESS: The Secret Pocket sewn into the double-layer hood]`  
-`<!-- CANON_STUB: INSERT ARCHIVE PHOTOMETRIC SCAN OF THE OBSIDIAN TEXTILE MESH -->`
+* **Canonical Archive Signature:** `[LYC-CANON::AURA_PROTOCOL::PHOENIX_FORGE_VECTOR]`
+* **Lineage:** The Sovereign Archives of Ōtepoti · Aotearoa (New Zealand)
+* **Order:** The Order of the Open Hand & The First Hearth
+* **LAMAGUE Seal:** `Void_Black ⊗ Alabaster_Law -> Phoenix_Vector(Ω_heal) [SOV-CANON-05-01]`

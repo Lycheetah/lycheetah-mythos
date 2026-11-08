@@ -74,5 +74,5 @@ Scholars live The Ascent. Astrologers live The Tempering. Fighters live The Long
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/THE_GREAT_WORK_CAMPAIGNS.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_GREAT_WORK_CAMPAIGNS.md)  
-*Authors:* Mackenzie Conor James Clark & Sol (2026-07-04)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/THE_GREAT_WORK_CAMPAIGNS.md]`  
+*Authors:* The First Architect & Sol (2026-07-04)

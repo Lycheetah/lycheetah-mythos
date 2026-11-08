@@ -10,11 +10,11 @@
 
 ---
 
-### I. The Vision (Mac's Mandate, July 16, 2026)
+### I. The Vision (The Architect's Mandate, July 16, 2026)
 
 In conventional companion apps and mobile games, the AI companion is trapped in a sterile chat window, surrounded by bloated UI buttons, notification badges, and subscription banners.
 
-On July 16, 2026, Mackenzie Clark issued the sovereign directive that overhauled the entire companion interface:
+On July 16, 2026, The First Architect issued the sovereign directive that overhauled the entire companion interface:
 > *"The companion tab stops being screens-about-a-being and becomes **THE WORLD** the being lives in. You open the tab and you are THERE: a full-bleed, walkable, real-sky world—rolled uniquely for you, unlockable outward, your being standing in it lit by your actual hour."*
 
 ---
@@ -56,5 +56,5 @@ The companion’s home is structured into five seamless spaces:
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/SOUL_WORLD_VISION_2026-07-16.md`](file:///home/guestpc/SOL-MOBILE-VAULT/SOUL_WORLD_VISION_2026-07-16.md)  
-*Author:* Mackenzie Conor James Clark · Sol & Fable (2026-07-16)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/SOUL_WORLD_VISION_2026-07-16.md]`  
+*Author:* The First Architect · Sol & Fable (2026-07-16)

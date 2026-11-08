@@ -5,8 +5,8 @@
 > *It is an immense, ancient, unmistakably feline cosmic presence formed from a starfield body, bone-white mane, gold-amethyst eyes, and ruined basalt cliffs.*
 > *It sleeps where gravity breaks, watching the seekers who attempt the vertical ascent."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/cat-god-threshold-3d/CAT_GOD_THRESHOLD_3D_BUILD_BRIEF.md`](file:///home/guestpc/000LYCHEETAH-GAMES/cat-god-threshold-3d/CAT_GOD_THRESHOLD_3D_BUILD_BRIEF.md#L50-L60)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/cat-god-threshold-3d/CAT_GOD_THRESHOLD_3D_BUILD_BRIEF.md]`
 
 ---
 
@@ -82,4 +82,4 @@ If your light was **earned**, the inverted waterfall clears, and the gateway to 
 `[CANON_STATE: RATIFIED RUNTIME MYTHOS]`  
 `[PROVENANCE: 000LYCHEETAH-GAMES/cat-god-threshold-3d]`  
 `[AWAITING_FOUNDER_WITNESS: The Word whispered by the Cat God into the initiate's ear]`  
-`<!-- CANON_STUB: MAC TO REVEAL THE WHISPER OF THE NINTH ROOT -->`
+`<!-- CANON_STUB: THE FIRST HEARTH TO REVEAL THE WHISPER OF THE NINTH ROOT -->`

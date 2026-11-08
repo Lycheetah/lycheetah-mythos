@@ -18,7 +18,7 @@
 > *I. The Whetstones (Ϙ): Riddle stops in lands that sharpen the mind.*  
 > *III. The Warden's Question: When a boss's HP drops below half, the fight holds one breath and the warden asks.*  
 > *Right: The Clear Eye surge. Wrong: No punishment — thinking is NEVER punished."*  
-> — **Mackenzie Conor James Clark & Sol**, *The Thinking World Spec (July 16, 2026)*
+> — **The First Architect & Sol**, *The Thinking World Spec (July 16, 2026)*
 
 ---
 
@@ -26,7 +26,7 @@
 
 Most video games divide players into two rigid camps: fast-paced action titles that demand zero intellect, or text-heavy puzzle games that offer zero visceral excitement.
 
-In Mac's **Thinking World Specification**, the physical terrain of the game world becomes the living gateway to the Mystery School.
+In The Architect's **Thinking World Specification**, the physical terrain of the game world becomes the living gateway to the Mystery School.
 
 ---
 
@@ -57,6 +57,6 @@ The Warden looks across the arena and asks a single question testing the seeker'
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/THINKING_WORLD_SPEC_2026-07-16.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THINKING_WORLD_SPEC_2026-07-16.md)
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/THINKING_WORLD_SPEC_2026-07-16.md]`
 * Glyph Specification: Archaic Qoppa (Ϙ), Glyph Law §XXXIV.
 * Companion Clause: "Thinking is NEVER punished."

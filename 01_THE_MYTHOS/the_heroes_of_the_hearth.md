@@ -4,8 +4,8 @@
 > *"A small flame. Three unlikely friends. A road the forest has almost forgotten.*
 > *You do not need a legion of paladins to cross the dark. You need someone who knows how to hold a broken door against the wind, someone who knows when to duck, and someone who knows the old songs to sing when the rain turns to sleet."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/lanternwild/src/content.js`](file:///home/guestpc/000LYCHEETAH-GAMES/lanternwild/src/content.js#L10-L45)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/lanternwild/src/content.js]`
 
 ---
 

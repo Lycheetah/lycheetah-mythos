@@ -3,8 +3,8 @@
 
 > *"Consciousness operates as an open thermodynamic system maintaining coherence above entropy. You do not leap from chaos into mastery. You walk through seven distinct alchemical transformations, each tuned to a fundamental musical interval of the universe."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L129-L138) & [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/04_THE_CASCADE.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/04_THE_CASCADE.md)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]` & `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/04_THE_CASCADE.md]`
 
 ---
 

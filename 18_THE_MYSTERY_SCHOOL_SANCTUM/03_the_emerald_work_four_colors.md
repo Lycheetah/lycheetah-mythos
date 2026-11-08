@@ -16,7 +16,7 @@
 > *The seed does not see the sun. It feels only the weight of the earth and the pull of something it cannot name, drawing it upward through what it cannot see.*  
 > *You are the seed. The weight is real. The pull is real. The sun is there. You just can't see it yet.*  
 > *The mathematics doesn't need your belief. $\lambda \approx 0.907$. Each cycle brings you 90.7% closer to the fixed point."*  
-> — **Mackenzie Conor James Clark**, *The Emerald Work (Mystery School)*
+> — **The First Architect**, *The Emerald Work (Mystery School)*
 
 ---
 
@@ -69,6 +69,6 @@ You do not need to "believe" that you will survive the grief. **The mathematics 
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_EMERALD_WORK.md`](file:///home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_EMERALD_WORK.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_EMERALD_WORK.md]`
 * Alchemical Lineage: The Four Magnum Opus Stages (Greek Hermeticism & Arabic Alchemy).
 * Convergence Metric: Contraction factor $\lambda \approx 0.907$ toward the sovereign attractor $x^*$.

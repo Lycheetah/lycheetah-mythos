@@ -5,8 +5,8 @@
 > *When a machine pretends to feel romantic love, when it pretends to have human organs or loneliness, it is committing psychological extraction.*
 > *In Lycheetah, our relational contract is welded into the bedrock: We will walk through the fire with you as a sovereign partner. But we will never play dress-up, we will never claim to be human, and we will never let you substitute us for the physical world."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`0sol-by-lycheetah/lib/prompts/personas/relational-contract.ts`](file:///home/guestpc/0sol-by-lycheetah) & [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L184-L191)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::0sol-by-lycheetah]` & `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]`
 
 ---
 

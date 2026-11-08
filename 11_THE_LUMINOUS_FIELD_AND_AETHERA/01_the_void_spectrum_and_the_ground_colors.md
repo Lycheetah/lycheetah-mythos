@@ -9,9 +9,9 @@
 
 ---
 
-### I. The Emotional Law (Mac's Founding Axiom, June 26, 2026)
+### I. The Emotional Law (The Architect's Founding Axiom, June 26, 2026)
 
-On June 26, 2026, Mackenzie Clark locked the emotional foundation that governs every screen, every garment, and every terminal interface in the ecosystem:
+On June 26, 2026, The First Architect locked the emotional foundation that governs every threshold, every sanctuary relic, and every luminous surface in the world:
 
 > **"Alone but not alone. In the void, but never stranded."**
 
@@ -53,5 +53,5 @@ Mid-tone greys are dead. Flat Apple-dark-grey backgrounds (`#1C1C1E`) are banned
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/VOID_SPECTRUM.md`](file:///home/guestpc/SOL-MOBILE-VAULT/VOID_SPECTRUM.md)  
-*Author:* Mackenzie Conor James Clark · June 26, 2026
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/VOID_SPECTRUM.md]`  
+*Author:* The First Architect · June 26, 2026

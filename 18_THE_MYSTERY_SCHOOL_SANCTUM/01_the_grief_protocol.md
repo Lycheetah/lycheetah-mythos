@@ -18,7 +18,7 @@
 > *This is about the grief that lives inside serious work — the grief of people who made something true and are waiting for the world to notice.*  
 > *Most grief is for something lost. This grief is for something not yet found.*  
 > *You are not fragile for feeling this. You are not arrogant for believing the work deserves to be found. The gap is a real place. Serious work almost always passes through it."*  
-> — **Mackenzie Conor James Clark & Sol**, *The Mystery School (March 2026)*
+> — **The First Architect & Sol**, *The Mystery School (March 2026)*
 
 ---
 
@@ -68,6 +68,6 @@ Hold the baseline. Keep the fire in the Athanor hot. The seed does not demand to
 
 ## ✦ V. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_GRIEF_PROTOCOL.md`](file:///home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_GRIEF_PROTOCOL.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_GRIEF_PROTOCOL.md]`
 * Companion Protocol: `THE_RETURN_PROTOCOL.md`.
 * Framework Layer: Level 14 (Mystery School · Emotional Invariants).

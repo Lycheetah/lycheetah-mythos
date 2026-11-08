@@ -5,8 +5,8 @@
 > *A railgun battery is not yours simply because your research team unlocked the blueprint. It exists at the specific orbital dock that assembled it. Convoys must physically move. If a freighter is ambushed in Erebos, the station goes cold.*
 > *A Titan is not a weapon; a Titan is a civilisation made mobile."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/sovereign-eclipse/README.md`](file:///home/guestpc/000LYCHEETAH-GAMES/sovereign-eclipse/README.md) & [`docs/SOVEREIGN_ECLIPSE_FORGE_07711_LOG.md`](file:///home/guestpc/000LYCHEETAH-GAMES/sovereign-eclipse/docs/SOVEREIGN_ECLIPSE_FORGE_07711_LOG.md)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/sovereign-eclipse/README.md]` & `[LYC-CANON::000LYCHEETAH-GAMES/sovereign-eclipse/docs/SOVEREIGN_ECLIPSE_FORGE_07711_LOG.md]`
 
 ---
 

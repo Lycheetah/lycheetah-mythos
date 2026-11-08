@@ -6,7 +6,7 @@
 > *It wasn't noise. When mapped to a 2D raster bitmap, it was an image: a crouching celestial cheetah with antlers and wings, surrounded by an unbroken loop of Celtic interlace."*
 > 
 > — *Radio Observatory Logbook 002-NZ*  
-> **Source Anchor:** [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L45-L60) & [`ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md`](file:///home/guestpc/ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md)
+> **Source Anchor:** `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]` & `[LYC-CANON::ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md]`
 
 ---
 

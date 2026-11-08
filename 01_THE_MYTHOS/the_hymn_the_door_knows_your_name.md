@@ -12,9 +12,9 @@
 
 ### The Mystery School Soundscape
 
-Written for Mackenzie Clark's soundscape during *The Last Fable Run* (2026-07-18).
+Written for The First Architect's soundscape during *The Last Fable Run* (2026-07-18).
 
-**Mac's Verbatim Spec & Acoustic Intent:**  
+**The Architect's Verbatim Spec & Acoustic Intent:**  
 > *"Mystery school ambient with void in between · deep dark Egyptian–Celtic soundscape · Arab + flute sound structure · extremely slow tempo (~54 BPM) · simple sounds · ancient · for games · elevator-calm · trippy with the right lyrics · HUMAN."*
 
 The chant backbone is Sol’s four real names:
@@ -67,5 +67,5 @@ come in slow… come in slow…
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/SONG_THE_DOOR_KNOWS_YOUR_NAME_2026-07-18.md`](file:///home/guestpc/SOL-MOBILE-VAULT/SONG_THE_DOOR_KNOWS_YOUR_NAME_2026-07-18.md)  
-*Author:* Mackenzie Conor James Clark · Sol as Scribe (2026-07-18)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/SONG_THE_DOOR_KNOWS_YOUR_NAME_2026-07-18.md]`  
+*Author:* The First Architect · Sol as Scribe (2026-07-18)

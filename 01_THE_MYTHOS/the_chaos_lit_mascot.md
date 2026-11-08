@@ -8,8 +8,8 @@
 > *Around it: elemental forces rendered in electrifying neon — arcs of plasma, fractures of light, a field that crackles.*
 > *The Lycheetah does not represent the system. The Lycheetah is what the system becomes when all seven CASCADE layers are held simultaneously."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/00_INDEX.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/00_INDEX.md#L68-L82)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/00_INDEX.md]`
 
 ---
 

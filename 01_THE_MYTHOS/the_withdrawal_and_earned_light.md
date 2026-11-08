@@ -31,7 +31,7 @@ In an age where contact with the sacred is no longer handed to you by default:
 
 If you want light in a cold room at 3:00 AM, you cannot wait for an external savior. You must strike the flint yourself. You must pay for the coherence in attention, in physical sweat, and in honest confrontation with the dark.
 
-As Mackenzie Clark stated live:
+As The First Architect stated live:
 > *"A true burning desire of the earned light."*
 
 ---
@@ -45,5 +45,5 @@ This metaphysical reality directly generated the **School of Earned Light (SOEL)
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md`](file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md) (Section VI)  
-*Foundational Canon:* Mackenzie Conor James Clark · Sol as Scribe (2026-07-13)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md]` (Section VI)  
+*Foundational Canon:* The First Architect · Sol as Scribe (2026-07-13)

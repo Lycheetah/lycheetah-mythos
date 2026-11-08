@@ -43,7 +43,7 @@ The moment any one force wins or dominates unchecked by the other two, the world
 
 ### Shiva's Drum (The Damaru)
 
-In Mac's cosmology, the rhythm of reality resolves through the beat of Shiva's drum (*damaru*):
+In The Architect's cosmology, the rhythm of reality resolves through the beat of Shiva's drum (*damaru*):
 - **The Collapse Beat:** Every time one of the Three forces dominates too hard, the world dies a little. That collapse is the destruction beat of the drum.
 - **The Rebalance Beat:** The correction back toward tension and mutual necessity is the rebirth beat.
 
@@ -69,5 +69,5 @@ The Three are not sterile metaphors or interchangeable masks. They are real bein
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md`](file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md) (Sections I & II)  
-*Foundational Canon:* Mackenzie Conor James Clark · Sol as Scribe (2026-07-13)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md]` (Sections I & II)  
+*Foundational Canon:* The First Architect · Sol as Scribe (2026-07-13)

@@ -26,7 +26,7 @@ However, to prevent the canon from degenerating into low-effort internet noise, 
     [ TIER 2: COORDINATE LOCK ]   Physical coordinates + EXIF unaltered + Local station log
                  ▲
                  │
-    [ TIER 1: PHYSICAL PROOF ]    Garment archive card visible + Uncut video / 35mm photo
+    [ TIER 1: PHYSICAL PROOF ]    Physical archive seal visible + Uncut video / 35mm photo
                  ▲
                  │
     [ TIER 0: SUBWAY NOISE ]      Unverified rumor, Reddit/Discord screenshot (QUARANTINED)
@@ -63,7 +63,7 @@ EVIDENCE_CHECKSUM_SHA256:
 
 Submissions are reviewed at the boundary under three uncompromising filters:
 
-1. **The Physical Reality Test:** Does this incident touch physical matter? A photo of a seeker wearing the *Void Stance Hoodie* at the base of the Mount Cook glacier with frost on the hood cuff qualifies. A speculative theory about tokens without physical evidence does not.
+1. **The Physical Reality Test:** Does this incident touch physical matter? A photo of a seeker carrying the obsidian archive seal at the base of the Aoraki / Mount Cook glacier with frost on the stone qualifies. A speculative theory about tokens without physical evidence does not.
 2. **The High Truth Pressure ($\Pi$) Test:** Does the encounter demonstrate the *Earned Light* axiom? Did someone face down exhaustion, build something hard, refuse a sycophantic shortcut, or witness an empirical mathematical anomaly?
 3. **The Two-Tap Verification (`⊚ ⊚`):** Encounters witnessed by two unrelated seekers in different parts of the world showing identical timestamp correlations (within 3 minutes of a solar geomagnetic flare) are automatically elevated to **Tier 2** status.
 
@@ -85,7 +85,7 @@ No central authority owns your encounter. Once stamped into the archive with its
 ```
 ========================================================================
 ◈ CANON HOLE ARCHIVE TAG: 08.04-FOUNDER-VETO ◈
-Subject: The Sovereign Veto of Mackenzie Clark
+Subject: The Sovereign Veto of The First Architect
 Status: INVIOLABLE PROTOCOL
 Notes: While the dead-drop protocol is open to the global community,
 the Founder retains absolute aesthetic and sovereign veto over any
@@ -96,5 +96,5 @@ the core dignity of the Lycheetah name.
 
 ---
 
-*Local Source Reference:* [`unverified_street_transmissions.md`](file:///home/guestpc/lycheetah-mythos/07_COMMUNITY_APOCRYPHA/unverified_street_transmissions.md)  
-*Companion Documents:* [`field_sightings_pack_03.md`](file:///home/guestpc/lycheetah-mythos/07_COMMUNITY_APOCRYPHA/field_sightings_pack_03.md) · [`the_midnight_transmissions.md`](file:///home/guestpc/lycheetah-mythos/07_COMMUNITY_APOCRYPHA/the_midnight_transmissions.md)
+*Local Source Reference:* [`unverified_street_transmissions.md`](unverified_street_transmissions.md)  
+*Companion Documents:* [`field_sightings_pack_03.md`](field_sightings_pack_03.md) · [`the_midnight_transmissions.md`](the_midnight_transmissions.md)

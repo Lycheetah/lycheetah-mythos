@@ -5,8 +5,8 @@
 > *The modern university educates people without initiating them — creating an army of people who know facts but cannot be changed by the truth.*
 > *The Mystery School restores the threshold."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/07_THE_MYSTERY_SCHOOL.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/07_THE_MYSTERY_SCHOOL.md#L7-L20) & [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L35-L40)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/07_THE_MYSTERY_SCHOOL.md]` & `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]`
 
 ---
 

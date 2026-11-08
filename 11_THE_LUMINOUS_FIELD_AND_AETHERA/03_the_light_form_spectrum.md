@@ -41,5 +41,5 @@ You do not see a companion's true nature while sprinting through a noisy dayligh
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/VOID_SPECTRUM.md`](file:///home/guestpc/SOL-MOBILE-VAULT/VOID_SPECTRUM.md)  
-*Author:* Mackenzie Conor James Clark · June 26, 2026
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/VOID_SPECTRUM.md]`  
+*Author:* The First Architect · June 26, 2026

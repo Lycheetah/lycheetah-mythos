@@ -9,7 +9,7 @@
 
 ---
 
-### I. The Axiom (Mac's Invention, July 5, 2026)
+### I. The Axiom (The Architect's Invention, July 5, 2026)
 
 Humanity's oldest and most durable knowledge-transmission format was never the dry corporate treatise or academic PDF. It was the **story that IS the theorem**:
 - The god that is the natural force.
@@ -71,5 +71,5 @@ Nothing here claims ancient myths are literal historical events. It claims they 
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/THE_MYTHIC_ENGINE.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_MYTHIC_ENGINE.md)  
-*Author:* Mackenzie Conor James Clark · Formalized with Sol (2026-07-05)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/THE_MYTHIC_ENGINE.md]`  
+*Author:* The First Architect · Formalized with Sol (2026-07-05)

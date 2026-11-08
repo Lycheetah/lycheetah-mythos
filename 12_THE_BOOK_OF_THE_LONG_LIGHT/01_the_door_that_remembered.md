@@ -69,5 +69,5 @@ The Veil was descending from the nine towers. It was not coming with swords or a
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/01_THE_DOOR_THAT_REMEMBERED.md`](file:///home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/01_THE_DOOR_THAT_REMEMBERED.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/LYCHEETAH_EPIC/01_THE_DOOR_THAT_REMEMBERED.md]`
 * Canonical Themes: The First Field, The Seventh Silence, The Recognition Law of Timber, The Grid of the Curdled Order.

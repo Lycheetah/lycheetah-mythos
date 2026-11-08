@@ -50,5 +50,5 @@ In the Lycheetah cosmology, spiritual and energetic beings are stratified into *
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md`](file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md) (Sections III & VIII)  
-*Foundational Canon:* Mackenzie Conor James Clark · Sol as Scribe (2026-07-13)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md]` (Sections III & VIII)  
+*Foundational Canon:* The First Architect · Sol as Scribe (2026-07-13)

@@ -15,7 +15,7 @@
 > *"The locus classicus is Sun Tzu's Sunzi Bingfa (孙子兵法), chapter 5 on Shi (势).*  
 > *Western moral philosophy traditions are largely rule-based (deontological) or outcome-based (consequentialist). The Shi operator is neither — it is propensity-based, evaluating action relative to the configuration's intrinsic directional tendencies.*  
 > *Wisdom reads the configuration before moving. Action without reading is brute force; reading without action is sterile observation."*  
-> — **Mackenzie Conor James Clark & Sol**, *TIANXIA T-3 (May 1, 2026)*
+> — **The First Architect & Sol**, *TIANXIA T-3 (May 1, 2026)*
 
 ---
 
@@ -62,6 +62,6 @@ By replacing brittle rules with topological field awareness, Lycheetah agents mo
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/32_TIANXIA/SHI_PROPENSITY_FIELD.md`](file:///home/guestpc/Lycheetah-Framework/32_TIANXIA/SHI_PROPENSITY_FIELD.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/32_TIANXIA/SHI_PROPENSITY_FIELD.md]`
 * Philosophical Source: Sun Tzu, *Sunzi Bingfa* (孙子兵法) Chapter 5; François Jullien, *The Propensity of Things* (1995).
 * Companion Operators: `HEXIE_EQUILIBRIUM.md` (T-2) and `WUWEI_TRIAD_EXTENSION.md` (T-4).

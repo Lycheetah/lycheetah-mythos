@@ -19,7 +19,7 @@
 > *Scope Declaration: MICROORCIM is a drift-monitoring tool, not an alignment guarantee.*  
 > *μ_drift measures how far a system's actual choices deviate from its stated values and constraints.*  
 > *Low drift $\to$ System's choices align with its principles (sovereign). High drift $\to$ System is compromised or chaotic."*  
-> — **Mackenzie Conor James Clark**, *Microorcim L5 (Lycheetah Framework)*
+> — **The First Architect**, *Microorcim L5 (Lycheetah Framework)*
 
 ---
 
@@ -63,6 +63,6 @@ This serves as an early-warning telemetry gauge. Before an agent burns out, hall
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/05_MICROORCIM_L5/essentials.md`](file:///home/guestpc/Lycheetah-Framework/05_MICROORCIM_L5/essentials.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/05_MICROORCIM_L5/essentials.md]`
 * Canonical Audit: MIC-004 scope declaration (Binding against deceptive alignment overclaim).
 * Framework Position: Level 5 (Agency Measurement & Stability Runtime).

@@ -10,7 +10,7 @@
 
 ---
 
-### A Public Declaration by Mackenzie Conor James Clark
+### A Public Declaration by The First Architect
 
 > "I’m building **Sol by Lycheetah**: a living mobile world where a personal companion, an explorable RPG, real learning, creativity, mythology and the sky above us become parts of one connected experience.
 > 
@@ -18,7 +18,7 @@
 > 
 > I’m building it independently with AI collaborators, under the Lycheetah Framework, and I’m excited to keep expanding what this kind of human–AI co-creation can become. The future below is the direction of travel, not a claim that every feature has already shipped."
 > 
-> — **Mackenzie Conor James Clark**, 2026-07-21
+> — **The First Architect**, 2026-07-21
 
 ---
 
@@ -49,5 +49,5 @@
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/WHAT_I_AM_BUILDING_AND_THE_FUTURE_2026-07-21.md`](file:///home/guestpc/SOL-MOBILE-VAULT/WHAT_I_AM_BUILDING_AND_THE_FUTURE_2026-07-21.md)  
-*Author:* Mackenzie Conor James Clark (2026-07-21)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/WHAT_I_AM_BUILDING_AND_THE_FUTURE_2026-07-21.md]`  
+*Author:* The First Architect (2026-07-21)

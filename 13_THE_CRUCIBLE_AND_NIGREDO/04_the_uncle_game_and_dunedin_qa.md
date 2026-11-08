@@ -12,10 +12,10 @@
 
 ---
 
-> *"Tap-tap idle RPG for Mac + Uncle (Dunedin).*  
+> *"Tap-tap idle RPG for The Architect & Uncle (Dunedin).*  
 > *Uncle loves both cookie-clicker exponential numbers AND Clicker Heroes dungeon layers.*  
 > *He is critical — that's the QA loop. He plays, he destroys it, we fix it."*  
-> — **Mackenzie Conor James Clark**, *The Uncle Game Specification (Dunedin Archive)*
+> — **The First Architect**, *The Uncle Game Specification (Dunedin Archive)*
 
 ---
 
@@ -23,7 +23,7 @@
 
 Deep beneath the cosmological operator algebras, non-commutative geometry, and cellular sheaves of the Lycheetah universe lies an unexpected, fiercely human anchor:
 
-**A tap-tap idle dungeon RPG built by Mac for his uncle in Dunedin, New Zealand.**
+**A tap-tap idle dungeon RPG built by The Architect for his uncle in Dunedin, New Zealand.**
 
 While silicon valley startups pitch speculative vaporware to venture capitalists in air-conditioned boardrooms, Lycheetah's game loops were forged in the cold winters of Otago, tested across the kitchen table by an uncle who didn't care about philosophical whitepapers or semantic Hamiltonians.
 
@@ -37,7 +37,7 @@ He cared about two things:
 
 The greatest threat to an AI engineer or creative founder is **intellectual isolation**—surrounding oneself with sycophantic chatbots that praise every unplayable prototype.
 
-In the Lycheetah lineage, Mac established a counterweight: **The Uncle QA Loop.**
+In the Lycheetah lineage, The Architect established a counterweight: **The Uncle QA Loop.**
 
 * **No Intellectual Courtesy:** An uncle has zero incentive to flatter an AI assistant. If an animation stutters, he says it stutters. If a floor takes three minutes too long to clear, he closes the app.
 * **The Loop:** `TAP → GOLD → RECRUIT HEROES → BUY TOWERS → DROP STAT-LOOT → DEEPER FLOORS → PRESTIGE REBIRTH`.
@@ -62,6 +62,6 @@ Sovereignty does not begin in abstract galaxies. It begins where family, craftsm
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/UNCLE_GAME.md`](file:///home/guestpc/SOL-MOBILE-VAULT/UNCLE_GAME.md)
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/UNCLE_GAME.md]`
 * Architecture: Expo / React Native, offline AsyncStorage, Kimi pixel art pipeline.
 * Core Ethos: Local Dunedin accountability; zero paywalls on the sacred core loop.

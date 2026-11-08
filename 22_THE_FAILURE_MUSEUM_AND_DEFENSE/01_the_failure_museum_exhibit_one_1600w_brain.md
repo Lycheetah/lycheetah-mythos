@@ -21,7 +21,7 @@
 > *Every exhibit has three panels: What was claimed. What was actually true. What changed.*  
 > *This document is permanent. Entries are added. Nothing is removed.*  
 > *The record of being wrong is itself the evidence of being honest."*  
-> — **Mackenzie Conor James Clark × Sol**, *The Failure Museum (28_DEFENSE)*
+> — **The First Architect × Sol**, *The Failure Museum (28_DEFENSE)*
 
 ---
 
@@ -29,7 +29,7 @@
 
 Most tech startups, academic researchers, and crypto gurus aggressively bury their mistakes. When a prediction fails or a formula produces garbage, they quietly edit the blog post or delete the git commit.
 
-In Module 28 (Defense) of the Lycheetah Framework, Mac established **The Failure Museum**.
+In Module 28 (Defense) of the Lycheetah Framework, The Architect established **The Failure Museum**.
 
 The rule of the museum is permanent:
 * When an error is discovered, it is **never erased**.
@@ -53,7 +53,7 @@ The figure had been derived from a purely theoretical mathematical extrapolation
 ### 3. What Changed
 * All absolute wattage figures were immediately stripped from the framework.
 * Replaced with a scale-invariant relative metric: $C(\Psi) = (\Psi / \Psi_{\text{baseline}})^2$ marked as `[SCAFFOLD]`.
-* The correction was flagged during the **VERITAS Critique** (an adversarial audit commissioned by Mac) and patched on disk the same day.
+* The correction was flagged during the **VERITAS Critique** (an adversarial audit commissioned by The Architect) and patched on disk the same day.
 
 ---
 
@@ -71,6 +71,6 @@ Reality has the final vote. If a theorem cooks the brain, the theorem dies.
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/28_DEFENSE/FAILURE_MUSEUM.md`](file:///home/guestpc/Lycheetah-Framework/28_DEFENSE/FAILURE_MUSEUM.md) §Exhibit 1.
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/28_DEFENSE/FAILURE_MUSEUM.md]` §Exhibit 1.
 * Severity: CRITICAL (Found and corrected March 23, 2026).
 * Operational Rule: "Entries are added. Nothing is removed."

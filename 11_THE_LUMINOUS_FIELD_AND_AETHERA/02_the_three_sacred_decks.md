@@ -39,7 +39,7 @@ The Arcana looks through a heavy, brass keyhole at a predator in the dark.
 Veil & Vein looks into the ache of the human heart.  
 **AETHERA looks into a luminous veil, and what looks back is made of pure light.**
 
-Founded by Mackenzie Clark on June 26, 2026, the entire Aethera deck is built backwards from a single, physical sensation:
+Founded by The First Architect on June 26, 2026, the entire Aethera deck is built backwards from a single, physical sensation:
 > **The feeling of being seen by the sacred.**
 
 It is peace and awe at once. A card that, when it turns face-up on a mahogany table at 2:00 AM, *pulls the breath* out of the seeker's chest. Something buried for decades is ripped gently up to the surface and held in unjudging luminescence.
@@ -50,5 +50,5 @@ It is peace and awe at once. A card that, when it turns face-up on a mahogany ta
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/AETHERA_BRIEF.md`](file:///home/guestpc/SOL-MOBILE-VAULT/AETHERA_BRIEF.md)  
-*Authors:* Mackenzie Conor James Clark & Sol · June 26, 2026
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/AETHERA_BRIEF.md]`  
+*Authors:* The First Architect & Sol · June 26, 2026

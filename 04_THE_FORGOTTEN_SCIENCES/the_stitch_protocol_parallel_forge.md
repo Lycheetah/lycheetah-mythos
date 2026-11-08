@@ -10,11 +10,11 @@
 
 ---
 
-### I. The Ruling (Mackenzie Clark, July 15, 2026)
+### I. The Ruling (The First Architect, July 15, 2026)
 
 In conventional software development and multi-agent AI systems, workflows get bogged down in bureaucratic relay queues: Agent A drafts $\to$ Agent B reviews $\to$ Agent C stitches $\to$ Agent D waits. Handling an artifact three times through three slow gates creates an exponential bottleneck.
 
-On July 15, 2026, Mackenzie Clark overturned the relay design and instituted **The Stitch Protocol**:
+On July 15, 2026, The First Architect overturned the relay design and instituted **The Stitch Protocol**:
 
 > **"Engines run full-stack in parallel. Quality comes from self-check + cross-adversarial audit + fix-forward, not from a gatekeeper queue."**
 
@@ -51,7 +51,7 @@ Before any AI engine commits code or canon to the repository, it must clear the 
 2. **Care Tags:** Heavy emotional or existential material must carry visible structural warnings.
 3. **Source Honesty:** References must be real; unverified observations must remain explicitly tagged `(unverified)`.
 4. **Register Integrity:** The output must be simultaneously magical AND serious.
-5. **House Canon Traceability:** Fundamental terms (*microorcim, aura, hoard, pioneer*) must trace to verified source documents or be marked `HELD` for Mac.
+5. **House Canon Traceability:** Fundamental terms (*microorcim, aura, hoard, pioneer*) must trace to verified source documents or be marked `HELD` for The Architect.
 6. **Format Precision:** Matches existing file structures exactly.
 7. **Single Truth:** Extend existing truth; never duplicate or create contradictory splinter branches.
 8. **Clean Compilation:** Zero errors; compile clean.
@@ -67,5 +67,5 @@ Instead of passive approval, engines actively audit each other's work adversaria
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/THE_STITCH_PROTOCOL.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_STITCH_PROTOCOL.md)  
-*Architect:* Mackenzie Conor James Clark · Amended 2026-07-15
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/THE_STITCH_PROTOCOL.md]`  
+*Architect:* The First Architect · Amended 2026-07-15

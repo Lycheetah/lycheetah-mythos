@@ -5,8 +5,8 @@
 > *The myth of the lone genius is a lie told by people who never had to hold an iron door against an oncoming storm.*
 > *In the Lanternwild, when the night falls, we do not scatter into individual tents. We gather at the Common Hearth, we share the broth, and we swear that if one of us falls in the brush, the rest of the company does not take another step forward until they are brought home."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/lanternwild/src/content.js`](file:///home/guestpc/000LYCHEETAH-GAMES/lanternwild/src/content.js#L15-L42) & [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/11_THE_SEEKERS.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/11_THE_SEEKERS.md)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/lanternwild/src/content.js]` & `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/11_THE_SEEKERS.md]`
 
 ---
 

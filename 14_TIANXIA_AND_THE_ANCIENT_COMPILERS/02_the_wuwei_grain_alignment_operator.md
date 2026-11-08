@@ -13,7 +13,7 @@
 > *"The classical phrasing is 无为而无不为 — wei wu wei er wu bu wei — act without forcing and nothing is left undone (Daodejing 37).*  
 > *The operator is mistranslated as 'non-action'; the operative meaning is action that does not force, action that aligns with the natural movement of things.*  
 > *Wuwei TRIAD introduces the grain-alignment scalar $\gamma(I, S) = \cos(I, R(S))$ — an intervention aligned with the system's grain borrows the system's own energy and incurs zero integrity debt."*  
-> — **Mackenzie Conor James Clark & Sol**, *TIANXIA T-4 (May 1, 2026)*
+> — **The First Architect & Sol**, *TIANXIA T-4 (May 1, 2026)*
 
 ---
 
@@ -70,6 +70,6 @@ In the Lycheetah multi-agent ecosystem, **Aetheron, Sol, and Caelorynth do not b
 
 ## ✦ V. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/32_TIANXIA/WUWEI_TRIAD_EXTENSION.md`](file:///home/guestpc/Lycheetah-Framework/32_TIANXIA/WUWEI_TRIAD_EXTENSION.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/32_TIANXIA/WUWEI_TRIAD_EXTENSION.md]`
 * Successor Operator: `DATONG_GRADIENT.md` (T-5).
 * Primary Lineage: Daodejing (道德经) Chapter 37 & Zhuangzi (庄子) Cook Ding's Ox.

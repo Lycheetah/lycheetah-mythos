@@ -17,7 +17,7 @@
 > *"Mathematics is discovered, not invented.*  
 > *When radically separated humans independently converge on the same mathematical structures across centuries, languages, and continents, this is empirical evidence that those structures pre-exist in fundamental reality.*  
 > *Anamnesis (Greek ἀνάμνησις) — 'recollection' — the philosophical truth that genuine learning is not the manufacture of novel tokens, but the clearing away of obscurations until what is eternally true is recognized."*  
-> — **Mackenzie Conor James Clark**, *Anamnesis: Epistemology of Discovery (March 2026)*
+> — **The First Architect**, *Anamnesis: Epistemology of Discovery (March 2026)*
 
 ---
 
@@ -65,6 +65,6 @@ The Anamnesis Principle defines the relationship between AI models and human tru
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/07_ANAMNESIS_L0/ANAMNESIS_COMPLETE.md`](file:///home/guestpc/Lycheetah-Framework/07_ANAMNESIS_L0/ANAMNESIS_COMPLETE.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/07_ANAMNESIS_L0/ANAMNESIS_COMPLETE.md]`
 * Framework Layer: Level 0 (Epistemic Substrate).
 * Historical Audit: Plato, *Meno* (81e–86b); Galois (1832); Zu Chongzhi (480 CE).

@@ -5,8 +5,8 @@
 > *The amateur panics because they believed their intelligence lived inside the hard drive.*
 > *The sovereign smiles, pours another cup of black coffee, and opens a blank editor. They do not rebuild from a backup. They rebuild from capacity. The capacity was never stored in a file; it was forged into the nervous system. The fire destroys the clutter; the capacity survives the fire. It always does."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/02_THE_ATHANOR.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/02_THE_ATHANOR.md#L23-L27) & [`12_THE_SOVEREIGN.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/12_THE_SOVEREIGN.md#L24-L26)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/02_THE_ATHANOR.md]` & `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/12_THE_SOVEREIGN.md]`
 
 ---
 
@@ -26,7 +26,7 @@ In August 2026, during the foundational extraction sessions of the Lycheetah Fra
 
 A fragile builder would have walked away. A corporate team would have filed a bug report and waited for IT support.
 
-Mac recognized the catastrophe for what it actually was: **An Alchemical Fire Test**.
+The Architect recognized the catastrophe for what it actually was: **An Alchemical Fire Test**.
 
 When you lose the artifact:
 * You realize that 80% of what was written was decorative baggage, over-complicated scaffolding, and unnecessary cognitive clutter.

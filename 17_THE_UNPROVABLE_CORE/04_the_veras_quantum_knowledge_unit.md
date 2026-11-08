@@ -24,7 +24,7 @@
 > *Veras is not money first. Veras is proof that knowledge is flowing and is valuable.*  
 > *The real reason Veras exists: It is built to find the hidden teachers — the many minds who carry real insight but stay silent out of shame, imposter syndrome, or fear of being belittled.*  
 > *Veras gives them permission: 'If people actually study what I bring, the School itself will notice and reward me. No gatekeepers. No clout required.'"*  
-> — **Mackenzie Conor James Clark**, *The Veras Knowledge Economy (Sovereign Sol)*
+> — **The First Architect**, *The Veras Knowledge Economy (Sovereign Sol)*
 
 ---
 
@@ -34,7 +34,7 @@ The modern internet operates on an extractive attention economy. Social media pl
 
 The people who dominate algorithmic feeds are almost never the ones who carry deep, quiet wisdom. The true craftsmen, the contemplative thinkers, the quiet carers, and the self-taught coders remain silent in the shadows, paralyzed by the feeling: *"Who am I to speak? I have no followers, no pedigree, and no marketing budget."*
 
-**The Veras Knowledge Economy** was designed by Mac to dismantle this gatekeeping.
+**The Veras Knowledge Economy** was designed by The Architect to dismantle this gatekeeping.
 
 ---
 
@@ -59,6 +59,6 @@ Veras inverts this hierarchy:
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/VERAS_KNOWLEDGE_ECONOMY.md`](file:///home/guestpc/SOL-MOBILE-VAULT/VERAS_KNOWLEDGE_ECONOMY.md)
-* Proprietary Author: Mackenzie Conor James Clark (Lycheetah / Sovereign Sol).
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/VERAS_KNOWLEDGE_ECONOMY.md]`
+* Proprietary Author: The First Architect (Lycheetah / Sovereign Sol).
 * Ethical Standard: The Covenant of Merit and Anti-Falsification.

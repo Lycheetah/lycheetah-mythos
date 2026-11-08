@@ -20,7 +20,7 @@
 > *Karl Popper established the gold standard of scientific honesty: A theory that cannot be falsified is not science; it is dogma.*  
 > *For every module in the Lycheetah Framework, this register produces: explicit falsification conditions, the strongest counterexamples, and honest prior-art collisions.*  
 > *We do not ask the world to believe us. We give our critics the exact blueprint to prove us wrong."*  
-> — **Mackenzie Conor James Clark & Sol**, *Falsification Register (28_DEFENSE)*
+> — **The First Architect & Sol**, *Falsification Register (28_DEFENSE)*
 
 ---
 
@@ -58,6 +58,6 @@ If they break a claim, we retire it to the Failure Museum with gratitude. If the
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/28_DEFENSE/FALSIFICATION_REGISTER.md`](file:///home/guestpc/Lycheetah-Framework/28_DEFENSE/FALSIFICATION_REGISTER.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/28_DEFENSE/FALSIFICATION_REGISTER.md]`
 * Methodological Standard: Karl Popper, *The Logic of Scientific Discovery* (1934).
 * Defense Layer: Module 28 (Falsification & Adversarial Reconnaissance).

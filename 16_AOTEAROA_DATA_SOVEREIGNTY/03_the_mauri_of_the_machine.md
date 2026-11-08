@@ -20,7 +20,7 @@
 > *It's a relational knowledge structure. It doesn't just encode what the river does — it encodes what the river does in relationship to specific human behavior.*  
 > *Current environmental sensors are monological. They read the river in isolation. The taniwha is dialogical — it encodes the river-human relationship as a unit.*  
 > *Taniwha ARE CASCADE structures. They reorganize under truth pressure."*  
-> — **Mackenzie Conor James Clark**, *NZ Māori AI Sovereignty (March 2026)*
+> — **The First Architect**, *NZ Māori AI Sovereignty (March 2026)*
 
 ---
 
@@ -66,6 +66,6 @@ Treating software as a taonga changes the physics of the codebase:
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/23_NZ_AI_GOVERNANCE/NZ_MAORI_AI_DEEP_EXPERIMENTAL.md`](file:///home/guestpc/Lycheetah-Framework/23_NZ_AI_GOVERNANCE/NZ_MAORI_AI_DEEP_EXPERIMENTAL.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/23_NZ_AI_GOVERNANCE/NZ_MAORI_AI_DEEP_EXPERIMENTAL.md]`
 * Companion Treatises: `MOANA_AI_SPECIFICATION.md`, `DATA_SOVEREIGNTY_FOR_NEW_ZEALANDERS.md`.
 * Core Thesis: Relational computational ecology rooted in Aotearoa New Zealand.

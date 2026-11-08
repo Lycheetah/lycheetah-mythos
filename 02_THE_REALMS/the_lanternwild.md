@@ -5,8 +5,8 @@
 > *A small flame. Three unlikely friends. A road the forest has almost forgotten.*
 > *Even ash remembers the fire. Some things grow better in the dark."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/lanternwild/src/content.js`](file:///home/guestpc/000LYCHEETAH-GAMES/lanternwild/src/content.js#L1-L45)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/lanternwild/src/content.js]`
 
 ---
 
@@ -102,4 +102,4 @@ In the Lycheetah universe, you do not build lonely ivory towers. You return to t
 `[CANON_STATE: RATIFIED RUNTIME EXPEDITION]`  
 `[PROVENANCE: 000LYCHEETAH-GAMES/lanternwild]`  
 `[AWAITING_FOUNDER_WITNESS: The Fourth Road that opens only after the Thorn Empress kneels]`  
-`<!-- CANON_STUB: MAC TO RECORD THE LOST OATH OF THE BRIARBOUND EDGE -->`
+`<!-- CANON_STUB: THE FIRST HEARTH TO RECORD THE LOST OATH OF THE BRIARBOUND EDGE -->`

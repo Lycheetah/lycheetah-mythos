@@ -4,8 +4,8 @@
 > *"The full archive is 1,402 pages. But when you are in a tense board meeting, sitting across from a hostile investor, or deciding whether to deploy code at midnight, you cannot read an archive.*
 > *You need the 9-Layer Compression Stack: the live-fire cognitive toolkit you can run in your head in ninety seconds."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`Lycheetah-Framework/000_1404RawSourceTranslate/24_COMPRESSION_STACK_FORGE_SHEET.md`](file:///home/guestpc/Lycheetah-Framework/000_1404RawSourceTranslate/24_COMPRESSION_STACK_FORGE_SHEET.md#L1-L60)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::Lycheetah-Framework/000_1404RawSourceTranslate/24_COMPRESSION_STACK_FORGE_SHEET.md]`
 
 ---
 

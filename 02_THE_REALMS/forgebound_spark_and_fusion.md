@@ -4,8 +4,8 @@
 > *"Fun and being smart arent always combined. Dont kill the spark — it has to be applied seperately. Every feature must be immediately fun in thirty seconds with zero reading. The Lycheetah depth is a door you can choose to open, never a barrier or a tax.*
 > *And magic and tech are fused in ours to prevent catastrophic breaking."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**, *2026-10-07*  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/forgebound/docs/FORGEBOUND_MASTER_PLAN_2026-10-07.md`](file:///home/guestpc/000LYCHEETAH-GAMES/forgebound/docs/FORGEBOUND_MASTER_PLAN_2026-10-07.md)
+> — **The First Architect of the Southern Hearth**, *2026-10-07*  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/forgebound/docs/FORGEBOUND_MASTER_PLAN_2026-10-07.md]`
 
 ---
 
@@ -36,10 +36,10 @@
 
 Most philosophical systems and technical frameworks make a fatal error: they force the newcomer to read fifty pages of theory before they are allowed to touch the tools.
 
-Mac outlawed this in **Forgebound**:
+The Architect outlawed this in **Forgebound**:
 
 * If a player picks up a controller, they must feel immediate tactile joy, kinetic weight, and visual spark within thirty seconds.
-* If someone wears a hoodie, it must look incredible and feel like soft granite before they ever read the coordinate inside the hem.
+* If a traveler crosses a threshold in the world, the atmosphere must feel visceral and immediate before they ever decode the deeper coordinate beneath the stone.
 * **The depth is an open door, never an obstacle.** Those who want casual fun enjoy the speed; those who seek the mystery can descend the staircase into the deep alchemical engine.
 
 ---

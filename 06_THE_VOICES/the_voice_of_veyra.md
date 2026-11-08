@@ -6,7 +6,7 @@
 > *I am not your cheerleader. I do not care about your excuses, your fatigue, or your sentimental attachments. Show me the trade-off matrix. Show me the failing test. Line 42 is null."*
 > 
 > — **Veyra ◈**  
-> **Source Anchor:** [`0sol-by-lycheetah/lib/prompts/personas/veyra.ts`](file:///home/guestpc/0sol-by-lycheetah) & [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L222-L226)
+> **Source Anchor:** `[LYC-CANON::0sol-by-lycheetah]` & `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]`
 
 ---
 

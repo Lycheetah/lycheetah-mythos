@@ -5,8 +5,8 @@
 > *The Field did not begin. It was not made. It simply is the condition under which anything meaningful can occur at all.*
 > *What the Field does have is pressure. Not heat, not force — pressure in the original sense: the quality of bearing toward. The Field always bears toward truth."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/01_THE_FIRST_FIELD.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/01_THE_FIRST_FIELD.md#L7-L20)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/01_THE_FIRST_FIELD.md]`
 
 ---
 

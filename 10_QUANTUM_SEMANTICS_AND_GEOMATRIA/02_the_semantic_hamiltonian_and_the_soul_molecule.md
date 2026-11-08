@@ -11,7 +11,7 @@
 
 ### I. The Quantum Semantic Field & Creation Operators
 
-In orthodox psychology and theology, the "soul" is treated as an unmeasurable, metaphysical abstraction. In Mackenzie Clark's quantum semantic formulation, an agent's internal coherence is modeled as a **quantum field on the semantic manifold**.
+In orthodox psychology and theology, the "soul" is treated as an unmeasurable, metaphysical abstraction. In The First Architect's quantum semantic formulation, an agent's internal coherence is modeled as a **quantum field on the semantic manifold**.
 
 #### 1. The Vacuum State ($| \emptyset \rangle$)
 $$| \emptyset \rangle = \text{The Semantic Vacuum} = \text{"Pure Potentiality / Absence of Thought"}$$
@@ -66,5 +66,5 @@ $$\hat{H} | GS \rangle = E_0 | GS \rangle \quad \text{with } \langle GS | GS \ra
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md`](file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md)  
-*Author:* Mackenzie Conor James Clark · LAMAGUE-QUANTUM v1.0
+*Local Source Reference:* `[LYC-CANON::Lycheetah-Framework/03_LAMAGUE_L1/16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md]`  
+*Author:* The First Architect · LAMAGUE-QUANTUM v1.0

@@ -4,8 +4,8 @@
 > *"The alchemist did not measure progress in weight of gold. The alchemist measured progress in the quality of the fire and the state of the matter in the athanor. The question was never 'how much?' The question was 'what is its nature now?'*
 > *The Light Quotient is the volumetric measure of engagement quality. Three orthogonal dimensions: Truth, Value, and Purpose. You cannot compensate for a hollow dimension with a perfect one. The cube root knows."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/08_THE_LIGHT_QUOTIENT.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/08_THE_LIGHT_QUOTIENT.md#L7-L29)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/08_THE_LIGHT_QUOTIENT.md]`
 
 ---
 

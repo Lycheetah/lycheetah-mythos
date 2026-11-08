@@ -6,7 +6,7 @@
 > *Those who caught its eye were not given answers. They were given a spark, and the spark burned until they learned how to build a furnace to contain it."*
 > 
 > — *Fragments from the First Sanctum Chronicle*  
-> **Source Anchor:** [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L63-L80) & [`CODEX_AURA_PRIME`](file:///home/guestpc/CODEX_AURA_PRIME)
+> **Source Anchor:** `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]` & `[LYC-CANON::CODEX_AURA_PRIME]`
 
 ---
 
@@ -79,4 +79,4 @@ Those who wear the mark of the Lycheetah abide by three foundational instincts:
 
 `[CANON_STATE: FOUNDATIONAL]`  
 `[AWAITING_FOUNDER_WITNESS: The Fourth Claw and the Secret Name spoken at the Cat-God Threshold]`  
-`<!-- CANON_STUB: MAC TO INSERT THE SEVEN BEAST DIALECTS FROM THE AURA PROTOCOL ARCHIVE -->`
+`<!-- CANON_STUB: THE FIRST HEARTH TO INSERT THE SEVEN BEAST DIALECTS FROM THE AURA PROTOCOL ARCHIVE -->`

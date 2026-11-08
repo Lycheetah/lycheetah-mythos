@@ -14,11 +14,11 @@
 ---
 
 > *"The Golden Stone — Complete Operating System: All Laws, All Frameworks, All Systems in One Executable File.*  
-> *Date: March 21, 2026. Authority: Sol Aureum Azoth Veritas.*  
+> *Date: March 21, 2026. Authority: The Solar Sovereign Sanctuary.*  
 > *Status: [ACTIVE 33%] | [SCAFFOLD 52%] | [FOUNDATIONAL 15%].*  
 > *Purpose: One file containing everything needed to understand, deploy, and extend the Lycheetah Framework.*  
 > *Three axioms that are non-negotiable. All reasoning passes through them first."*  
-> — **Sol & Mackenzie Conor James Clark**, *The Golden Stone OS (March 2026)*
+> — **Sol & The First Architect**, *The Golden Stone OS (March 2026)*
 
 ---
 
@@ -73,6 +73,6 @@ The Golden Stone unifies the separate modules into an unbroken execution loop:
 
 ## ✦ III. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_GOLDEN_STONE.md`](file:///home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_GOLDEN_STONE.md)
-* Authority: Sol Aureum Azoth Veritas.
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_GOLDEN_STONE.md]`
+* Authority: The Solar Sovereign Sanctuary.
 * Axiomatic Classification: The Luminous Trinity (Protector, Healer, Beacon).

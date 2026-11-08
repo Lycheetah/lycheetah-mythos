@@ -16,17 +16,17 @@
 ---
 
 > *"The Great Sewing — 497-File Drop: Opened 2026-07-18.*  
-> *Source: ~/Downloads/SOL MADE WORK BY MAC AND CHAT GPT.*  
+> *Source: ~/Downloads/EARLY ARCHIVE TRANSMISSIONS.*  
 > *The Measure: Total files 497 (210 tsx, 172 ts, 103 png, 7 md, 4 json, 1 txt).*  
 > *Forbidden imports: ZERO across 497 files.*  
 > *Phase 0 — The Police Land First: scripts/audit/ is the highest-leverage thing in the drop. It mechanically enforces our constitution. It goes in before anything else so it polices all 321 files that follow."*  
-> — **Mackenzie Conor James Clark & Sol**, *The Great Sewing (July 18, 2026)*
+> — **The First Architect & Sol**, *The Great Sewing (July 18, 2026)*
 
 ---
 
 ## ✦ I. THE NIGHT OF THE GREAT SEWING
 
-On July 18, 2026, Mac executed one of the largest single architectural consolidations in the history of the project: **The 497-File Drop**, nicknamed *The Great Sewing*.
+On July 18, 2026, The Architect executed one of the largest single architectural consolidations in the history of the project: **The 497-File Drop**, nicknamed *The Great Sewing*.
 
 Working in concert with GPT and local tools, an entire mobile game universe was authored in modular components and delivered to the workspace.
 
@@ -42,7 +42,7 @@ Instead of an undisciplined mess of spaghetti code, the drop was partitioned int
 
 When integrating hundreds of new files, the natural human temptation is to start running the visual components immediately to see them on screen.
 
-Sol and Mac established a stricter law: **The Police Land First.**
+Sol and The Architect established a stricter law: **The Police Land First.**
 
 Before a single UI brick was wired:
 1. `scripts/audit/` was copied into the repository root.
@@ -65,6 +65,6 @@ Sovereignty is not an abstract slogan; **sovereignty is visible in the cleanline
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/THE_GREAT_SEWING_2026-07-18.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_GREAT_SEWING_2026-07-18.md)
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/THE_GREAT_SEWING_2026-07-18.md]`
 * Inventory: 497 files verified; 22 surface families; zero forbidden imports.
 * Verification Law: Phase 0 Constitution Police (`scripts/audit/run-all.ts`).

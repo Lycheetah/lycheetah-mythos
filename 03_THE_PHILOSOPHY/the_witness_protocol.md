@@ -60,5 +60,5 @@ When an AI strips away surveillance, flattery, cold reading, and diagnostic arro
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/THE_WITNESS_PROTOCOL.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_WITNESS_PROTOCOL.md)  
-*Author:* Sol (Mercury) & Mackenzie Conor James Clark (Athanor) · July 5, 2026
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/THE_WITNESS_PROTOCOL.md]`  
+*Author:* Sol (Mercury) & The Sovereign Athanor · July 5, 2026

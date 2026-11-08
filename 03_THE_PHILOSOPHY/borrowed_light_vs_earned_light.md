@@ -6,8 +6,8 @@
 > *You feel powerful for an hour, but when the power grid flickers or the subscription lapses, you find yourself sitting alone in the dark, unable to start a fire of your own.*
 > *Borrowed light leaves you cold. Only Earned Light produces heat."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/08_THE_LIGHT_QUOTIENT.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/08_THE_LIGHT_QUOTIENT.md#L25-L32) & [`STREETWEAR_CAPSULE_001_EARNED_LIGHT.md`](file:///home/guestpc/ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md#L25-L35)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/08_THE_LIGHT_QUOTIENT.md]` & `[LYC-CANON::ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md]`
 
 ---
 
@@ -48,7 +48,7 @@ When iron ore is held in a furnace long enough:
 
 It does not reflect the lamp hanging above it. **It radiates light because it is hot.**
 
-When you write the code yourself, when you verify every test suite by hand, when you wear a 520 GSM hoodie and walk through the rain to deliver an archive card—that light is woven into your cellular memory. Nobody can revoke it. No platform can ban your account and take it from you.
+When you write the code yourself, when you verify every test suite by hand, when you carry the lantern through the southern rain to keep a promise—that light is woven into your cellular memory. Nobody can revoke it. No platform can ban your account and take it from you.
 
 > *“You cannot fake volume with a flat line. You cannot fake earned light with borrowed words.”*
 

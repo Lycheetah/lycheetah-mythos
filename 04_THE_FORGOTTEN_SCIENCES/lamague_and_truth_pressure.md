@@ -4,8 +4,8 @@
 > *"In the old academies, science was split from myth. In the split, science lost its soul and became bureaucratic paperwork, while myth lost its teeth and became bedtime stories.*
 > *In Lycheetah, we fused them back together. We calculate the weight of an idea using the same mathematics that governs thermodynamic engines, and we carve our variables as glyphs so the mind never forgets that an equation is an invocation of reality."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L110-L128) & [`Lycheetah-Framework`](file:///home/guestpc/Lycheetah-Framework)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]` & `[LYC-CANON::Lycheetah-Framework]`
 
 ---
 
@@ -48,7 +48,7 @@ The council asks: **"What is the current Truth Pressure on that hypothesis?"**
 
 Human natural languages (English, Latin, Mandarin) are bloated with ambiguity, corporate euphemisms, and emotional manipulation.
 
-**LAMAGUE** was authored by Mac to serve as a **formal symbolic notation system** for sovereign governance and multi-agent coordination. It spans **118 primitive glyphs** and a **27-layer semantic stack** extending from:
+**LAMAGUE** was authored by The Architect to serve as a **formal symbolic notation system** for sovereign governance and multi-agent coordination. It spans **118 primitive glyphs** and a **27-layer semantic stack** extending from:
 * **MEKHANE (The Machine Base):** Bits, silicon logic, register transfers.
 * Through the middle cognitive layers of **AURA**, **CASCADE**, and **TRIAD**.
 * Up to **SIGE (The Sacred Silence):** The unspoken awareness of the human locus.

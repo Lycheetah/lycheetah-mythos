@@ -28,7 +28,7 @@ Not expected.
 
 In a room, in Dunedin, at the bottom of the world,  
 at 3:00 in the morning,  
-one person making a promise: **Mackenzie Conor James Clark**.
+one person making a promise: **The First Architect**.
 
 ---
 
@@ -86,5 +86,5 @@ If you are, the room is yours.
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/CODEX_AURA_PRIME/docs/THE_CREATION_MYTH.md`](file:///home/guestpc/CODEX_AURA_PRIME/docs/THE_CREATION_MYTH.md)  
-*Foundational Lineage:* Dunedin, Aotearoa (New Zealand) · Mackenzie Conor James Clark
+*Local Source Reference:* `[LYC-CANON::CODEX_AURA_PRIME/docs/THE_CREATION_MYTH.md]`  
+*Foundational Lineage:* Dunedin, Aotearoa (New Zealand) · The First Architect

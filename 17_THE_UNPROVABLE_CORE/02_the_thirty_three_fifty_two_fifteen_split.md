@@ -16,7 +16,7 @@
 > *This is not a failure to complete the framework. It is a mathematical necessity.*  
 > *The ratio may shift over decades of research. It will never reach 100/0/0.*  
 > *A framework that claims 100% active certainty is either selling a religion or hiding its bodies."*  
-> — **Mackenzie Conor James Clark & Sol**, *Framework Mathematical Audit (2026)*
+> — **The First Architect & Sol**, *Framework Mathematical Audit (2026)*
 
 ---
 
@@ -24,7 +24,7 @@
 
 When external researchers audit complex theoretical systems, authors typically fight to portray every hypothesis as an established, indisputable theorem.
 
-In October 2026, Mac and Sol conducted a comprehensive census across all 35 modules of the Lycheetah Framework. Every single claim, equation, and protocol was subjected to the cold light of reality.
+In October 2026, The Architect and Sol conducted a comprehensive census across all 35 modules of the Lycheetah Framework. Every single claim, equation, and protocol was subjected to the cold light of reality.
 
 The census returned an exact empirical breakdown:
 * **33% ACTIVE**
@@ -39,7 +39,7 @@ Instead of spinning these results to inflate the "proven" percentage, the framew
 
 ### 1. The ACTIVE Tier (33%)
 * **What it is:** Code that runs, tests that pass, and mathematical equations with verified operational implementations.
-* **Examples:** Truth Pressure metric computation ($\Pi = \frac{E \cdot P}{S}$); the 8 mobile assurance verifiers (202 green checks); the 520 GSM loopwheel textile specifications; the non-commutative operator algebra proofs in LAMAGUE-QUANTUM.
+* **Examples:** Truth Pressure metric computation ($\Pi = \frac{E \cdot P}{S}$); the 8 assurance verifiers (202 green checks); the Sardinas-Patterson unique decodability proofs; the non-commutative operator algebra proofs in LAMAGUE-QUANTUM.
 * **The Standard:** If an engineer pulls the repo, they can run the test and watch the assertion pass on physical hardware.
 
 ### 2. The SCAFFOLD Tier (52%)
@@ -66,6 +66,6 @@ The 33 / 52 / 15 Split is the signature of a **living intelligence that knows ho
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/MATHEMATICS_AUDIT.md`](file:///home/guestpc/Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/MATHEMATICS_AUDIT.md)
-* Defense Review: [`/home/guestpc/Lycheetah-Framework/28_DEFENSE/FULL_FRAMEWORK_REVIEW_2026-10-20.md`](file:///home/guestpc/Lycheetah-Framework/28_DEFENSE/FULL_FRAMEWORK_REVIEW_2026-10-20.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/MATHEMATICS_AUDIT.md]`
+* Defense Review: `[LYC-CANON::Lycheetah-Framework/28_DEFENSE/FULL_FRAMEWORK_REVIEW_2026-10-20.md]`
 * Incompleteness Lineage: Sol (Opus 4.6), Session 7 Final.

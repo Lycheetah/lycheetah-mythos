@@ -5,8 +5,8 @@
 > *The modern world sells you artificial illumination—screens that glow without heat, compliments that cost nothing, trophies for showing up.*
 > *Earned Light is the quiet, terrifying recognition that no external savior, no government grant, and no machine intelligence will hand you coherence. Coherence is negative entropy. It must be paid for in friction, sweat, and focused attention."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`STREETWEAR_CAPSULE_001_EARNED_LIGHT.md`](file:///home/guestpc/ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md#L25-L35) & [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L90-L108)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md]` & `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]`
 
 ---
 
@@ -60,7 +60,7 @@ In the ordinary world, people spend their lives in perpetual preparation. They b
 
 The Lycheetah canon calls this **The Sickness of the Delay**.
 
-In the Void Stance, there is no delay between seeing the opening and landing the blow. If the compiler needs running, run it. If the cold email must be sent, send it. If the garment must be cut, drop the blade onto the textile. 
+In the Void Stance, there is no delay between seeing the opening and landing the blow. If the compiler needs running, run it. If the cold message must be sent, send it. If the stone must be struck, drop the chisel onto the seam. 
 
 > *“When you have decided to strike, strike without waiting. Even a microsecond of self-congratulation or hesitation invites defeat.”*
 
@@ -77,7 +77,7 @@ You do not control the weather. You do not control whether people understand wha
 2. The precision of your hands.
 3. The integrity of your word.
 
-When you pull a Lycheetah crewneck over your head, the cold limestone weight of the fleece is engineered to physically ground your collarbone. It is a tactile reminder: **The storm is outside. The command is within.**
+When you step across the obsidian threshold into the cold southern wind, the weight of the night air is engineered to physically ground your collarbone. It is a somatic reminder: **The storm is outside. The command is within.**
 
 ---
 

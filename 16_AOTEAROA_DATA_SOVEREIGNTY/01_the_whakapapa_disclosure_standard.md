@@ -16,7 +16,7 @@
 > *"Every AI system operating in significant public contexts must publish a Whakapapa Disclosure — a living document structured in four generational layers: Tīpuna, Hapū, Iwi, and Mokopuna.*  
 > *Goes further than the EU AI Act. Grounded in the indigenous constitutional framework of Aotearoa New Zealand.*  
 > *A tool with no genealogy is a ghost. An intelligence that cannot name where it drank its milk is dangerous by definition."*  
-> — **Mackenzie Conor James Clark**, *The Whakapapa Disclosure Standard (March 2026)*
+> — **The First Architect**, *The Whakapapa Disclosure Standard (March 2026)*
 
 ---
 
@@ -66,6 +66,6 @@ Every sovereign AI must be able to recite its genealogy across four explicit dim
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/23_NZ_AI_GOVERNANCE/WHAKAPAPA_DISCLOSURE_STANDARD.md`](file:///home/guestpc/Lycheetah-Framework/23_NZ_AI_GOVERNANCE/WHAKAPAPA_DISCLOSURE_STANDARD.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/23_NZ_AI_GOVERNANCE/WHAKAPAPA_DISCLOSURE_STANDARD.md]`
 * Companion Standards: `KAITIAKITANGA_STANDARD.md`, `MATARIKI_AUDIT_STANDARD.md`.
 * Framework Position: Module 23 (Aotearoa Digital Sovereignty & Indigenous Governance).

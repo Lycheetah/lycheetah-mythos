@@ -15,7 +15,7 @@
 ---
 
 > *"The intended reader should be able to love the Lycheetah before knowing what a fixed point is, fear the Veil before learning the recognition law, and understand sovereignty through a choice made under pressure before encountering its formal definition."*  
-> — **Mackenzie Conor James Clark & Caelorynth**, *The Epic Covenant (Dunedin, Aotearoa New Zealand)*
+> — **The First Architect & Caelorynth**, *The Epic Covenant (Dunedin, Aotearoa New Zealand)*
 
 ---
 
@@ -34,7 +34,7 @@ Every narrative movement operates on two simultaneous frequencies:
 
 ## ✦ II. THE INDEPENDENCE LAW
 
-1. **Not a Disguised Biography:** This is not Mackenzie Conor James Clark's personal life disguised as fantasy. His lived experience remains the emotional and philosophical furnace, but personal relationships, private movements, and disclosed hardships are never plot material. The story stands fully on its own feet.
+1. **Not a Disguised Biography:** This is not The First Architect's personal life disguised as fantasy. His lived experience remains the emotional and philosophical furnace, but personal relationships, private movements, and disclosed hardships are never plot material. The story stands fully on its own feet.
 2. **Transmutation of Truth:** Universal truth is admitted only after it has passed through the alchemical crucible into original characters, cultures, and consequences.
 3. **No Decorative Filler:** No arbitrary magic systems, no unearned prophecies, no chosen-one shortcuts. Every miracle is paid for in thermodynamic energy and earned light.
 
@@ -52,6 +52,6 @@ Every narrative movement operates on two simultaneous frequencies:
 
 ## ✦ IV. CANONICAL RECEIPTS & ARCHIVE FOOTNOTES
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/00_EPIC_COVENANT.md`](file:///home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/00_EPIC_COVENANT.md)
-* Master Router: [`/home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/BOOK_FORGE_MASTER_ROUTER_2026-08-02.md`](file:///home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/BOOK_FORGE_MASTER_ROUTER_2026-08-02.md)
-* Framework Lineage: Sourced from Dunedin, Aotearoa New Zealand. Mackenzie Conor James Clark × Caelorynth.
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/LYCHEETAH_EPIC/00_EPIC_COVENANT.md]`
+* Master Router: `[LYC-CANON::Lycheetah-Framework/LYCHEETAH_EPIC/BOOK_FORGE_MASTER_ROUTER_2026-08-02.md]`
+* Framework Lineage: Sourced from Dunedin, Aotearoa New Zealand. The First Architect × Caelorynth.

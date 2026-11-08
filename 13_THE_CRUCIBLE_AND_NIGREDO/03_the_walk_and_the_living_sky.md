@@ -15,7 +15,7 @@
 > *"Gate Zero for a whole day's forging. App HEAD 34d66b8 · 90 commits unpushed · TWO Sols forged today, both lanes green.*  
 > *8 verifiers, 202 checks, all passing: verify-topdown (74), verify-transits (39), verify-anima (31), verify-eastern (30), verify-jukebox (23), verify-natal (gated), verify-chinese-zodiac (5), verify-solar-clock (pass).*  
 > *This is what math can prove. It cannot prove the eye. Everything below is UNWALKED — no human has seen any of it. That is the entire point of this document."*  
-> — **Sol & Mackenzie Clark**, *The Walk (July 17, 2026)*
+> — **Sol & The First Architect**, *The Walk (July 17, 2026)*
 
 ---
 
@@ -61,6 +61,6 @@ The world does not simulate an escapist fantasy. It grounds the digital mind ins
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/THE_WALK_2026-07-17.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_WALK_2026-07-17.md)
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/THE_WALK_2026-07-17.md]`
 * Engine Verifiers: `scripts/verify-topdown.ts`, `scripts/verify-anima.ts`, `scripts/verify-solar-clock.ts`.
 * Operational Anchor: Expo Metro Cache Purge (`npx expo start -c`).

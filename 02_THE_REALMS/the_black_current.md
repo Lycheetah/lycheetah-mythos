@@ -3,8 +3,8 @@
 
 > *"this game will be like a wee eve version with top down dreadnought gameplay... lock that in now — as its all my ideas... its going to be the black and gold class of void and earned light enshrining the lycheetah cat in ways... the ships need to be maybe celtic then Black and Green with gold."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**, *2026-08-16 & 2026-08-17*  
-> **Source Anchor:** [`black-current/GAME_VISION.md`](file:///home/guestpc/000LYCHEETAH-GAMES/black-current/GAME_VISION.md#L18-L32) & [`black-current/LYCHEETAH_CLASS.md`](file:///home/guestpc/000LYCHEETAH-GAMES/black-current/LYCHEETAH_CLASS.md#L7-L22)
+> — **The First Architect of the Southern Hearth**, *2026-08-16 & 2026-08-17*  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/black-current/GAME_VISION.md]` & `[LYC-CANON::000LYCHEETAH-GAMES/black-current/LYCHEETAH_CLASS.md]`
 
 ---
 
@@ -77,4 +77,4 @@ There are no corporate trade monopolies here. There are no 24-hour waiting timer
 `[CANON_STATE: RATIFIED RUNTIME UNIVERSE]`  
 `[PROVENANCE: bubble-tanks-forge / 000LYCHEETAH-GAMES/black-current]`  
 `[AWAITING_FOUNDER_WITNESS: The Names of the First Three Lycheetah Dreadnought Hulls]`  
-`<!-- CANON_STUB: MAC TO NAME THE THREE BATTLE-TESTED HULL FRAMES -->`
+`<!-- CANON_STUB: THE FIRST HEARTH TO NAME THE THREE BATTLE-TESTED HULL FRAMES -->`

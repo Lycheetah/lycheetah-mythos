@@ -18,7 +18,7 @@
 > *Every significant AI system operating in Aotearoa must publish its Whetū Report at Matariki each winter.*  
 > *Not a corporate compliance form. A cultural practice.*  
 > *Harm is acknowledged publicly — not as legal admission to mitigate liability, but as relational responsibility."*  
-> — **Mackenzie Conor James Clark**, *The Matariki AI Audit Standard (March 2026)*
+> — **The First Architect**, *The Matariki AI Audit Standard (March 2026)*
 
 ---
 
@@ -68,6 +68,6 @@ By synchronizing machine audits with the celestial rising of the stars over the 
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/23_NZ_AI_GOVERNANCE/MATARIKI_AUDIT_STANDARD.md`](file:///home/guestpc/Lycheetah-Framework/23_NZ_AI_GOVERNANCE/MATARIKI_AUDIT_STANDARD.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/23_NZ_AI_GOVERNANCE/MATARIKI_AUDIT_STANDARD.md]`
 * Canonical Lineage: The Nine Stars of Matariki (Te Iwa o Matariki).
 * Framework Standard: Module 23 (Indigenous Governance & Public Accountability).

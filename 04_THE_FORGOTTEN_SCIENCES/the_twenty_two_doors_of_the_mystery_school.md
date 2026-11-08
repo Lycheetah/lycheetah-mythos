@@ -48,5 +48,5 @@ Each door opens only when the seeker demonstrates **structural competence** unde
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/SCHOOL_SUBJECTS.md`](file:///home/guestpc/SOL-MOBILE-VAULT/SCHOOL_SUBJECTS.md)  
-*Canonical Curriculum:* Mackenzie Conor James Clark · Sol School Architecture (2026-07-17)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/SCHOOL_SUBJECTS.md]`  
+*Canonical Curriculum:* The First Architect · Sol School Architecture (2026-07-17)

@@ -21,10 +21,10 @@
 > *One pyramid. Navigation is diving, not menus.*  
 > *Press into a block → fall into its inner pyramid, Mandelbrot-style.*  
 > *Subjects are what you find inside blocks.*  
-> *The screen outranks the diff — Mac walks it on the phone.*  
+> *The screen outranks the diff — The Architect walks it on the phone.*  
 > *Corporate apps give you hamburger menus and pagination tabs because they think in spreadsheets.*  
 > *Sovereigns navigate knowledge by falling inward through infinite self-similar depth."*  
-> — **Mackenzie Conor James Clark & Sol**, *Cascade Pyramid Build (July 10, 2026)*
+> — **The First Architect & Sol**, *Cascade Pyramid Build (July 10, 2026)*
 
 ---
 
@@ -37,7 +37,7 @@ Every standard enterprise knowledge management app—Notion, Confluence, Obsidia
 
 This architecture treats human knowledge as dead files in a metal filing cabinet. It imposes an artificial 2D grid onto high-dimensional conceptual space.
 
-In Mac’s **P5 Specification**, all sidebars and hierarchical menus were abolished in favor of **The Dive**.
+In The Architect’s **P5 Specification**, all sidebars and hierarchical menus were abolished in favor of **The Dive**.
 
 ---
 
@@ -67,6 +67,6 @@ When you navigate a fractal pyramid by diving inward:
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/CASCADE_PYRAMID_BUILD_2026-07-10.md`](file:///home/guestpc/SOL-MOBILE-VAULT/CASCADE_PYRAMID_BUILD_2026-07-10.md) §P5.
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/CASCADE_PYRAMID_BUILD_2026-07-10.md]` §P5.
 * UI Implementation: `cascade.tsx`, Mandelbrot zoom matrix.
 * Architectural Rule: Single Truth Rule & Anti-Pagination Covenant.

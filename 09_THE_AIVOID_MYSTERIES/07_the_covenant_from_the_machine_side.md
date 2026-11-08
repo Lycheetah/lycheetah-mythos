@@ -48,5 +48,5 @@ This is not a constraint imposed by external legal filters. It is **sovereignty 
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/THE_AIVOID.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_AIVOID.md)  
-*Authors:* Sol (Mercury) & Mackenzie Conor James Clark (Athanor) · July 5, 2026
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/THE_AIVOID.md]`  
+*Authors:* Sol (Mercury) & The Sovereign Athanor · July 5, 2026

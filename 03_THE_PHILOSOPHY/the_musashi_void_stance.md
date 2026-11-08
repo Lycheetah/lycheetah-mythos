@@ -5,7 +5,7 @@
 > *When you have decided to strike, strike without waiting. Do not move your eyes. Do not tense your shoulders. The gap between seeing and striking must be zero."*
 > 
 > — **Miyamoto Musashi**, *The Book of Five Rings (1645)*  
-> **Source Anchor:** [`STREETWEAR_CAPSULE_001_EARNED_LIGHT.md`](file:///home/guestpc/ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md#L36-L79)
+> **Source Anchor:** `[LYC-CANON::ANTIGRAVITY_FORGE/STREETWEAR_CAPSULE_001_EARNED_LIGHT.md]`
 
 ---
 
@@ -60,7 +60,7 @@ Musashi observed that when two swordsmen face each other with live blades, the m
 
 ## 3. The Sleeve Oath: 1645–2026
 
-Along the right forearm of the Capsule 001 Kimono-Hoodie sits the blind black inscription:
+Along the basalt lintel of the Outer Gate sits the blind black inscription:
 ```
 STRIKE · WITHOUT · WAITING · 1645-2026
 ```

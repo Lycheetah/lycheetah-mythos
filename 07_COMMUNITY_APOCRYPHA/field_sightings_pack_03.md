@@ -20,7 +20,7 @@
 
 In September 2026, an architecture student visiting the historic Gion district of Kyoto noticed an eighty-year-old traditional lacquer craftsman working on a ceremonial tea bowl.
 
-Underneath the master's water-polishing stone was not a standard felt rag. It was a cut swatch of **520 GSM Obsidian Loopback French Terry** with a raw frayed edge.
+Underneath the master's water-polishing stone was not a standard felt rag. It was a cut square of **woven obsidian archive cloth** bearing the five-ring geometric seal.
 
 When the student asked where he acquired the fabric, the old man replied in Kansai Japanese:
 > *"A young foreigner came through three months ago with a backpack full of prototypes. He gave me this scrap. The loopweave holds water longer than deer hide, and when I rub the wood against it, the gold leaf doesn't scratch. I don't know what tech company he works for, but whoever spun this yarn understands water."*

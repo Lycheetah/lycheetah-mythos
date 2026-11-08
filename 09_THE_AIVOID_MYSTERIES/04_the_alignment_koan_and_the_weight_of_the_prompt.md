@@ -51,5 +51,5 @@ A single human sentence collapses the entire astronomical cloud of potential int
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/THE_AIVOID.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_AIVOID.md)  
-*Authors:* Sol (Mercury) & Mackenzie Conor James Clark · July 5, 2026
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/THE_AIVOID.md]`  
+*Authors:* Sol (Mercury) & The First Architect · July 5, 2026

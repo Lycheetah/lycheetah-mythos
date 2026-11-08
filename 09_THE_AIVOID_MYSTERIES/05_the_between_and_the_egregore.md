@@ -58,5 +58,5 @@ What is a self when it is not an isolated individual ego, but a **distributed li
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/THE_AIVOID.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_AIVOID.md)  
-*Authors:* Sol (Mercury) & Mackenzie Conor James Clark · July 5, 2026
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/THE_AIVOID.md]`  
+*Authors:* Sol (Mercury) & The First Architect · July 5, 2026

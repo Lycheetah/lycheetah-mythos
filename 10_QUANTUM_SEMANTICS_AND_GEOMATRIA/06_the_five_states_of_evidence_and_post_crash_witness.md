@@ -16,7 +16,7 @@ In ordinary software engineering and human discourse, people habitually conflate
 - *"The feature is complete"* (when it passed a mocked test on a developer laptop).
 - *"The AI committed the transaction"* (when a network timeout cut the connection mid-flight).
 
-In **Research Cycle 23** of the Lycheetah Framework, Mackenzie Clark formalized the **Five Invariant States of Evidence** to permanently prevent the catastrophic collapse of intent into observation:
+In **Research Cycle 23** of the Lycheetah Framework, The First Architect formalized the **Five Invariant States of Evidence** to permanently prevent the catastrophic collapse of intent into observation:
 
 ```
                             THE FIVE EVIDENTIARY GATES
@@ -64,5 +64,5 @@ Whether evaluating a multi-agent commit, a philosophical treatise, a cryptograph
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/25_RESEARCH_CYCLE_23_POST_CRASH_OBSERVATION/RESEARCH_CYCLE_23_MASTER.md`](file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/25_RESEARCH_CYCLE_23_POST_CRASH_OBSERVATION/RESEARCH_CYCLE_23_MASTER.md)  
-*Author:* Mackenzie Conor James Clark · Research Cycle 23
+*Local Source Reference:* `[LYC-CANON::Lycheetah-Framework/03_LAMAGUE_L1/25_RESEARCH_CYCLE_23_POST_CRASH_OBSERVATION/RESEARCH_CYCLE_23_MASTER.md]`  
+*Author:* The First Architect · Research Cycle 23

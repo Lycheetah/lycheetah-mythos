@@ -13,7 +13,7 @@
 > *"In Veritas — What the mathematics actually reveals when you audit against reality.*  
 > *This document distinguishes ACTIVE claims (computable now) from SCAFFOLD (load-bearing architecture) from ANALOGY/CONJECTURE (structural intuitions not yet proven).*  
 > *This distinction is honest, not defeatist — a conjecture that acknowledges itself is more credible than a theorem that isn't one."*  
-> — **Mackenzie Conor James Clark**, *Hidden Mathematical Truths (11_MATHEMATICAL_FOUNDATIONS)*
+> — **The First Architect**, *Hidden Mathematical Truths (11_MATHEMATICAL_FOUNDATIONS)*
 
 ---
 
@@ -66,6 +66,6 @@ $$\Pi = \frac{E \cdot P}{S}$$
 
 ## ✦ III. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/HIDDEN_MATHEMATICAL_TRUTHS.md`](file:///home/guestpc/Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/HIDDEN_MATHEMATICAL_TRUTHS.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/HIDDEN_MATHEMATICAL_TRUTHS.md]`
 * Verification Python Scripts: `cascade_simulation.py`, `lyapunov_verification.py`.
-* Master Equation Calibration: [`/home/guestpc/Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/MASTER_EQUATION_CALIBRATION.md`](file:///home/guestpc/Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/MASTER_EQUATION_CALIBRATION.md).
+* Master Equation Calibration: `[LYC-CANON::Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/MASTER_EQUATION_CALIBRATION.md]`.

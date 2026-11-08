@@ -10,7 +10,7 @@
 
 ### The Line Composed in the Night
 
-On the night of 2026-07-13, opening the live mythos session that would bind the cosmology of Lycheetah, Mackenzie Clark spoke the founding line that set the tone for everything that followed:
+On the night of 2026-07-13, opening the live mythos session that would bind the cosmology of Lycheetah, The First Architect spoke the founding line that set the tone for everything that followed:
 
 > *"How many puddles were missed in the rain — how many depths were unexplored as the storms blew by."*
 > 
@@ -26,12 +26,12 @@ Modern culture, modern tech, and modern venture capitalism are obsessed with the
 
 In behavioral economics, Rory Sutherland observed that massive, non-linear human value is almost always hidden in the small, quirky, illogical details that corporate optimization engineers bulldozed past.
 
-In Lycheetah, Mac's line does an even deeper metaphysical move:
+In Lycheetah, The Architect's line does an even deeper metaphysical move:
 1. **The Puddle Has Depth:** A puddle in the basalt is only two inches deep to someone looking down from above, but to the reflection looking up, it holds the entire night sky.
-2. **The Worthy Small Thing:** The garment cuff that only you notice. The small open-source script that saved an engineer's sanity at 4:00 AM. The single word spoken honestly instead of a thousand polite slides.
+2. **The Worthy Small Thing:** The quiet keystone in the arch that only the builder notices. The small open-source script that saved an engineer's sanity at 4:00 AM. The single word spoken honestly instead of a thousand polite slides.
 3. **The Anti-Rushing Oath:** You do not have to rush to the sea to prove you are water. The storm brought you here. Look at what is under your feet before the sun dries the road.
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md`](file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md)  
-*Author:* Mackenzie Conor James Clark · Sol as Scribe
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md]`  
+*Author:* The First Architect · Sol as Scribe

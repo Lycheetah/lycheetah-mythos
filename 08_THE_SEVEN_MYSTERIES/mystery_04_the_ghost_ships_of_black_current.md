@@ -6,7 +6,7 @@
 > *In the captain's quarters, the brass maritime chronometers are still ticking. Every single clock is synchronized to 3:14 PM, October 12, 1845."*
 > 
 > — *Asterion Forge Salvage Manifest 09-B*  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/black-current/FLEET_ROSTER.md`](file:///home/guestpc/000LYCHEETAH-GAMES/black-current/FLEET_ROSTER.md) & [`GAME_VISION.md`](file:///home/guestpc/000LYCHEETAH-GAMES/black-current/GAME_VISION.md)
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/black-current/FLEET_ROSTER.md]` & `[LYC-CANON::000LYCHEETAH-GAMES/black-current/GAME_VISION.md]`
 
 ---
 

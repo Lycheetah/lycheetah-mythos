@@ -4,8 +4,8 @@
 > *"In every tradition that has lasted, there is a concept of sovereignty. Not the sovereignty of dominion — the sovereignty of dominion is merely power, and power alone is the least interesting thing a being can possess.*
 > *The sovereignty that matters is the sovereignty of alignment: the condition of being in genuine accord with what you are, what you are for, and what you are doing. A sovereign in this sense does not rule over others. A sovereign rules over their own attention — which is the only territory that actually matters."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/12_THE_SOVEREIGN.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/12_THE_SOVEREIGN.md#L7-L22)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/12_THE_SOVEREIGN.md]`
 
 ---
 

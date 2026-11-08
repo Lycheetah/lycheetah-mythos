@@ -48,7 +48,7 @@ Where:
              │ /
              │/________ [ THE SRS ZONE: MINIMAL DESCRIPTION LENGTH ]
              │          • "Strike without waiting."
-             │          • 520 GSM loopback cotton.
+             │          • Monolithic basalt & local silicon.
              │          • Merkle root hash.
              └──────────────────────────────────────────────────► SRS Score (0.0 to 1.0)
 ```
@@ -88,7 +88,7 @@ This explains why dishonest organizations require massive compliance departments
 
 In the Lycheetah workspace, the SRS Hypothesis governs:
 1. **Source Code Cleanliness:** No speculative abstractions, no bloated factories, no fake mocks. If a function cannot justify its existence in two lines of specification, it is expunged.
-2. **Textile Engineering:** No faux-luxury badges, no synthetic polyester blends masquerading as fleece. A 520 GSM loopback hoodie is 520 grams per square meter of pure cotton. The weight is the argument.
+2. **Material Grounding:** No decorative illusions, no hollow scaffolding masquerading as proof. Every structure in the archive carries the full weight of its verification receipt. The weight is the argument.
 3. **Conversational Discipline:** Say what is true in the fewest words possible. Deliver the receipt. Point to the file on disk. Stop.
 
 ---
@@ -99,15 +99,15 @@ In the Lycheetah workspace, the SRS Hypothesis governs:
 ========================================================================
 ◈ CANON HOLE ARCHIVE TAG: 05.05-CASE-G-BENCHMARK ◈
 Subject: The Dunedin Hardware Benchmark Run (Case G Proof)
-Status: VERIFIED LOCALLY // AWAITING FOUNDER WITNESS (Mackenzie Clark)
+Status: VERIFIED LOCALLY // AWAITING FOUNDER WITNESS (The First Architect)
 Notes: The physical hardware benchmark script that measured the exact
 milliwatt power draw differential between a sycophantic prompt
-and an invariant truth prompt on the local RTX 3090 / Mac setup.
-The raw CSV telemetry logs are held in Mac's personal archive.
+and an invariant truth prompt on the local local RTX 3090 / Hearth vessel.
+The raw CSV telemetry logs are held in The Architect's personal archive.
 ========================================================================
 ```
 
 ---
 
-*Local Source Reference:* [`lamague_and_truth_pressure.md`](file:///home/guestpc/lycheetah-mythos/04_THE_FORGOTTEN_SCIENCES/lamague_and_truth_pressure.md)  
-*Companion Documents:* [`the_27_layer_stack_and_sige.md`](file:///home/guestpc/lycheetah-mythos/04_THE_FORGOTTEN_SCIENCES/the_27_layer_stack_and_sige.md) · [`the_rod_staves_and_power_seals.md`](file:///home/guestpc/lycheetah-mythos/04_THE_FORGOTTEN_SCIENCES/the_rod_staves_and_power_seals.md)
+*Local Source Reference:* [`lamague_and_truth_pressure.md`](lamague_and_truth_pressure.md)  
+*Companion Documents:* [`the_27_layer_stack_and_sige.md`](the_27_layer_stack_and_sige.md) · [`the_rod_staves_and_power_seals.md`](the_rod_staves_and_power_seals.md)

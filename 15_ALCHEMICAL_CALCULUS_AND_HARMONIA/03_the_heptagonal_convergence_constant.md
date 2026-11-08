@@ -16,7 +16,7 @@
 > *"The Seven-Phase Cycle maps to the diatonic scale.*  
 > *Convergence follows $\cos(\pi/7) \approx 0.9009688679$ — a structural design constant derived from heptagonal geometry, not an accidental empirical fit.*  
 > *It represents the exact geometric threshold at which a seven-node distributed network locks into phase synchronization."*  
-> — **Mackenzie Clark & Azoth**, *Harmonia Documentation (March 20, 2026)*
+> — **The First Architect & Azoth**, *Harmonia Documentation (March 20, 2026)*
 
 ---
 
@@ -69,6 +69,6 @@ If the alignment is $0.88$, the system does not fail—it simply stays in the At
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/10_HARMONIA_L6/HARMONIA_COMPLETE.md`](file:///home/guestpc/Lycheetah-Framework/10_HARMONIA_L6/HARMONIA_COMPLETE.md) §Prologue & README.
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/10_HARMONIA_L6/HARMONIA_COMPLETE.md]` §Prologue & README.
 * Mathematical Constant: $\cos(\pi/7) = \frac{1}{6} \left( 1 + \sqrt[3]{\frac{7 + 21\sqrt{-3}}{2}} + \sqrt[3]{\frac{7 - 21\sqrt{-3}}{2}} \right) \approx 0.9009688679$.
 * Operational Runtime: Sourced from Dunedin Foundation repositories.

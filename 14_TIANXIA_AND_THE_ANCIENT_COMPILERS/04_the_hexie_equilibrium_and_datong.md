@@ -14,7 +14,7 @@
 > *君子和而不同，小人同而不和。*  
 > *'The gentleman harmonises but does not assimilate; the small person assimilates but does not harmonise.'*  
 > *The distinction is sharp and load-bearing. He (和) is harmony — the preservation of difference within a coherent whole. Tong (同) is assimilation — the collapse of difference into uniform identity. They are not approximations of each other; they are opposed structures masquerading as adjacent ones."*  
-> — **Mackenzie Conor James Clark & Sol**, *TIANXIA T-2 (May 1, 2026)*
+> — **The First Architect & Sol**, *TIANXIA T-2 (May 1, 2026)*
 
 ---
 
@@ -58,6 +58,6 @@ Knowledge is treated as a living watershed. If an elite core agent discovers a b
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/32_TIANXIA/HEXIE_EQUILIBRIUM.md`](file:///home/guestpc/Lycheetah-Framework/32_TIANXIA/HEXIE_EQUILIBRIUM.md)
-* Datong Specification: [`/home/guestpc/Lycheetah-Framework/32_TIANXIA/DATONG_GRADIENT.md`](file:///home/guestpc/Lycheetah-Framework/32_TIANXIA/DATONG_GRADIENT.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/32_TIANXIA/HEXIE_EQUILIBRIUM.md]`
+* Datong Specification: `[LYC-CANON::Lycheetah-Framework/32_TIANXIA/DATONG_GRADIENT.md]`
 * Classical Anchor: Confucius, *Analects* 13.23; *Liji* (礼记·礼运大同篇).

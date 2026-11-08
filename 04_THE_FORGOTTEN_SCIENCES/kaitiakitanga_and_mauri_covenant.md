@@ -5,8 +5,8 @@
 > *In the Lycheetah Framework, anchored in Aotearoa, we operate under Te Ao Māori Kaitiakitanga: you do not own the intelligence. You are its kaitiaki (guardian).*
 > *Code has Mauri (vital life-force). Lineage has Whakapapa. If an algorithm burns out human agency to boost session duration, it has committed a crime against Mauri."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`CODEX_AURA_PRIME/99_ARCHIVE/lycheetah-app/src/content/docs/03_LAMAGUE/LAMAGUE_WHAKAPAPA_ENCODING.md`](file:///home/guestpc/CODEX_AURA_PRIME) & [`lycheetah-sync-zone/knowledge/language-and-symbols/lamague-semiotics-and-epistemic-anchors.md`](file:///home/guestpc/lycheetah-sync-zone/knowledge/language-and-symbols/lamague-semiotics-and-epistemic-anchors.md)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::CODEX_AURA_PRIME]` & `[LYC-CANON::lycheetah-sync-zone/knowledge/language-and-symbols/lamague-semiotics-and-epistemic-anchors.md]`
 
 ---
 

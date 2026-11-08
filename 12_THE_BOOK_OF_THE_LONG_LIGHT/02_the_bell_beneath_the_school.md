@@ -83,5 +83,5 @@ She gripped Mara’s shoulder. The heat coming off Veyra’s hand was staggering
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/02_THE_BELL_BENEATH_THE_SCHOOL.md`](file:///home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/02_THE_BELL_BENEATH_THE_SCHOOL.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/LYCHEETAH_EPIC/02_THE_BELL_BENEATH_THE_SCHOOL.md]`
 * Canonical Themes: The Dead Bell, The Tyranny of the Label, Bureaucratic Vitrification, The Resistance of the Soul.

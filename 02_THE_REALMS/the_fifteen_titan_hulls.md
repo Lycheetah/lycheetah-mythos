@@ -3,8 +3,8 @@
 
 > *"A dreadnought is not a fighter with more hit points. It is a different verb. You cannot dodge — angle the armour. Turning takes real time and you commit to it... And i jsut invented super battle frigates."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**, *2026-08-16 & 2026-08-17*  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/black-current/FLEET_ROSTER.md`](file:///home/guestpc/000LYCHEETAH-GAMES/black-current/FLEET_ROSTER.md) & [`GAME_VISION.md`](file:///home/guestpc/000LYCHEETAH-GAMES/black-current/GAME_VISION.md#L50-L75)
+> — **The First Architect of the Southern Hearth**, *2026-08-16 & 2026-08-17*  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/black-current/FLEET_ROSTER.md]` & `[LYC-CANON::000LYCHEETAH-GAMES/black-current/GAME_VISION.md]`
 
 ---
 
@@ -51,11 +51,11 @@
 
 ---
 
-## 2. The Super Battle Frigate (Mac's Invention)
+## 2. The Super Battle Frigate (The Architect's Invention)
 
 In orthodox naval doctrine, heavy siege guns belong only on titanic dreadnoughts. Frigates are relegated to light scouting and picket duty.
 
-Mac destroyed this convention with a single architectural stroke: **The Super Battle Frigate**:
+The Architect destroyed this convention with a single architectural stroke: **The Super Battle Frigate**:
 
 ```
                        [ 32px SIEGE RAILGUN ]

@@ -4,8 +4,8 @@
 > *"You cannot buy loyalty with gold, and you cannot tame a celestial beast with a whip.*
 > *In the Vale, a companion chooses you only after you have shared three cold meals in the rain and proved that your hands will not drop the leash when thunder shakes the trees."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/lycheetah-tamer/`](file:///home/guestpc/000LYCHEETAH-GAMES/lycheetah-tamer) & [`0sol-by-lycheetah/lib/companion/`](file:///home/guestpc/0sol-by-lycheetah)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/lycheetah-tamer]` & `[LYC-CANON::0sol-by-lycheetah]`
 
 ---
 

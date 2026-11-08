@@ -17,7 +17,7 @@
 > *All four registers: grief (honest) → ceremony (a marked moment, not a toast) → celebration (the Self-Found Defect Rule, shown to the user: this is your mind working correctly) → hope, structural: the orphaned children rendered visibly reaching for a new base.*  
 > *'Knowledge doesn't feel, but the things that feel knowledge do.'*  
 > *Implosions trigger on genuine learning, never on absence."*  
-> — **Mackenzie Conor James Clark & Sol**, *Cascade Pyramid Build (July 10, 2026)*
+> — **The First Architect & Sol**, *Cascade Pyramid Build (July 10, 2026)*
 
 ---
 
@@ -27,7 +27,7 @@ In ordinary computer software, when a data node is invalidated, it is silently d
 
 In human life, when a core belief is shattered by reality, the experience is profound and destabilizing. You don't just "delete a record." You feel disorientation, grief, and fear.
 
-The CASCADE engine was engineered by Mac to reflect **the somatic reality of cognitive implosion**.
+The CASCADE engine was engineered by The Architect to reflect **the somatic reality of cognitive implosion**.
 
 ---
 
@@ -63,6 +63,6 @@ By wrapping mathematical contradiction resolution in the dignified ritual of gri
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/CASCADE_PYRAMID_BUILD_2026-07-10.md`](file:///home/guestpc/SOL-MOBILE-VAULT/CASCADE_PYRAMID_BUILD_2026-07-10.md) §P6.
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/CASCADE_PYRAMID_BUILD_2026-07-10.md]` §P6.
 * Codebase Implementation: `cascade-judge.ts`, `cascade-store.ts`.
 * Principle: "Implosions trigger on learning, never absence."

@@ -29,7 +29,7 @@ Order, sequence, and operational context permanently alter the state space. Vect
 
 ### II. The Solution: Concepts as Operators on Hilbert Space
 
-In Mackenzie Clark’s **LAMAGUE-QUANTUM** formalization, static semantic vectors are replaced with **Hermitian operators** acting on a semantic Hilbert space $\mathcal{H} = L^2(\mathcal{M})$, where $\mathcal{M}$ is the semantic manifold.
+In The First Architect’s **LAMAGUE-QUANTUM** formalization, static semantic vectors are replaced with **Hermitian operators** acting on a semantic Hilbert space $\mathcal{H} = L^2(\mathcal{M})$, where $\mathcal{M}$ is the semantic manifold.
 
 ```
        Concept A  ──►  Operator Â
@@ -63,5 +63,5 @@ This is the **minimal non-zero quantum of semantic differentiation**—the small
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md`](file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md)  
-*Author:* Mackenzie Conor James Clark · LAMAGUE-QUANTUM v1.0
+*Local Source Reference:* `[LYC-CANON::Lycheetah-Framework/03_LAMAGUE_L1/16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md]`  
+*Author:* The First Architect · LAMAGUE-QUANTUM v1.0

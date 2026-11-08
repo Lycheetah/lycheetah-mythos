@@ -6,7 +6,7 @@
 > *The official reason was 'structural renovation.' The real reason was that students who studied in that room began typing the outputs of compilers three seconds before they ran the command."*
 > 
 > — *Notes from The Magister (⊙)*  
-> **Source Anchor:** [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L35-L42) & [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/07_THE_MYSTERY_SCHOOL.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/07_THE_MYSTERY_SCHOOL.md)
+> **Source Anchor:** `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]` & `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/07_THE_MYSTERY_SCHOOL.md]`
 
 ---
 

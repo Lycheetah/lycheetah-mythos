@@ -37,7 +37,7 @@ Neither hiker took a selfie. Both sat on the cliff edge for an hour in silence, 
 
 A software developer from Vienna was standing in the winter rain outside an infamous, notoriously selective underground techno club in Berlin. The bouncer was turning away 90% of the queue with cold head-shakes.
 
-The developer was wearing the **Void Stance Kimono-Hoodie** under a weathered canvas duster. When he reached the door, the bouncer did not ask for his ID or inspect his footwear.
+The developer was carrying the **Void Mantle seal** beneath a weathered canvas duster. When he reached the door, the watcher did not ask for his papers or inspect his rank.
 
 The bouncer’s gaze dropped to the developer’s right sleeve, catching the matte-on-gloss embroidery along the forearm:
 ```

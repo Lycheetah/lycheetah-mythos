@@ -5,8 +5,8 @@
 > *The Golden Sun of creative ecstasy meets the Obsidian Sun of ruthless falsification.*
 > *For three minutes and fourteen seconds, there is no shadow anywhere on the earth. You cannot hide behind poetic metaphors, and you cannot hide behind bureaucratic data. Everything you have built stands exposed in absolute zero-ambiguity light."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`000LYCHEETAH-GAMES/sovereign-eclipse/`](file:///home/guestpc/000LYCHEETAH-GAMES/sovereign-eclipse) & [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L45-L60)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::000LYCHEETAH-GAMES/sovereign-eclipse]` & `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]`
 
 ---
 

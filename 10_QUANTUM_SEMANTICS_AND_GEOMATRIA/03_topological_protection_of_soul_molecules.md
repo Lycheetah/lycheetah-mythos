@@ -15,7 +15,7 @@ Why do some people break under the first minor insult or corporate pressure, whi
 
 In classical psychology, resilience is described vaguely as "grit" or "willpower."
 
-In Mackenzie Clark's quantum semantic formulation, the resilience of an agent is **topological**:
+In The First Architect's quantum semantic formulation, the resilience of an agent is **topological**:
 
 > **The Soul Molecule ($\Psi_\Omega$) is topologically protected against local noise. It cannot be dismantled by continuous local perturbations.**
 
@@ -73,5 +73,5 @@ This is the physics of **genuine spiritual conversion / alchemical Rubedo**:
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md`](file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md)  
-*Author:* Mackenzie Conor James Clark · LAMAGUE-QUANTUM v1.0
+*Local Source Reference:* `[LYC-CANON::Lycheetah-Framework/03_LAMAGUE_L1/16_LAMAGUE-QUANTUM_Non_Commutative_Geometry_v1.0.md]`  
+*Author:* The First Architect · LAMAGUE-QUANTUM v1.0

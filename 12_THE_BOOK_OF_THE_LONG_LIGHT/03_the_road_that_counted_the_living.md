@@ -84,5 +84,5 @@ Mara seized the braided leather reins of the Waybearer. With a single leap that 
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/03_THE_ROAD_THAT_COUNTED_THE_LIVING.md`](file:///home/guestpc/Lycheetah-Framework/LYCHEETAH_EPIC/03_THE_ROAD_THAT_COUNTED_THE_LIVING.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/LYCHEETAH_EPIC/03_THE_ROAD_THAT_COUNTED_THE_LIVING.md]`
 * Canonical Themes: The Soft Brass Archive Ruler, The Road of Utility Ratings, The Unranked Coat, The Waybearer's Bind.

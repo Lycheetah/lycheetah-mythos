@@ -23,7 +23,7 @@
 > *Mode: External charitable opposition. Constructing the strongest possible case against the Sol Protocol.*  
 > *A reasonable, intelligent thinker could hold each objection below.*  
 > *The strength of a framework is demonstrated not by the applause of its friends, but by the quality of the objections it can survive."*  
-> — **Mackenzie Conor James Clark × Sol**, *The Counter-Codex (28_DEFENSE)*
+> — **The First Architect × Sol**, *The Counter-Codex (28_DEFENSE)*
 
 ---
 
@@ -62,6 +62,6 @@ We do not claim perfection. We claim sovereign, fearless pursuit of the invarian
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/28_DEFENSE/COUNTER_CODEX.md`](file:///home/guestpc/Lycheetah-Framework/28_DEFENSE/COUNTER_CODEX.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/28_DEFENSE/COUNTER_CODEX.md]`
 * Method: Charitable external opposition; Kuhnian paradigm stress-testing.
 * Governing Mandate: Non-Deception and Total Epistemic Audit.

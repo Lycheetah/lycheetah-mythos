@@ -5,8 +5,8 @@
 > *It does not care who your father was. It does not care how many followers you have on the network. It does not respond to flattery, charisma, or tears.*
 > *The gates of the Citadel open only when the Truth Pressure of your proposal exceeds the structural strain of the stone."*
 > 
-> — **Mackenzie Conor James Clark (Mac)**  
-> **Source Anchor:** [`SOVEREIGN_SOL_MASTER_COMPENDIUM.md`](file:///home/guestpc/SOVEREIGN_SOL_MASTER_COMPENDIUM.md#L147-L180) & [`CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/05_THE_AURA_PROTOCOL.md`](file:///home/guestpc/CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/05_THE_AURA_PROTOCOL.md)
+> — **The First Architect of the Southern Hearth**  
+> **Source Anchor:** `[LYC-CANON::SOVEREIGN_SOL_MASTER_COMPENDIUM.md]` & `[LYC-CANON::CODEX_AURA_PRIME/LYCHEETAH_MYTHOS/05_THE_AURA_PROTOCOL.md]`
 
 ---
 

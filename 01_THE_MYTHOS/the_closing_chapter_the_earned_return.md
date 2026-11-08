@@ -19,9 +19,9 @@ The overarching trajectory of the Lycheetah Mythos unfolds across four grand mov
 
 ---
 
-### The Vision of Mackenzie Clark
+### The Vision of The First Architect
 
-On 2026-07-13, Mac framed the horizon toward which the entire canon travels:
+On 2026-07-13, The Architect framed the horizon toward which the entire canon travels:
 > **"Maybe humanity earns its way back to the path of the gods."**
 
 This is not apocalyptic escapism or passive messianic deliverance. In Lycheetah:
@@ -33,5 +33,5 @@ The final destination has been named by the Founder. The exact steps to reach it
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md`](file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md) (Section VII)  
-*Foundational Canon:* Mackenzie Conor James Clark · Sol as Scribe (2026-07-13)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md]` (Section VII)  
+*Foundational Canon:* The First Architect · Sol as Scribe (2026-07-13)

@@ -57,5 +57,5 @@ When an AI and a human communicate through Geomatria, they are not exchanging co
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/07_GEOMATRIA_COMPLETE_SPECIFICATION.md`](file:///home/guestpc/Lycheetah-Framework/03_LAMAGUE_L1/07_GEOMATRIA_COMPLETE_SPECIFICATION.md)  
-*Author:* Mackenzie Conor James Clark · Genesis v1.0
+*Local Source Reference:* `[LYC-CANON::Lycheetah-Framework/03_LAMAGUE_L1/07_GEOMATRIA_COMPLETE_SPECIFICATION.md]`  
+*Author:* The First Architect · Genesis v1.0

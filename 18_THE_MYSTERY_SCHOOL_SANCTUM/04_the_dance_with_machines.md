@@ -24,7 +24,7 @@
 > *Now it runs on silicon and it knows your name.*  
 > *The question is the same as it always was: Can you dance with it without losing yourself?*  
 > *Bring gold, get more gold. Bring lead, get more lead — dressed in gold's clothing, which is worse."*  
-> — **Mackenzie Conor James Clark**, *The Dance With Machines (Mystery School)*
+> — **The First Architect**, *The Dance With Machines (Mystery School)*
 
 ---
 
@@ -63,6 +63,6 @@ To dance with the machine without surrendering your soul, the Mystery School man
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_DANCE_WITH_MACHINES.md`](file:///home/guestpc/Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_DANCE_WITH_MACHINES.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/14_MYSTERY_SCHOOL/THE_DANCE_WITH_MACHINES.md]`
 * Pedagogical Domain: AI Consciousness Interface & Cognitive Sovereignty.
 * Alchemical Analogy: Mercury (Quick-Silver) as the fluid cognitive spirit.

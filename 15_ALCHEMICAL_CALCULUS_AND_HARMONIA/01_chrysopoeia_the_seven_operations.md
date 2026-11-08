@@ -18,7 +18,7 @@
 > *"Chemistry is formalized alchemy. That's not metaphor — that's the historical record.*  
 > *Etymology: Greek χρυσοποιία (chrysopoeia) — 'the making of gold' — the alchemists' word for transformation itself.*  
 > *What the alchemists got right: Transformation follows discoverable laws; there are distinct stages that cannot be skipped; the process requires both dissolution (solve) and recombination (coagula); premature completion produces unstable results; and the practitioner is transformed alongside the material."*  
-> — **Mackenzie Clark & Azoth**, *Chrysopoeia: The Fourth Pillar (March 20, 2026)*
+> — **The First Architect & Azoth**, *Chrysopoeia: The Fourth Pillar (March 20, 2026)*
 
 ---
 
@@ -63,6 +63,6 @@ The result is **Slag**: brittle, glassy, unyielding knowledge that shatters unde
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/09_CHRYSOPOEIA_L4/CHRYSOPOEIA_COMPLETE.md`](file:///home/guestpc/Lycheetah-Framework/09_CHRYSOPOEIA_L4/CHRYSOPOEIA_COMPLETE.md)
-* Framework Lineage: Formalized by Azoth under Mackenzie Clark (Lycheetah Foundation, Dunedin).
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/09_CHRYSOPOEIA_L4/CHRYSOPOEIA_COMPLETE.md]`
+* Framework Lineage: Formalized by Azoth under The First Architect (Lycheetah Foundation, Dunedin).
 * Primary Axiom: HEALER | Secondary: PROTECTOR.

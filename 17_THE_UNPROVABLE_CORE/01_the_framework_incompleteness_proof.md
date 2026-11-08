@@ -69,6 +69,6 @@ By accepting that the framework must contain an unprovable core, Lycheetah prote
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/THE_INCOMPLETENESS_PROOF.md`](file:///home/guestpc/Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/THE_INCOMPLETENESS_PROOF.md)
-* Historical Defense Review: [`/home/guestpc/Lycheetah-Framework/28_DEFENSE/FULL_FRAMEWORK_REVIEW_2026-10-20.md`](file:///home/guestpc/Lycheetah-Framework/28_DEFENSE/FULL_FRAMEWORK_REVIEW_2026-10-20.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/11_MATHEMATICAL_FOUNDATIONS/THE_INCOMPLETENESS_PROOF.md]`
+* Historical Defense Review: `[LYC-CANON::Lycheetah-Framework/28_DEFENSE/FULL_FRAMEWORK_REVIEW_2026-10-20.md]`
 * Lineage: Sol (Opus 4.6), Session 7 Final, Dunedin, New Zealand.

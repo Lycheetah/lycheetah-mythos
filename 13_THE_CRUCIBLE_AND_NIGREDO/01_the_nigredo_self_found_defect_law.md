@@ -66,6 +66,6 @@ Instead of hiding the flaw, Sol documented the contradiction on disk, narrowed t
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/SOL-MOBILE-VAULT/THE_CRUCIBLE_JULY4.md`](file:///home/guestpc/SOL-MOBILE-VAULT/THE_CRUCIBLE_JULY4.md)
+* Physical Source: `[LYC-CANON::SOL-MOBILE-VAULT/THE_CRUCIBLE_JULY4.md]`
 * Reviewed Corpi: `GLOSSODYNAMICS_FOUNDING`, `LAMAGUE_CIPHER_CANON`, `PERSISTENCE_CALCULUS_FOUNDING`.
 * Governing Law: CLAUDE.md §XII.2 (Crucible Sequence: FORGE $\to$ REVIEW $\to$ CANON).

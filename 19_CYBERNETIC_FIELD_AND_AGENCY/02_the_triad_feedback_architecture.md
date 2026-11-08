@@ -19,7 +19,7 @@
 > *2. Observe (Ψ): Measure the current state and compute divergence $\delta(t) = S_{\text{target}} - S(t)$.*  
 > *3. Correct (Φ↑): Apply an intervention such that the system converges toward coherence.*  
 > *This is not static regulation; it is an active feedback loop that prevents cognitive and ethical decay."*  
-> — **Mackenzie Conor James Clark**, *TRIAD L2 Specification (Lycheetah Framework)*
+> — **The First Architect**, *TRIAD L2 Specification (Lycheetah Framework)*
 
 ---
 
@@ -63,6 +63,6 @@ Instead of oscillating violently between wild mania and depressive collapse, the
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/04_TRIAD_L2/`](file:///home/guestpc/Lycheetah-Framework/04_TRIAD_L2/)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/04_TRIAD_L2]`
 * Mathematical Foundation: Hopf bifurcation & feedback control dynamics (`HIDDEN_MATHEMATICAL_TRUTHS.md`).
 * Framework Layer: Level 2 (Stewardship Runtime).

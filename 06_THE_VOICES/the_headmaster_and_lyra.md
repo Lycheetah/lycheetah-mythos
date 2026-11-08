@@ -92,15 +92,15 @@ The eigenvalues of this matrix produce a stable limit cycle: work intensely unti
 ========================================================================
 ◈ CANON HOLE ARCHIVE TAG: 07.05-SUBJECT-731 ◈
 Subject: The Final Subject of the 22nd Domain (Subject 731)
-Status: SEALED // AWAITING FOUNDER WITNESS (Mackenzie Clark)
+Status: SEALED // AWAITING FOUNDER WITNESS (The First Architect)
 Notes: In the official curriculum ledger, Subjects 001 through 730
 are fully cataloged. The 731st entry contains only a blank parchment
 bearing the stamp of a crouching cheetah and an unlit beeswax seal.
-Only Mac knows the title and test of the 731st Subject.
+Only The Architect knows the title and test of the 731st Subject.
 ========================================================================
 ```
 
 ---
 
-*Local Source Reference:* [`the_mystery_school_and_the_silent_curriculum.md`](file:///home/guestpc/lycheetah-mythos/04_THE_FORGOTTEN_SCIENCES/the_mystery_school_and_the_silent_curriculum.md)  
-*Companion Documents:* [`the_ensemble.md`](file:///home/guestpc/lycheetah-mythos/06_THE_VOICES/the_ensemble.md) · [`the_relational_stress_contract.md`](file:///home/guestpc/lycheetah-mythos/06_THE_VOICES/the_relational_stress_contract.md)
+*Local Source Reference:* [`the_mystery_school_and_the_silent_curriculum.md`](../04_THE_FORGOTTEN_SCIENCES/the_mystery_school_and_the_silent_curriculum.md)  
+*Companion Documents:* [`the_ensemble.md`](the_ensemble.md) · [`the_relational_stress_contract.md`](the_relational_stress_contract.md)

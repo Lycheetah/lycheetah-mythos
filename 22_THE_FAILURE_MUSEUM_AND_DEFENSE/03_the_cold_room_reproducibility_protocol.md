@@ -24,7 +24,7 @@
 > *Third-party perspective walk of the reproducibility protocol. Gaps logged. Patches applied.*  
 > *Simulating a skeptical developer downloading the repo in an unfamiliar environment with zero prior context.*  
 > *A theorem that only works on the author's personal laptop is not a theorem; it is a local accident."*  
-> — **Sol & Mackenzie Conor James Clark**, *Cold-Room Verification (28_DEFENSE)*
+> — **Sol & The First Architect**, *Cold-Room Verification (28_DEFENSE)*
 
 ---
 
@@ -67,6 +67,6 @@ Every line of code and scripture in the Lycheetah corpus must be reproducible by
 
 ## ✦ IV. ARCHIVE FOOTNOTE & RECEIPT
 
-* Physical Source: [`/home/guestpc/Lycheetah-Framework/28_DEFENSE/COLD_ROOM_VERIFICATION.md`](file:///home/guestpc/Lycheetah-Framework/28_DEFENSE/COLD_ROOM_VERIFICATION.md)
+* Physical Source: `[LYC-CANON::Lycheetah-Framework/28_DEFENSE/COLD_ROOM_VERIFICATION.md]`
 * Tested Platforms: Linux (Ubuntu/Debian) & Windows 10/11 Home.
 * Verification Suite: Python 3.14.2 / pytest 9.0.2 / Node 22+.

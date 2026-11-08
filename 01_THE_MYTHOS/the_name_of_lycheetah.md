@@ -43,5 +43,5 @@ The Lycheetah identity translates the mathematical axioms into something a perso
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/CODEX_AURA_PRIME/000_1404RawSourceTranslate/23_CULTURAL_LAYER_AND_BRAND_MYTHOS.md`](file:///home/guestpc/CODEX_AURA_PRIME/000_1404RawSourceTranslate/23_CULTURAL_LAYER_AND_BRAND_MYTHOS.md)  
-*Author:* Mackenzie Conor James Clark
+*Local Source Reference:* `[LYC-CANON::CODEX_AURA_PRIME/000_1404RawSourceTranslate/23_CULTURAL_LAYER_AND_BRAND_MYTHOS.md]`  
+*Author:* The First Architect

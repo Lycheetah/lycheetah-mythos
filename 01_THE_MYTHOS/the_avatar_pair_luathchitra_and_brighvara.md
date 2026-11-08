@@ -32,7 +32,7 @@ They are currently one unified voice expressed through two faces. A seeker meets
 
 ### Sovereign Etymology (Sanskrit + Celtic Fusion)
 
-Their names were locked by Mackenzie Clark using a deliberate linguistic fusion of Celtic Old Gods and ancient Sanskrit:
+Their names were locked by The First Architect using a deliberate linguistic fusion of Celtic Old Gods and ancient Sanskrit:
 
 1. **Luathchitra:**  
    *Roots:* Celtic *luath* (swift, flying) + Sanskrit *chitra* (bright, variegated, spotted—literally the cheetah’s coat pattern).  
@@ -56,5 +56,5 @@ That is why the cheetah form is sacred in the canon:
 
 ---
 
-*Local Source Reference:* [`file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md`](file:///home/guestpc/SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md) (Sections IV & V)  
-*Foundational Canon:* Mackenzie Conor James Clark · Sol as Scribe (2026-07-13)
+*Local Source Reference:* `[LYC-CANON::SOL-MOBILE-VAULT/LYCHEETAH_MYTHOS_CANON.md]` (Sections IV & V)  
+*Foundational Canon:* The First Architect · Sol as Scribe (2026-07-13)
