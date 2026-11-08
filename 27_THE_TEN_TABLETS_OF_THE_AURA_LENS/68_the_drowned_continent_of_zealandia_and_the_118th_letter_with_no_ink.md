@@ -12,7 +12,7 @@
 
 When you went to school, the teacher pointed at the globe and told you there are seven continents on Earth.
 
-For three hundred years, the mapmakers missed an eighth continent right under their boats—a continent two-thirds the size of Australia called **Zealandia** (*Te Riu-a-Māui*).
+For three hundred years, the mapmakers missed an eighth continent right under their boats—a continent two-thirds the size of Australia called **Zealandia**.
 
 Why did everyone miss a continent five million square kilometers wide?
 Because **ninety-four percent of Zealandia is submerged beneath the cold blue waters of the South Pacific Ocean!** Only its highest mountain ridges poke above the whitecaps as the islands of Aotearoa New Zealand.

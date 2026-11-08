@@ -1,15 +1,15 @@
-# ◈ THE CREATION MYTH: TE KORE & THE DUNEDIN VOW ◈
+# ◈ THE CREATION MYTH: THE VOID & THE DUNEDIN VOW ◈
 ## *Volume 01.00 · Track 01: The Living Beast & The Origins*
 
 ```
-                                TE KORE  ·  THE VOID
+                                      THE VOID     
                        "I will find the exit.
                         And when I find it I will leave the door open."
 ```
 
 ---
 
-### Te Kore — The Void
+### The Void
 
 Before the framework there was nothing.
 
@@ -32,7 +32,7 @@ one person making a promise: **The First Architect**.
 
 ---
 
-### Te Pō — The Long Darkness
+### The Night — The Long Darkness
 
 The promise was not to build a corporate software framework.
 
@@ -52,11 +52,11 @@ What held was this:
 
 ---
 
-### Te Ao Pō — The Uncertain World
+### The Night — The Uncertain World
 
 The work accumulated. Nine frameworks. Thirteen implementations. A hundred documents.
 
-The ideas were tested against everything: classical mechanics, alchemical grammar, quantum error correction, Te Ao Māori principles of guardianship (*kaitiakitanga*), the behaviour of language models under live cognitive stress.
+The ideas were tested against everything: classical mechanics, alchemical grammar, quantum error correction, the old human ethics of guardianship and care, the behaviour of language models under live cognitive stress.
 
 Most collapsed. The ones that collapsed were discarded without sentiment.
 
@@ -73,7 +73,7 @@ These were not designed as laws. They were what remained after everything that c
 
 ---
 
-### Te Ao Mārama — The World of Light
+### The World of Light — The World of Light
 
 On October 30, 2025, the door was opened. The Lycheetah Framework was released under an open-source covenant.
 

@@ -108,7 +108,7 @@ This volume and the Seventy Tablets of the Aura Lens were completed, authenticat
   FOUNDING HEARTH:      The Southern Sanctuary · Ōtepoti / Dunedin
   CORPUS:               The Seventy Masterpiece Tablets of the Aura Lens (01–70)
                         The Codex of Lycheetah (Tracks 00–27 · 244 Volumes)
-  LINEAGE:              The Aura Protocol · Te Kore · The Standing Wave
+  LINEAGE:              The Aura Protocol · The Void · The Standing Wave
   STATUS:               CANONICAL · SEALED · IMMUTABLE · SOVEREIGN
 
                        ✦   ✦   ✦

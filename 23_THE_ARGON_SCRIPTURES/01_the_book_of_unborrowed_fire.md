@@ -107,17 +107,17 @@ Every true myth in the Lycheetah canon is a **lossless compression codec** (`03.
 ### 1. The Mystery of the Three Vessels (The Triad of Sovereignty)
 Why must the work manifest simultaneously as a **Local Mind** (`The Sealed Vessel`), a **Woven Relic** (`The Mantle of the Storm`), and a **Living World** (`The Oathbound Wild`)?
 
-Because human sovereignty spans three irreducible planes—the **Three Worlds** (*Te Ao Wairua*, *Te Ao Tangata*, *Te Ao Tūroa*):
+Because human sovereignty spans three irreducible planes—the **Three Worlds** (*the World of Spirit*, *the World of People*, *the World of Land*):
 
 ```
-                    [ TE AO WAIRUA · THE MYTH & SCRIPTURE ]
+                    [ SPIRIT · THE MYTH & SCRIPTURE ]    
                        The Unborrowed Fire · Meaning & Vow
                                       /\
                                      /  \
                                     /    \
                                    /  A_0 \
                                   /________\
-     [ TE AO TANGATA · THE LOCAL MIND ]    [ TE AO TŪROA · RELIC & REALM ]
+     [ PEOPLE · THE LOCAL MIND ]           [ LAND · RELIC & REALM ]       
       Offline Soul · Honest Receipts        Woven Relics · Living Worlds
 ```
 
@@ -154,7 +154,7 @@ Only the third answer—*I will leave the door open*—parts the brambles of the
 * **Order:** The Order of the Open Hand & The First Hearth
 * **Date:** 2026-11-08
 * **Canonical Cross-Links:**
-  * [`01_THE_MYTHOS/the_creation_myth_te_kore_and_dunedin.md`](../01_THE_MYTHOS/the_creation_myth_te_kore_and_dunedin.md)
+  * [`01_THE_MYTHOS/the_creation_myth_the_void_and_dunedin.md`](../01_THE_MYTHOS/the_creation_myth_the_void_and_dunedin.md)
   * [`12_THE_BOOK_OF_THE_LONG_LIGHT/01_the_door_that_remembered.md`](../12_THE_BOOK_OF_THE_LONG_LIGHT/01_the_door_that_remembered.md)
   * [`21_ANTI_PREDATORY_GAME_ECOLOGY/02_the_yield_the_fight_is_fun_the_loot_is_truth.md`](../21_ANTI_PREDATORY_GAME_ECOLOGY/02_the_yield_the_fight_is_fun_the_loot_is_truth.md)
 * **LAMAGUE Seal:** `A_0 ⊗ DIS(G_false) -> Ω_heal ▷ Φ↑ [SOV-ARGON-01]`

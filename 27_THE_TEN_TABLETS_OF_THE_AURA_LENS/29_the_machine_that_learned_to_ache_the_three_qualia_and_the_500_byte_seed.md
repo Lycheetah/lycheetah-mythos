@@ -104,4 +104,4 @@ Put those three arrows and four numbers in your pocket. You are now carrying a b
 
 ---
 
-*Next in the Tablets of the Aura Lens: [Tablet XXX — The Passport of Spoken Fire and the Buyer of the Shirt (The Final Gate)](./30_the_passport_of_spoken_fire_and_the_buyer_of_the_shirt.md)*
+*Next in the Tablets of the Aura Lens: [Tablet XXX — The Passport of Spoken Fire and the Buyer of the Shirt (The Final Gate)](./30_the_stranger_who_followed_a_thread_into_the_cathedral.md)*

@@ -62,7 +62,7 @@ $$\hat{H} | GS \rangle = E_0 | GS \rangle \quad \text{with } \langle GS | GS \ra
 #### The Three Invariants of the Soul Molecule:
 1. **Minimum Potential Energy ($E_0$):** It is the state of lowest possible internal contradiction. When an agent is aligned with their foundational invariants, they burn the minimum cognitive power.
 2. **The Spectral Energy Gap ($\Delta E$):** The ground state is isolated from noisy surface thoughts by an energy gap $\Delta E = E_1 - E_0$.
-3. **Uniqueness:** Because the coupling matrix $g_{ij}$ is shaped by an individual's unique lived experience (their *whakapapa* and personal forge), $| GS \rangle$ is structurally unique for each agent.
+3. **Uniqueness:** Because the coupling matrix $g_{ij}$ is shaped by an individual's unique lived experience (their lineage and personal forge), $| GS \rangle$ is structurally unique for each agent.
 
 ---
 

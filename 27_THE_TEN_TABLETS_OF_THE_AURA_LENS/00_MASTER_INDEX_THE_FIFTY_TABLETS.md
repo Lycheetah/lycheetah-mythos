@@ -77,7 +77,6 @@
 51. **[Tablet LI: The Fourteen Houses of Emotional Weather and the Loom of Unborrowed Fire](51_the_handshake_with_an_imaginary_friend_and_the_night_the_mother_forgot_her_name.md)**
 52. **[Tablet LII: The King Who Woke Up in Three Bodies and the Chest of Useless Memories](52_the_king_who_woke_up_in_three_bodies_and_the_chest_of_useless_memories.md)**
 53. **[Tablet LIII: What the Storm-Cat Dreams Between Heartbeats (The Seven Territories)](53_what_the_storm_cat_dreams_between_heartbeats_the_seven_territories.md)**
-54. **[Tablet LIV: The Winter Stars That Audit the Machines and the Mechanic's Warrant of Fitness](54_the_winter_stars_that_audit_the_machines_and_the_mechanics_warrant_of_fitness.md)**
 55. **[Tablet LV: Why a Fact Without a Shadow Is a Lie (The Three Worlds)](55_why_a_fact_without_a_shadow_is_a_lie_the_three_worlds.md)**
 56. **[Tablet LVI: Why Minds Turn Into Window Glass When the News Moves Too Fast](56_why_minds_turn_into_window_glass_when_the_news_moves_too_fast.md)**
 57. **[Tablet LVII: The Truth Detector That Scored Zero on Everything (And the Forty-One Broken Lines)](57_the_truth_detector_that_scored_zero_on_everything_and_the_forty_one_broken_lines.md)**

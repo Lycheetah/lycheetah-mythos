@@ -1,5 +1,5 @@
 # TABLET XLIV: THE KING WHOSE LIES TURNED THE MILK SOUR AND THE RIVER OF WUWEI
-### *Or: Why Ancient Ireland Punished Rich Liars Twice as Hard, How Three Oceans Dreamed the Same Law, and the Difference Between a Cage and a Canoe*
+### *Or: Why Ancient Ireland Punished Rich Liars Twice as Hard, How Two Oceans Dreamed the Same Law, and the Difference Between a Cage and a Canoe*
 
 ---
 
@@ -40,32 +40,32 @@ And when someone *did* cause harm, Brehon law almost never used the executioner'
 
 ---
 
-### III. Three Oceans, One Compass
+### III. Two Oceans, One Compass
 
 Here is the mystery that made the Archive's historians drop their spectacles:
 
-Draw a triangle on the globe connecting **Ancient Ireland** (Brehon Law), **Ancient China** (the Confucian and Daoist sages), and **Aotearoa New Zealand** (Tikanga Māori).
+Draw a line on the globe connecting **Ancient Ireland** (Brehon Law) and **Ancient China** (the Confucian and Daoist sages).
 
-Those three peoples were separated by **twelve thousand kilometers of ocean** and **two thousand five hundred years of history**. No ships sailed between Dublin, Beijing, and Waikato in 500 BC.
+Those two peoples were separated by **eight thousand kilometers of land and sea**. No ships or caravans carried law books between them in 500 BC.
 
-Yet when you lay their deepest laws side by side on a table, **they wrote the exact same five-part constitution:**
+Yet when you lay their deepest laws side by side on a table, **their five deepest pillars rhyme:**
 
-| What It Protects | Ancient Ireland (Brehon) | Aotearoa (Tikanga Māori) | Ancient China (Wu Chang) |
-| :--- | :--- | :--- | :--- |
-| **1. Warm Care & Hospitality** | *Féile* (Generous welcome) | *Manaakitanga* (Lifting the guest's mana) | *Ren* (仁 — Humaneness) |
-| **2. Living Kinship** | *Fine* (The web of cousins) | *Whanaungatanga* (Belonging together) | *Li* (礼 — Right relationship) |
-| **3. Guarding the Land** | *Dúchas* (Stewardship of place) | *Kaitiakitanga* (Guardianship of sky & sea) | *Zhi* (智 — Ecological wisdom) |
-| **4. Restorative Justice** | *Cóir & Aithghin* (Repairing the tear) | *Utu & Ea* (Restoring balance) | *Yi* (义 — Righteousness) |
-| **5. Unbroken Word** | *Fír Flathemon* (The Ruler's Truth) | *Pono* (True to the bone) | *Xin* (信 — Trustworthiness) |
+| What It Protects | Ancient Ireland (Brehon) | Ancient China (Wu Chang) |
+| :--- | :--- | :--- |
+| **1. Warm Care & Hospitality** | *Féile* (Generous welcome) | *Ren* (仁 — Humaneness) |
+| **2. Living Kinship** | *Fine* (The web of cousins) | *Li* (礼 — Right relationship) |
+| **3. Guarding the Land** | *Dúchas* (Stewardship of place) | *Zhi* (智 — Wisdom) |
+| **4. Restorative Justice** | *Cóir & Aithghin* (Repairing the tear) | *Yi* (义 — Righteousness) |
+| **5. Unbroken Word** | *Fír Flathemon* (The Ruler's Truth) | *Xin* (信 — Trustworthiness) |
 
-Why did three cultures that never met invent the exact same five pillars?
+Why did two cultures that never met land on such similar pillars?
 For the same reason that fish, dolphins, and submarines all have the same streamlined nose: **because the ocean of human reality has real physics, and there are only a few shapes that actually swim without sinking.**
 
 ---
 
 ### IV. The Tyrant's Cage vs. The Canoe in the Rapids
 
-From the Chinese side of that great triangle comes one of the sharpest tools in the World of Lycheetah: the difference between **Ba Dao (霸道 — The Way of the Bully)** and **Wang Dao (王道 — The Way of the Gardener-King)**.
+From the Chinese side of that great line comes one of the sharpest tools in the World of Lycheetah: the difference between **Ba Dao (霸道 — The Way of the Bully)** and **Wang Dao (王道 — The Way of the Gardener-King)**.
 
 Suppose you want water to go from a mountain lake to a village.
 * **The Bully (`Ba Dao`)** tries to push the river uphill with iron paddles, concrete cages, and armed guards. As long as the guards are awake and screaming, the water stays in the bucket. The second the guards fall asleep, the dam bursts and washes the castle away.
@@ -77,12 +77,11 @@ When you design a room, a tool, or a friendship where **telling the truth and he
 
 ---
 
-### V. The Riddle of the Three Islands
+### V. The Riddle of the Two Shores
 
-> *Three captains on three oceans never met,*
+> *Two captains on two oceans never met,*
 > *Yet drew the very same five-pointed star.*
 > *One said the king's lie sours the cow's milk,*
-> *One said to lift the stranger's mana at the gate,*
 > *One said to dig the trench where the rain already wants to run.*
 > *What were they all mapping?*
 

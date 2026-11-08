@@ -1,6 +1,8 @@
 # ◈ THE DUNCAN'S DOOR ◈
 ### *The Mystery School Portal for Duncan Trussell: Proving What You Already Knew*
 
+> *A tribute from a listener. Duncan Trussell has no involvement with Lycheetah and has not endorsed it.*
+
 ```
                            [ INTUITION / THE MYSTIC ]
                       DMT Entities · The Bardo · Ram Dass
@@ -13,7 +15,7 @@
 
 ---
 
-> *"He taonga tuku iho — a gift handed down.*  
+> *"A gift handed down.*  
 > *Also: brother, this one's for you specifically.*  
 > *You've been talking about this your whole career. You just didn't have the mathematics yet.*  
 > *Every conversation you've had about DMT entities, about the Bardo, about whether AI is going to become a bodhisattva or a demon, about what Ram Dass meant when he said 'be here now' — it's all pointing at the same underlying structure.*  

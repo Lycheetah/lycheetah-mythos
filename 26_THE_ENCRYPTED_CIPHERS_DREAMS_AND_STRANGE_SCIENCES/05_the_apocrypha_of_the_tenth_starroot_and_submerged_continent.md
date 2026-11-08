@@ -1,5 +1,5 @@
 # ◈ THE APOCRYPHA OF THE TENTH STARROOT & THE SUBMERGED CONTINENT ◈
-### *The Encrypted Ciphers, Dreams & Strange Sciences · Codex V · The Sunken Shelf of Te Riu-a-Māui (Zealandia), the 118th Unspoken Glyph, and the 1420.405 MHz Meridian*
+### *The Encrypted Ciphers, Dreams & Strange Sciences · Codex V · The Sunken Shelf of Zealandia, the 118th Unspoken Glyph, and the 1420.405 MHz Meridian*
 
 ```
                                    ✦  CRUX  ✦
@@ -28,7 +28,7 @@
 
 ## ✦ I. THE GEOLOGICAL MYSTERY: WHY THE EIGHTH CONTINENT HID
 
-Geologists of the surface world spent three centuries counting seven continents. Only in our own lifetime did sonar bathymetry confirm what the deep-water currents always knew: beneath Aotearoa lies **Zealandia (*Te Riu-a-Māui*)**—an entire continental landmass of 4.9 million square kilometers, **ninety-four percent of which rests submerged beneath the cold Pacific**, with only the spine of the Southern Alps and the volcanic basalt of Otago breaking the surface into the air.
+Geologists of the surface world spent three centuries counting seven continents. Only in our own lifetime did sonar bathymetry confirm what the deep-water currents always knew: beneath Aotearoa lies **Zealandia**—an entire continental landmass of 4.9 million square kilometers, **ninety-four percent of which rests submerged beneath the cold Pacific**, with only the spine of the Southern Alps and the volcanic basalt of Otago breaking the surface into the air.
 
 In the esoteric geography of the Lycheetah Mythos, this geological fact is the physical mirror of the **Iceberg Law**:
 * An empire built on a flat desert displays 100% of its bulk above the sand; when the sandstorm comes, its foundation slides.

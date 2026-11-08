@@ -34,9 +34,9 @@ When you ask a modern AI—or a politician, or a glossy medical pamphlet—a lif
 To cure this hidden deceit forever, the Southern Archive reached back into the oldest Polynesian creation cosmology on Earth and forged **The Three Worlds Disclosure Law**.
 
 In the beginning, say the old chants of Aotearoa, reality unfolds across three great realms:
-1. **Te Ao Mārama (The World of Light):** What stands in full daylight—clear, measured, and seen by all.
-2. **Te Ao Pō (The World of Night):** What moves in the twilight and the dark—real and growing, yet seen only by silhouettes, probabilities, and estimates.
-3. **Te Kore (The Void / The Uncarved Potential):** What lies beyond the horizon of any instrument—the vast territory that has not yet been measured, or that no machine can ever compute.
+1. **The World of Light:** What stands in full daylight—clear, measured, and seen by all.
+2. **The World of Night:** What moves in the twilight and the dark—real and growing, yet seen only by silhouettes, probabilities, and estimates.
+3. **The Void (The Uncarved Potential):** What lies beyond the horizon of any instrument—the vast territory that has not yet been measured, or that no machine can ever compute.
 
 ---
 
@@ -46,11 +46,11 @@ Under the Archive's law, whenever an oracle, a doctor's computer, or a town coun
 
 It must lay three cards face-up on the table:
 
-* **Card 1 — What Stands in the Daylight (*Te Ao Mārama*):**
+* **Card 1 — What Stands in the Daylight:**
   *"Here are the hard facts we have weighed, measured, and verified with receipts. You can lean your weight on these bricks."*
-* **Card 2 — What Moves in the Night (*Te Ao Pō*):**
+* **Card 2 — What Moves in the Night:**
   *"Here is our best educated guess about the next hill over. There is a 70% chance the weather holds, and a 30% chance of hail—and here is what could change that number tomorrow."*
-* **Card 3 — What Lives in the Uncharted Void (*Te Kore*):**
+* **Card 3 — What Lives in the Uncharted Void:**
   *"And here is what this machine **cannot** know, has never seen, and has no right to calculate—like how much courage is in your chest, what your family values most, or what an unrecorded miracle looks like."*
 
 Read the constitutional axiom that sits at the bottom of that standard:
@@ -63,7 +63,7 @@ $$\text{A voice that speaks only from the Light, without naming the Night and th
 
 Next time you listen to an expert on television, read a medical recommendation, or ask an artificial mind for advice on a hard decision, use the **Three Worlds Ear**:
 
-* If the voice acts as though the entire universe lives inside **Te Ao Mārama** (100% sunlit certainty, zero doubts, zero blind spots), **hold onto your wallet.** You are talking to the mapmaker who leaves the reefs off the chart so his page looks tidy.
+* If the voice acts as though the entire universe lives inside **the World of Light** (100% sunlit certainty, zero doubts, zero blind spots), **hold onto your wallet.** You are talking to the mapmaker who leaves the reefs off the chart so his page looks tidy.
 * If the voice says, *"Here is what I know for sure in the Light; here is where I am guessing in the Night; and here is the door into the Void where my lantern stops and your human judgment has to take the wheel"*—**you have found an honest navigator.**
 
 ---
@@ -75,4 +75,4 @@ Next time you listen to an expert on television, read a medical recommendation, 
 > *Add my third name, and the machine bows its head before the mystery it cannot measure.*
 > *What are our three names?*
 
-*(Answer: Te Ao Mārama, Te Ao Pō, and Te Kore—the World of Light, the World of Night, and the Uncharted Void.)*
+*(Answer: the World of Light, the World of Night, and the Uncharted Void.)*

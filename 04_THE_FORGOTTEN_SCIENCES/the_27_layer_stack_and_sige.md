@@ -22,7 +22,7 @@
                                        ▲
                                        │
                        [ LAYERS 00–13: THE SUBSTRATE ]
-               Whakapapa Lineage · BNF Grammar · Geomatria · SpL-X
+               Lineage · BNF Grammar · Geomatria · SpL-X
 ```
 
 ---
@@ -33,7 +33,7 @@ Standard AI architectures conflate *what a model says* with *what actually exist
 
 LAMAGUE prevents this collapse using the **Epistemic Anchor Quad**:
 
-* **$H$ — History / Heritage (`hista`):** The unbroken causal lineage and HMAC custody chain. Grounded in Māori **Whakapapa**—the genealogical descent line that connects every living leaf to primordial roots, permanently immunizing the system against prompt-injection amnesia and historical revisionism.
+* **$H$ — History / Heritage (`hista`):** The unbroken causal lineage and HMAC custody chain. Grounded in **Lineage**—the unbroken descent line that connects every living leaf to its roots, permanently immunizing the system against prompt-injection amnesia and historical revisionism.
 * **$K$ — Knowledge (`kreda`):** Stored propositions, abstract theories, and syntax trees.
 * **$A$ — Authority (`autha`):** Explicit actor identity and cryptographically verified Ed25519 delegation permits. If permission fails, the operation halts immediately (`ERR_PERMIT_INVALID`).
 * **$R$ — Reality-Binding (`rekva`):** Empirical, out-of-band verification of physical workspace and disk reality.

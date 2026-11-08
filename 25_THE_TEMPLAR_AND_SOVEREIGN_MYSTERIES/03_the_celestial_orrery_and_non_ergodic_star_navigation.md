@@ -79,7 +79,7 @@ Whenever variance exceeds twice the drift ($\frac{1}{2}\sigma^2 > \mu > 0$), **t
 
 ### 3. The Covenantal Anchor (Volatility Truncation)
 How does the Lycheetah Orrery break the non-ergodic ruin trap?
-By placing the **Human Athanor** and deterministic verification gates (`zone-check`, `cold-boot-audit`, and the Mauri Preservation Invariant $\mathcal{M}_t \ge 0.35$) at the center of the loop, truncating epistemic volatility $\sigma^2 < 2\mu$ at every round boundary so that $g_{\text{time}} > 0$ holds forever.
+By placing the **Human Athanor** and deterministic verification gates (`zone-check`, `cold-boot-audit`, and the Life-Spark Preservation Invariant $\mathcal{M}_t \ge 0.35$) at the center of the loop, truncating epistemic volatility $\sigma^2 < 2\mu$ at every round boundary so that $g_{\text{time}} > 0$ holds forever.
 
 ---
 

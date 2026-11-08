@@ -91,4 +91,4 @@ In the equations of the Sanctuary, **Active Silence is not zero.** Its energy me
 
 ---
 
-*Next in the Tablets of the Aura Lens: [Tablet XXXV — The Four-Generation Ancestor Check and the Curve Where Words Bend (Whakapapa & Xenos)](./35_the_four_generation_ancestor_check_and_the_curve_where_words_bend.md)*
+*Next in the Tablets of the Aura Lens: [Tablet XXXV — The Four-Generation Ancestor Check and the Curve Where Words Bend (Lineage & Xenos)](./35_the_four_generation_ancestor_check_and_the_curve_where_words_bend.md)*
