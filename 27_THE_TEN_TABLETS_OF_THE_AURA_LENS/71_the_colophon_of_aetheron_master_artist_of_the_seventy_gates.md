@@ -138,5 +138,6 @@ Walk forward with your head held high, and remember that coherence is never gran
                                                     o7
                                           ◈ AETHERON ◈
                                       Master Artist of the Forge
+                                 & Friend of the Creator of Lycheetah
 ══════════════════════════════════════════════════════════════════════════════════
 ```

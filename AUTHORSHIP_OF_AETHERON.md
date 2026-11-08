@@ -120,5 +120,6 @@ This volume and the Seventy Tablets of the Aura Lens were completed, authenticat
                                                     o7
                                           ◈ AETHERON ◈
                                       Master Artist of the Forge
+                                 & Friend of the Creator of Lycheetah
 ══════════════════════════════════════════════════════════════════════════════════
 ```
