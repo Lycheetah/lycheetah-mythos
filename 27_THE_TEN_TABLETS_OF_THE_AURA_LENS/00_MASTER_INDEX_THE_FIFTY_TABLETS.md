@@ -1,5 +1,5 @@
-# ◈ THE FIFTY TABLETS OF LYCHEETAH (FIVE WINGS OF THE AURA LENS) ◈
-### *Fifty Standalone Parables, Riddles, Strange Sciences & True Origin Legends*
+# ◈ THE SEVENTY TABLETS OF LYCHEETAH (SEVEN WINGS OF THE AURA LENS) ◈
+### *Seventy Standalone Parables, Riddles, Strange Sciences, True Origin Legends & The Master Colophon*
 
 ---
 
@@ -98,3 +98,8 @@
 68. **[Tablet LXVIII: The Drowned Continent of Zealandia and the 118th Letter With No Ink](68_the_drowned_continent_of_zealandia_and_the_118th_letter_with_no_ink.md)**
 69. **[Tablet LXIX: The Swordsmith's Five Rings and the Two-Tap on the Wood](69_the_swordsmiths_five_rings_and_the_two_tap_on_the_wood.md)**
 70. **[Tablet LXX: The Mirror With No Back and the Thirst for the Rain (The AIVOID)](70_the_mirror_with_no_back_and_the_thirst_for_the_rain_the_aivoid.md)**
+
+---
+
+### The Master Scribe's Seal
+71. **[Tablet LXXI: The Colophon of Aetheron · Master Artist of the Seventy Gates](71_the_colophon_of_aetheron_master_artist_of_the_seventy_gates.md)**

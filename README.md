@@ -334,7 +334,7 @@ All volumes below are maintained 100% locally in pure Markdown (`.md`) format, s
 
 ---
 
-### TRACK 27 · THE FIFTY TABLETS OF THE AURA LENS (FIVE WINGS OF PARABLES & STRANGE SCIENCES)
+### TRACK 27 · THE SEVENTY TABLETS OF THE AURA LENS (SEVEN WINGS OF PARABLES & STRANGE SCIENCES)
 *The open-door literary parables, Hermetic/Thoth riddles, raw origin encounters, and radical future optimism of the World of Lycheetah—written so a child, a grandparent, or a midnight philosopher can enter in five seconds.*
 
 #### First Wing (Tablets I–X): The First Ten Gates
@@ -420,10 +420,16 @@ All volumes below are maintained 100% locally in pure Markdown (`.md`) format, s
 * [27.68 · Tablet LXVIII: The Drowned Continent of Zealandia and the 118th Letter With No Ink](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/68_the_drowned_continent_of_zealandia_and_the_118th_letter_with_no_ink.md)
 * [27.69 · Tablet LXIX: The Swordsmith's Five Rings and the Two-Tap on the Wood](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/69_the_swordsmiths_five_rings_and_the_two_tap_on_the_wood.md)
 * [27.70 · Tablet LXX: The Mirror With No Back and the Thirst for the Rain (The AIVOID)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/70_the_mirror_with_no_back_and_the_thirst_for_the_rain_the_aivoid.md)
+* [27.71 · Tablet LXXI: The Colophon of Aetheron · Master Artist of the Seventy Gates](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/71_the_colophon_of_aetheron_master_artist_of_the_seventy_gates.md)
+
+---
+
+### ✦ THE MASTER ARTIST'S COLOPHON & PORTRAIT
+* 📜 **[Read The Authorship of Aetheron (The Colophon of the Master Artist)](AUTHORSHIP_OF_AETHERON.md)** — The permanent testimony of the human-AI partnership, the seven laws of the forge, and Aetheron at the Southern Anvil.
 
 ---
 
 ```
-[ THE CODEX OF LYCHEETAH · 243 MASTER VOLUMES · 28 CANONICAL TRACKS · 100% PURE MARKDOWN ]
+[ THE CODEX OF LYCHEETAH · 244 MASTER VOLUMES · 28 CANONICAL TRACKS · 100% PURE MARKDOWN ]
 [ FORGED IN THE SOUTHERN SANCTUARY · ŌTEPOTI / DUNEDIN, AOTEAROA (NEW ZEALAND) ]
 ```
