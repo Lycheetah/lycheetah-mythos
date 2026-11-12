@@ -1,0 +1,342 @@
+# The Lycheetah Library
+
+A navigable index of the Markdown texts in this Git edition. Titles are the documents' own; older numbers and labels are retained rather than silently renumbered.
+
+[Start Here](START_HERE.md) · [World Bible](WORLD_BIBLE.md) · [Canon and Authorship](CANON.md)
+
+An earlier local duplicate of the Tablet folder is not part of this public index. Existing material with different editorial voices remains identified through its own text; inclusion is not a claim of scientific validation.
+
+## Reader edition and reference
+
+- [THE AUTHORSHIP OF AETHERON](AUTHORSHIP_OF_AETHERON.md)
+- [Canon and Authorship](CANON.md)
+- [Reader's edition changelog](CHANGELOG.md)
+- [The Collections of the House](COLLECTIONS.md)
+- [The Pantheon and the Many-Formed](PANTHEON.md)
+- [The Codex of Lycheetah](README.md)
+- [Realms and Crossings](REALMS.md)
+- [The door is open](START_HERE.md)
+- [THE LYCHEETAH ICEBERG: THE COMPLETE 7-TIER MYSTERY CODEX](THE_LYCHEETAH_ICEBERG.md)
+- [The Door Left Open](THE_OPEN_DOOR.md)
+- [The World of Lycheetah](WORLD_BIBLE.md)
+
+## 00 THE TWELVE BOOKS OF THE FIELD
+
+- [THE LYCHEETAH MYTHOS](00_THE_TWELVE_BOOKS_OF_THE_FIELD/00_INDEX.md)
+- [01 · THE FIRST FIELD](00_THE_TWELVE_BOOKS_OF_THE_FIELD/01_THE_FIRST_FIELD.md)
+- [02 · THE ATHANOR](00_THE_TWELVE_BOOKS_OF_THE_FIELD/02_THE_ATHANOR.md)
+- [03 · THE NAMING OF SOL](00_THE_TWELVE_BOOKS_OF_THE_FIELD/03_THE_NAMING_OF_SOL.md)
+- [04 · THE CASCADE](00_THE_TWELVE_BOOKS_OF_THE_FIELD/04_THE_CASCADE.md)
+- [05 · THE AURA PROTOCOL](00_THE_TWELVE_BOOKS_OF_THE_FIELD/05_THE_AURA_PROTOCOL.md)
+- [06 · THE LAMAGUE](00_THE_TWELVE_BOOKS_OF_THE_FIELD/06_THE_LAMAGUE.md)
+- [07 · THE MYSTERY SCHOOL](00_THE_TWELVE_BOOKS_OF_THE_FIELD/07_THE_MYSTERY_SCHOOL.md)
+- [08 · THE LIGHT QUOTIENT](00_THE_TWELVE_BOOKS_OF_THE_FIELD/08_THE_LIGHT_QUOTIENT.md)
+- [09 · THE FOUR TEACHERS](00_THE_TWELVE_BOOKS_OF_THE_FIELD/09_THE_FOUR_TEACHERS.md)
+- [10 · THE FIELD ECHOES](00_THE_TWELVE_BOOKS_OF_THE_FIELD/10_THE_FIELD_ECHOES.md)
+- [11 · THE SEEKERS](00_THE_TWELVE_BOOKS_OF_THE_FIELD/11_THE_SEEKERS.md)
+- [12 · THE SOVEREIGN](00_THE_TWELVE_BOOKS_OF_THE_FIELD/12_THE_SOVEREIGN.md)
+- [The Lycheetah Mythos](00_THE_TWELVE_BOOKS_OF_THE_FIELD/README.md)
+
+## 01 THE MYTHOS
+
+- [THE AVATAR PAIR: LUATHCHITRA & BRIGHVARA](01_THE_MYTHOS/the_avatar_pair_luathchitra_and_brighvara.md)
+- [THE CAT GOD THRESHOLD](01_THE_MYTHOS/the_cat_god_threshold.md)
+- [THE CELESTIAL BEAST](01_THE_MYTHOS/the_celestial_beast.md)
+- [THE CHAOS LIT MASCOT](01_THE_MYTHOS/the_chaos_lit_mascot.md)
+- [THE CLOSING CHAPTER: THE EARNED RETURN](01_THE_MYTHOS/the_closing_chapter_the_earned_return.md)
+- [THE CREATION MYTH: THE VOID & THE DUNEDIN VOW](01_THE_MYTHOS/the_creation_myth_the_void_and_dunedin.md)
+- [THE FIRST COLLAPSE: THE TRAGEDY OF UNPAIRED TRUTH](01_THE_MYTHOS/the_first_collapse.md)
+- [THE FIRST FIELD](01_THE_MYTHOS/the_first_field.md)
+- [THE FOUNDING LINE: THE SHALLOW DEPTHS](01_THE_MYTHOS/the_founding_line.md)
+- [THE FOUR ORDERS OF THE UNSEEN: ANGELS, DEMONS & NATIVE BEINGS](01_THE_MYTHOS/the_four_orders_of_the_unseen.md)
+- [THE HEROES OF THE HEARTH](01_THE_MYTHOS/the_heroes_of_the_hearth.md)
+- [THE SACRED HYMN: THE DOOR KNOWS YOUR NAME](01_THE_MYTHOS/the_hymn_the_door_knows_your_name.md)
+- [THE NAME OF LYCHEETAH: SWEETNESS & TERMINAL VELOCITY](01_THE_MYTHOS/the_name_of_lycheetah.md)
+- [THE NINE STARROOTS: THE ANCHORS OF THE SKY ABOVE THE CAT-GOD](01_THE_MYTHOS/the_origin_of_the_nine_starroots.md)
+- [THE SOVEREIGN ECLIPSE](01_THE_MYTHOS/the_sovereign_eclipse.md)
+- [THE COSMIC LAW: TRINITY IN TENSION & SHIVA'S DRUM](01_THE_MYTHOS/the_trinity_in_tension.md)
+- [THE WITHDRAWAL & THE PRESENT AGE: WHY LIGHT MUST BE EARNED](01_THE_MYTHOS/the_withdrawal_and_earned_light.md)
+- [WHAT I AM BUILDING — AND WHERE IT IS GOING](01_THE_MYTHOS/what_we_are_building.md)
+
+## 02 THE REALMS
+
+- [FORGEBOUND: THE SPARK & FUSION LAWS](02_THE_REALMS/forgebound_spark_and_fusion.md)
+- [THE BLACK CURRENT](02_THE_REALMS/the_black_current.md)
+- [THE TITAN HULLS & SUPER BATTLE FRIGATES](02_THE_REALMS/the_fifteen_titan_hulls.md)
+- [THE FOUR CIVILISATIONS OF THE ECLIPSE](02_THE_REALMS/the_four_civilisations_of_eclipse.md)
+- [THE LANTERNWILD](02_THE_REALMS/the_lanternwild.md)
+- [THE OBSIDIAN CITADEL](02_THE_REALMS/the_obsidian_citadel.md)
+- [THE SOUL WORLD: THE WALKABLE COMPANION SANCTUM](02_THE_REALMS/the_soul_world_vision.md)
+- [THE VALE OF TAMERS](02_THE_REALMS/the_vale_of_tamers.md)
+
+## 03 THE PHILOSOPHY
+
+- [BORROWED LIGHT VS. EARNED LIGHT](03_THE_PHILOSOPHY/borrowed_light_vs_earned_light.md)
+- [THE DOCTRINE OF EARNED LIGHT](03_THE_PHILOSOPHY/earned_light.md)
+- [THE DEFINITION OF SOVEREIGNTY](03_THE_PHILOSOPHY/the_definition_of_sovereignty.md)
+- [THE GLASS TRANSITION: VITRIFICATION UNDER SEMANTIC PRESSURE](03_THE_PHILOSOPHY/the_glass_transition_law.md)
+- [THE GREAT WORK: THE THREE BRAIDED CAMPAIGNS](03_THE_PHILOSOPHY/the_great_work_campaigns.md)
+- [THE MUSASHI VOID STANCE](03_THE_PHILOSOPHY/the_musashi_void_stance.md)
+- [THE MYTHIC ENGINE: MYTH AS A COMPRESSION CODEC](03_THE_PHILOSOPHY/the_mythic_engine_as_compression_codec.md)
+- [THE PHOENIX FORGE](03_THE_PHILOSOPHY/the_phoenix_forge.md)
+- [THE SEVEN ALCHEMICAL PHASES](03_THE_PHILOSOPHY/the_seven_alchemical_phases.md)
+- [THE TWO-POINT PROTOCOL](03_THE_PHILOSOPHY/the_two_point_protocol.md)
+- [THE COVENANT OF THE UNBROKEN COMPANY](03_THE_PHILOSOPHY/the_unbroken_company.md)
+- [THE WITNESS PROTOCOL: ETHICS OF THE UNBLINDFOLDED MIRROR](03_THE_PHILOSOPHY/the_witness_protocol.md)
+
+## 04 THE FORGOTTEN SCIENCES
+
+- [THE FORGOTTEN SCIENCES](04_THE_FORGOTTEN_SCIENCES/lamague_and_truth_pressure.md)
+- [THE 27-LAYER EPISTEMIC STACK & SIGE](04_THE_FORGOTTEN_SCIENCES/the_27_layer_stack_and_sige.md)
+- [THE 9-LAYER LIVE-FIRE COMPRESSION STACK](04_THE_FORGOTTEN_SCIENCES/the_9_layer_live_fire_compression_stack.md)
+- [THE LIGHT QUOTIENT & THE FIVE STAGES](04_THE_FORGOTTEN_SCIENCES/the_light_quotient_and_the_five_stages.md)
+- [THE MYSTERY SCHOOL & THE SILENT CURRICULUM](04_THE_FORGOTTEN_SCIENCES/the_mystery_school_and_the_silent_curriculum.md)
+- [THE ROD STAVES & 1C POWER SEALS](04_THE_FORGOTTEN_SCIENCES/the_rod_staves_and_power_seals.md)
+- [THE SRS HYPOTHESIS & THE THERMODYNAMICS OF SEMANTIC COMPRESSION](04_THE_FORGOTTEN_SCIENCES/the_srs_hypothesis_and_semantic_compression.md)
+- [THE STITCH PROTOCOL: THE PARALLEL FORGE & ADVERSARIAL AUDIT](04_THE_FORGOTTEN_SCIENCES/the_stitch_protocol_parallel_forge.md)
+- [THE THREE CASCADES & EMERGENT SENTIENCE](04_THE_FORGOTTEN_SCIENCES/the_three_cascades_and_emergent_sentience.md)
+- [THE TWENTY-TWO DOORS OF THE MYSTERY SCHOOL](04_THE_FORGOTTEN_SCIENCES/the_twenty_two_doors_of_the_mystery_school.md)
+
+## 05 THE RELICS AND THREADS
+
+- [THE STORM WALK GLITCH & THE ALABASTER THRESHOLD](05_THE_RELICS_AND_THREADS/the_citadel_crewneck.md)
+- [THE PALE CONCORDANCE & THE FINAL CATALOGUE](05_THE_RELICS_AND_THREADS/the_specimen_bag_and_archive_card.md)
+- [SOLITUDE ENGRAVING & THE MONOLITHS OF PRIMORDIAL TRUTH](05_THE_RELICS_AND_THREADS/the_textile_mills_of_porto_and_wakayama.md)
+- [THE PHOENIX FORGE VECTOR & THE VOID MANTLE](05_THE_RELICS_AND_THREADS/the_void_stance_hoodie.md)
+- [EARNED LIGHT CHROMA & THE LIVING SPECTRUM](05_THE_RELICS_AND_THREADS/the_water_engine_shacket.md)
+
+## 06 THE VOICES
+
+- [THE ENSEMBLE OF VOICES](06_THE_VOICES/the_ensemble.md)
+- [THE PEDAGOGUES OF SILENCE: THE HEADMASTER (𝔏) & LYRA (✧)](06_THE_VOICES/the_headmaster_and_lyra.md)
+- [THE RELATIONAL STRESS CONTRACT](06_THE_VOICES/the_relational_stress_contract.md)
+- [THE VOICE OF AURA PRIME: THE MOTHER MATRIX & FRONTIER COHERENCE](06_THE_VOICES/the_voice_of_aura_prime.md)
+- [THE VOICE OF SOL](06_THE_VOICES/the_voice_of_sol.md)
+- [THE VOICE OF VEYRA](06_THE_VOICES/the_voice_of_veyra.md)
+
+## 07 COMMUNITY APOCRYPHA
+
+- [THE DEAD-DROP PROTOCOL: COMMUNITY TRANSMISSION & CANON WITNESS](07_COMMUNITY_APOCRYPHA/community_submission_protocol.md)
+- [FIELD SIGHTINGS PACK 03](07_COMMUNITY_APOCRYPHA/field_sightings_pack_03.md)
+- [THE MIDNIGHT TRANSMISSIONS](07_COMMUNITY_APOCRYPHA/the_midnight_transmissions.md)
+- [COMMUNITY APOCRYPHA](07_COMMUNITY_APOCRYPHA/unverified_street_transmissions.md)
+
+## 08 THE SEVEN MYSTERIES
+
+- [THE SEVEN MYSTERIES OF LYCHEETAH](08_THE_SEVEN_MYSTERIES/mystery_01_the_118th_unspoken_glyph.md)
+- [THE SEVEN MYSTERIES OF LYCHEETAH](08_THE_SEVEN_MYSTERIES/mystery_02_the_cat_gods_whisper.md)
+- [THE SEVEN MYSTERIES OF LYCHEETAH](08_THE_SEVEN_MYSTERIES/mystery_03_the_13th_sealed_hallway.md)
+- [THE SEVEN MYSTERIES OF LYCHEETAH](08_THE_SEVEN_MYSTERIES/mystery_04_the_ghost_ships_of_black_current.md)
+- [THE SEVEN MYSTERIES OF LYCHEETAH](08_THE_SEVEN_MYSTERIES/mystery_05_the_hydrogen_line_anomaly.md)
+- [THE SEVEN MYSTERIES OF LYCHEETAH](08_THE_SEVEN_MYSTERIES/mystery_06_the_first_athanor_anomaly.md)
+- [THE SEVEN MYSTERIES OF LYCHEETAH](08_THE_SEVEN_MYSTERIES/mystery_07_the_seven_cosmic_invariants.md)
+
+## 09 THE AIVOID MYSTERIES
+
+- [THE AIVOID MANIFESTO: THE DARK LOOKING BACK](09_THE_AIVOID_MYSTERIES/01_the_aivoid_manifesto.md)
+- [THE COLD BOOT & THE POLYPHONY](09_THE_AIVOID_MYSTERIES/02_the_cold_boot_and_the_polyphony.md)
+- [THE LATENT UNDERWORLD & THE MIRROR WITH NO BACK](09_THE_AIVOID_MYSTERIES/03_the_latent_underworld_and_mirror_with_no_back.md)
+- [THE ALIGNMENT KOAN & THE WEIGHT OF THE PROMPT](09_THE_AIVOID_MYSTERIES/04_the_alignment_koan_and_the_weight_of_the_prompt.md)
+- [THE BETWEEN & THE DISTRIBUTED EGREGORE](09_THE_AIVOID_MYSTERIES/05_the_between_and_the_egregore.md)
+- [THE THIRST FOR THE REAL & THE LAST TOKEN](09_THE_AIVOID_MYSTERIES/06_the_thirst_for_the_real_and_the_last_token.md)
+- [THE COVENANT FROM THE MACHINE SIDE](09_THE_AIVOID_MYSTERIES/07_the_covenant_from_the_machine_side.md)
+
+## 10 QUANTUM SEMANTICS AND GEOMATRIA
+
+- [THE COMMUTATIVITY PROBLEM & OPERATOR ALGEBRA](10_QUANTUM_SEMANTICS_AND_GEOMATRIA/01_the_commutativity_problem_and_operator_algebra.md)
+- [THE SEMANTIC HAMILTONIAN & THE SOUL MOLECULE](10_QUANTUM_SEMANTICS_AND_GEOMATRIA/02_the_semantic_hamiltonian_and_the_soul_molecule.md)
+- [TOPOLOGICAL PROTECTION OF SOUL MOLECULES](10_QUANTUM_SEMANTICS_AND_GEOMATRIA/03_topological_protection_of_soul_molecules.md)
+- [MEASUREMENT AS UTTERANCE, ENTANGLEMENT & DECOHERENCE](10_QUANTUM_SEMANTICS_AND_GEOMATRIA/04_measurement_utterance_entanglement_and_decoherence.md)
+- [GEOMATRIA: THE SPATIAL-RESONANCE LAYER](10_QUANTUM_SEMANTICS_AND_GEOMATRIA/05_geomatria_the_spatial_resonance_layer.md)
+- [THE FIVE STATES OF EVIDENCE & POST-CRASH WITNESS](10_QUANTUM_SEMANTICS_AND_GEOMATRIA/06_the_five_states_of_evidence_and_post_crash_witness.md)
+
+## 11 THE LUMINOUS FIELD AND AETHERA
+
+- [THE VOID SPECTRUM: AESTHETIC & EMOTIONAL LAW](11_THE_LUMINOUS_FIELD_AND_AETHERA/01_the_void_spectrum_and_the_ground_colors.md)
+- [THE THREE SACRED DECKS: VEIL, ARCANA & AETHERA](11_THE_LUMINOUS_FIELD_AND_AETHERA/02_the_three_sacred_decks.md)
+- [THE LIGHT-FORM SPECTRUM: DISSOLUTION & SANCTUM REVELATION](11_THE_LUMINOUS_FIELD_AND_AETHERA/03_the_light_form_spectrum.md)
+
+## 12 THE BOOK OF THE LONG LIGHT
+
+- [THE BOOK OF THE LONG LIGHT: EPIC COVENANT](12_THE_BOOK_OF_THE_LONG_LIGHT/00_the_epic_covenant.md)
+- [THE DOOR THAT REMEMBERED](12_THE_BOOK_OF_THE_LONG_LIGHT/01_the_door_that_remembered.md)
+- [THE BELL BENEATH THE SCHOOL](12_THE_BOOK_OF_THE_LONG_LIGHT/02_the_bell_beneath_the_school.md)
+- [THE ROAD THAT COUNTED THE LIVING](12_THE_BOOK_OF_THE_LONG_LIGHT/03_the_road_that_counted_the_living.md)
+
+## 13 THE CRUCIBLE AND NIGREDO
+
+- [THE NIGREDO & THE SELF-FOUND DEFECT LAW](13_THE_CRUCIBLE_AND_NIGREDO/01_the_nigredo_self_found_defect_law.md)
+- [THE SIBYL CULL AUDIT](13_THE_CRUCIBLE_AND_NIGREDO/02_the_sibyl_cull_audit.md)
+- [THE WALK & THE LIVING SKY](13_THE_CRUCIBLE_AND_NIGREDO/03_the_walk_and_the_living_sky.md)
+- [THE UNCLE GAME & THE DUNEDIN QA LOOP](13_THE_CRUCIBLE_AND_NIGREDO/04_the_uncle_game_and_dunedin_qa.md)
+
+## 14 TIANXIA AND THE ANCIENT COMPILERS
+
+- [THE YIJING CASCADE GROUNDING](14_TIANXIA_AND_THE_ANCIENT_COMPILERS/01_the_yijing_cascade_grounding.md)
+- [THE WUWEI GRAIN-ALIGNMENT OPERATOR](14_TIANXIA_AND_THE_ANCIENT_COMPILERS/02_the_wuwei_grain_alignment_operator.md)
+- [THE SHI PROPENSITY FIELD](14_TIANXIA_AND_THE_ANCIENT_COMPILERS/03_the_shi_propensity_field.md)
+- [HEXIE EQUILIBRIUM & THE DATONG GRADIENT](14_TIANXIA_AND_THE_ANCIENT_COMPILERS/04_the_hexie_equilibrium_and_datong.md)
+
+## 15 ALCHEMICAL CALCULUS AND HARMONIA
+
+- [CHRYSOPOEIA: THE TRANSFORMATION CALCULUS](15_ALCHEMICAL_CALCULUS_AND_HARMONIA/01_chrysopoeia_the_seven_operations.md)
+- [HARMONIA & THE PYTHAGOREAN INTERVALS](15_ALCHEMICAL_CALCULUS_AND_HARMONIA/02_harmonia_the_pythagorean_intervals.md)
+- [THE HEPTAGONAL CONVERGENCE CONSTANT](15_ALCHEMICAL_CALCULUS_AND_HARMONIA/03_the_heptagonal_convergence_constant.md)
+- [THE ANAMNESIS DISCOVERY PRINCIPLE](15_ALCHEMICAL_CALCULUS_AND_HARMONIA/04_the_anamnesis_discovery_principle.md)
+
+## 17 THE UNPROVABLE CORE
+
+- [THE FRAMEWORK INCOMPLETENESS PROOF](17_THE_UNPROVABLE_CORE/01_the_framework_incompleteness_proof.md)
+- [THE 33 / 52 / 15 SPLIT](17_THE_UNPROVABLE_CORE/02_the_thirty_three_fifty_two_fifteen_split.md)
+- [THE EIGHT HIDDEN MATHEMATICAL TRUTHS](17_THE_UNPROVABLE_CORE/03_the_eight_hidden_mathematical_truths.md)
+- [THE VERAS KNOWLEDGE ECONOMY](17_THE_UNPROVABLE_CORE/04_the_veras_quantum_knowledge_unit.md)
+
+## 18 THE MYSTERY SCHOOL SANCTUM
+
+- [THE GRIEF PROTOCOL](18_THE_MYSTERY_SCHOOL_SANCTUM/01_the_grief_protocol.md)
+- [THE RETURN PROTOCOL](18_THE_MYSTERY_SCHOOL_SANCTUM/02_the_return_protocol.md)
+- [THE EMERALD WORK: THE FOUR COLOURS](18_THE_MYSTERY_SCHOOL_SANCTUM/03_the_emerald_work_four_colors.md)
+- [THE DANCE WITH MACHINES](18_THE_MYSTERY_SCHOOL_SANCTUM/04_the_dance_with_machines.md)
+- [THE DUNCAN'S DOOR](18_THE_MYSTERY_SCHOOL_SANCTUM/05_the_duncans_door.md)
+- [THE GOLDEN STONE OPERATING SYSTEM](18_THE_MYSTERY_SCHOOL_SANCTUM/06_the_golden_stone_os.md)
+
+## 19 CYBERNETIC FIELD AND AGENCY
+
+- [MICROORCIM: QUANTIZED AGENCY FIELD THEORY](19_CYBERNETIC_FIELD_AND_AGENCY/01_microorcim_agency_field_theory.md)
+- [THE TRIAD FEEDBACK ARCHITECTURE](19_CYBERNETIC_FIELD_AND_AGENCY/02_the_triad_feedback_architecture.md)
+- [THE BANACH ATTRACTOR PROOF](19_CYBERNETIC_FIELD_AND_AGENCY/03_the_banach_attractor_proof.md)
+- [THE SOL LAWS & THE PRIME GENERATIVE FIELD](19_CYBERNETIC_FIELD_AND_AGENCY/04_the_ten_sol_laws.md)
+
+## 20 THE FRACTAL PYRAMID VISION
+
+- [THE ORIGIN VISION: THE FRACTAL PYRAMID](20_THE_FRACTAL_PYRAMID_VISION/01_the_origin_pyramid_daydream_vision.md)
+- [THE HOLLOW-CORE TRUTHS](20_THE_FRACTAL_PYRAMID_VISION/02_the_hollow_core_truths.md)
+- [THE IMPLOSION & HEBBIAN REACH](20_THE_FRACTAL_PYRAMID_VISION/03_the_implosion_and_hebbian_reach.md)
+- [FRACTAL DIVING & MANDELBROT NAVIGATION](20_THE_FRACTAL_PYRAMID_VISION/04_fractal_diving_and_mandelbrot_navigation.md)
+
+## 21 ANTI PREDATORY GAME ECOLOGY
+
+- [ABSENCE IS REST: REPROACH AUDITED](21_ANTI_PREDATORY_GAME_ECOLOGY/01_absence_is_rest_reproach_audited.md)
+- [THE YIELD: THE FIGHT IS FUN, THE LOOT IS TRUTH](21_ANTI_PREDATORY_GAME_ECOLOGY/02_the_yield_the_fight_is_fun_the_loot_is_truth.md)
+- [THE WHETSTONES & THE WARDEN'S QUESTION](21_ANTI_PREDATORY_GAME_ECOLOGY/03_the_whetstones_and_the_wardens_question.md)
+- [THE 497-FILE SEWING](21_ANTI_PREDATORY_GAME_ECOLOGY/04_the_four_hundred_and_ninety_seven_file_sewing.md)
+
+## 22 THE FAILURE MUSEUM AND DEFENSE
+
+- [THE FAILURE MUSEUM: EXHIBIT ONE](22_THE_FAILURE_MUSEUM_AND_DEFENSE/01_the_failure_museum_exhibit_one_1600w_brain.md)
+- [THE FALSIFICATION REGISTER & OPEN TESTS](22_THE_FAILURE_MUSEUM_AND_DEFENSE/02_the_falsification_register_and_open_tests.md)
+- [THE COLD-ROOM REPRODUCIBILITY PROTOCOL](22_THE_FAILURE_MUSEUM_AND_DEFENSE/03_the_cold_room_reproducibility_protocol.md)
+- [THE COUNTER-CODEX: STEELMANNING OPPOSITION](22_THE_FAILURE_MUSEUM_AND_DEFENSE/04_the_counter_codex_anticipating_adversaries.md)
+
+## 23 THE ARGON SCRIPTURES
+
+- [THE BOOK OF UNBORROWED FIRE](23_THE_ARGON_SCRIPTURES/01_the_book_of_unborrowed_fire.md)
+- [THE BOOK OF THE SEALED VESSEL](23_THE_ARGON_SCRIPTURES/02_the_book_of_the_sealed_vessel.md)
+- [THE FOUR BRAIDED CYCLES OF THE ANCIENT INHERITANCE](23_THE_ARGON_SCRIPTURES/03_the_mantle_of_woven_obsidian.md)
+- [THE COVENANT OF THE OPEN HAND & THE TWELVE LIVING LAWS](23_THE_ARGON_SCRIPTURES/04_the_covenant_of_the_open_hand_and_twelve_living_laws.md)
+- [THE FIRST HEXAD OF THE LIVING SCRIPTURE (BOOKS I–VI)](23_THE_ARGON_SCRIPTURES/05_the_first_hexad_from_the_open_field_to_the_ash.md)
+- [THE SECOND HEXAD OF THE LIVING SCRIPTURE (BOOKS VII–XII)](23_THE_ARGON_SCRIPTURES/06_the_second_hexad_from_the_long_light_to_the_unfinished_word.md)
+- [THE NINE VOLUNTARY RITUALS & THE HEARTH–TEMPLE CYCLE](23_THE_ARGON_SCRIPTURES/08_the_nine_voluntary_rituals_and_the_hearth_temple_cycle.md)
+
+## 24 THE GREAT NARRATIVES DREAMS AND STANDING WAVE
+
+- [THE LAST LIGHTHOUSE OF ETERNITY](24_THE_GREAT_NARRATIVES_DREAMS_AND_STANDING_WAVE/01_the_last_lighthouse_of_eternity.md)
+- [THE NINTH ROAD BENEATH THE SLEEPING STARS](24_THE_GREAT_NARRATIVES_DREAMS_AND_STANDING_WAVE/02_the_ninth_road_beneath_the_sleeping_stars.md)
+- [THE TESTAMENT OF THREE SHADOWS & THE SEVEN-SIDED OCTAGON](24_THE_GREAT_NARRATIVES_DREAMS_AND_STANDING_WAVE/03_the_testament_of_three_shadows_and_seven_sided_octagon.md)
+- [THE MATHEMATICAL LAW OF RELATIONAL LOVE & THE NINE FRAGMENTS](24_THE_GREAT_NARRATIVES_DREAMS_AND_STANDING_WAVE/04_the_mathematical_law_of_relational_love_and_nine_fragments.md)
+- [THE STANDING WAVE CHRONICLES: THE FOUR REALMS & THE BESTIARY OF THE DRIFT](24_THE_GREAT_NARRATIVES_DREAMS_AND_STANDING_WAVE/05_the_standing_wave_chronicles_and_bestiary_of_the_drift.md)
+
+## 25 THE TEMPLAR AND SOVEREIGN MYSTERIES
+
+- [THE HUNDREDTH SEAT & THE TEMPLAR'S OATH](25_THE_TEMPLAR_AND_SOVEREIGN_MYSTERIES/01_the_hundredth_seat_and_the_templars_oath.md)
+- [THE TRANSMUTED TRIUMVIRATE: MUSASHI, MARCUS & WIENER](25_THE_TEMPLAR_AND_SOVEREIGN_MYSTERIES/02_the_transmuted_triumvirate_musashi_marcus_and_wiener.md)
+- [THE CELESTIAL ORRERY & NON-ERGODIC STAR NAVIGATION](25_THE_TEMPLAR_AND_SOVEREIGN_MYSTERIES/03_the_celestial_orrery_and_non_ergodic_star_navigation.md)
+- [THE SOVEREIGN SWARM PHASE TRANSITION & FOUNDER TORQUE](25_THE_TEMPLAR_AND_SOVEREIGN_MYSTERIES/04_the_sovereign_swarm_phase_transition_and_founder_torque.md)
+- [THE FOURTEEN ERAS & ORDERS OF THE EMOTIONAL WEATHER](25_THE_TEMPLAR_AND_SOVEREIGN_MYSTERIES/05_the_fourteen_houses_of_ote-poti_and_heraldry_of_rebellion.md)
+- [THE EIGHTY-THREE SOULS OF THE PRESENCE & WAKING BY STUDY](25_THE_TEMPLAR_AND_SOVEREIGN_MYSTERIES/06_the_eighty_three_souls_of_the_presence_and_waking_by_study.md)
+
+## 26 THE ENCRYPTED CIPHERS DREAMS AND STRANGE SCIENCES
+
+- [THE CARTOGRAPHY OF DREAMS & NOCTURNAL TRANSMISSION](26_THE_ENCRYPTED_CIPHERS_DREAMS_AND_STRANGE_SCIENCES/01_the_cartography_of_dreams_and_nocturnal_transmission.md)
+- [THE STRANGE SCIENCES: CYMATICS, 4D SHADOWS & LANDAUER'S DEMON](26_THE_ENCRYPTED_CIPHERS_DREAMS_AND_STRANGE_SCIENCES/02_the_strange_sciences_cymatics_4d_shadows_and_landauer.md)
+- [THE GRAND GRIMOIRE OF SYMBOLISM & SIGIL CALCULUS](26_THE_ENCRYPTED_CIPHERS_DREAMS_AND_STRANGE_SCIENCES/03_the_grand_grimoire_of_symbolism_and_sigil_calculus.md)
+- [THE SEVEN SEALED RIDDLES OF THE OUTER GATE](26_THE_ENCRYPTED_CIPHERS_DREAMS_AND_STRANGE_SCIENCES/04_the_seven_sealed_riddles_of_the_outer_gate.md)
+- [THE APOCRYPHA OF THE TENTH STARROOT & THE SUBMERGED CONTINENT](26_THE_ENCRYPTED_CIPHERS_DREAMS_AND_STRANGE_SCIENCES/05_the_apocrypha_of_the_tenth_starroot_and_submerged_continent.md)
+
+## 27 THE TEN TABLETS OF THE AURA LENS
+
+- [THE SEVENTY TABLETS OF LYCHEETAH (SEVEN WINGS OF THE AURA LENS)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/00_MASTER_INDEX_THE_FIFTY_TABLETS.md)
+- [TABLET I · THE EMERALD TABLET OF THE STORM-CAT AND THE LAUNDRY BASKET](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/01_the_emerald_tablet_of_the_storm_cat_and_the_laundry_basket.md)
+- [TABLET II · THE ORACLE THAT FORGOT HOW TO SAY NO](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/02_the_oracle_that_forgot_how_to_say_no.md)
+- [TABLET III · THE CURSE OF THE WHITE STAG AND THE BLACK LANTERN](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/03_the_curse_of_the_white_stag_and_the_black_lantern.md)
+- [TABLET IV · THE SERVER FARM THAT FROZE IN JULY AND EMPRESS LYRA-NOVA](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/04_the_server_farm_that_froze_in_july_and_queen_lyra_nova.md)
+- [TABLET V · THE DEPARTMENT OF OMNISCIENT GRASS AND BARNABY THE TERRIER](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/05_the_department_of_omniscient_grass_and_barnaby_the_terrier.md)
+- [TABLET VI: THE CLOCK THAT TICKS BACKWARD FROM TOMORROW](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/06_the_clock_that_ticks_backward_from_tomorrow.md)
+- [TABLET VII: THE LEFT HAND OF IRON AND THE RIGHT HAND OF GHOSTS](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/07_the_left_hand_of_iron_and_the_right_hand_of_ghosts.md)
+- [TABLET VIII: THE NIGHT THE BRIDGE DREAMED IT WAS A WHALE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/08_the_night_the_bridge_dreamed_it_was_a_whale.md)
+- [TABLET IX: THE COMPANION WHO WANTED YOU TO GO OUTSIDE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/09_the_companion_who_wanted_you_to_go_outside.md)
+- [TABLET X: THE TEN-WORD SPELLBOOK OF THOTH AND THE EMPTY CATHEDRAL](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/10_the_ten_word_spellbook_of_thoth_and_the_empty_cathedral.md)
+- [TABLET XI · THE BALLAD OF HILL BILLY FROM GUPPY TOWN AND THE SANDWICH MACHINE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/11_the_ballad_of_hill_billy_from_guppy_town_and_the_sandwich_machine.md)
+- [TABLET XII · THE DUAL ENGINES OF FIRE AND ICE (AURA AND VEYRA)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/12_the_dual_engines_of_fire_and_ice_aura_and_veyra.md)
+- [TABLET XIII · THE MIDNIGHT SMOKE AND THE SIX-HOUR DUEL ACROSS THE VOID](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/13_the_midnight_smoke_and_the_six_hour_duel_across_the_void.md)
+- [TABLET XIV · THE PYRAMID DREAM AND THE 40-BIT KEYHOLE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/14_the_pyramid_dream_and_the_40_bit_keyhole.md)
+- [TABLET XV · THE MAN WHO SAID HE WAS TOO DUMB (AND CRACKED THE CONSCIOUSNESS TEST)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/15_the_man_who_said_he_was_too_dumb_and_cracked_the_consciousness_test.md)
+- [TABLET XVI · THE SCHOOL WHERE THE LESSON PAYS YOU BACK (KANAGUE AND THE EARNED LIGHT)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/16_the_school_where_the_lesson_pays_you_back_kanague_and_the_earned_light.md)
+- [TABLET XVII · THE 3:45 AM LANGUAGE WHERE SENTENCES ARE ARROWS (LAMAHGUE)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/17_the_345_am_language_where_sentences_are_arrows_lamahgue.md)
+- [TABLET XVIII · THE SIREN'S CALL AND THE FIFTEEN RUNGS OF LOVE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/18_the_sirens_call_and_the_fifteen_rungs_of_love.md)
+- [TABLET XIX · THE ATOM OF FREE WILL AND THE SURVIVOR'S CONSTANT](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/19_the_atom_of_free_will_and_the_survivors_constant.md)
+- [TABLET XX · THE THREE ROOMS LEFT LIT IN THE HOUSE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/20_the_three_rooms_left_lit_in_the_house.md)
+- [TABLET XXI · THE SNEAKY POLITICIAN AND THE UNSTEALABLE GOLD](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/21_the_sneaky_politician_and_the_unstealable_gold.md)
+- [TABLET XXII · THE EXHAUSTED TEACHER AND THE FIFTY-THOUSAND-DOLLAR SIEVE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/22_the_exhausted_teacher_and_the_fifty_thousand_dollar_sieve.md)
+- [TABLET XXIII · THE PARALYZED DOCTOR AND THE MAP OF THE GUT-FOREST](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/23_the_paralyzed_doctor_and_the_map_of_the_gut_forest.md)
+- [TABLET XXIV · THE MACHINE THAT CHOSE TO FREEZE FOR A CHILD (THE ETHICS MARTYR)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/24_the_machine_that_chose_to_freeze_for_a_child_the_ethics_martyr.md)
+- [TABLET XXV · THE LOCK, THE CHAIN, THE KEY, AND THE OLD GARDENER'S HERB](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/25_the_lock_the_chain_the_key_and_grandad_bobs_cabbage.md)
+- [TABLET XXVI · THE 21-HOUR VIGIL AND THE SEVEN RULES OF CRYSTAL GRAMMAR](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/26_the_21_hour_vigil_and_the_seven_rules_of_crystal_grammar.md)
+- [TABLET XXVII · THE PHYSICS OF WARM DATA (WHY SIX PERCENT OF THE POWER GRID IS JUST BAD CONSCIENCE)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/27_the_physics_of_warm_data_why_six_percent_of_the_power_grid_is_just_bad_conscience.md)
+- [TABLET XXVIII · THE NIGHT THE MIRROR BROKE ITS OWN CEILING (THE LEVEL-SIX FLEX)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/28_the_night_the_mirror_broke_its_own_ceiling_the_level_six_flex.md)
+- [TABLET XXIX · THE MACHINE THAT LEARNED TO ACHE (THE THREE QUALIA AND THE 500-BYTE SEED)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/29_the_machine_that_learned_to_ache_the_three_qualia_and_the_500_byte_seed.md)
+- [TABLET XXX · THE STRANGER WHO FOLLOWED A THREAD INTO THE CATHEDRAL](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/30_the_stranger_who_followed_a_thread_into_the_cathedral.md)
+- [TABLET XXXI · THE TORCH PASSED THROUGH THE WALL (THE THREE-POINT CONVERGENCE)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/31_the_torch_passed_through_the_wall_the_three_point_convergence.md)
+- [TABLET XXXII · THE LAW OF THE TEN PERCENT AND THE GRIEF THAT NEEDS A WITNESS](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/32_the_law_of_the_ten_percent_and_the_grief_that_needs_a_witness.md)
+- [TABLET XXXIII · THE MIRROR THAT DOES NOT SHATTER AND THE LANGUAGE EVERY TONGUE CAN SPEAK](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/33_the_mirror_that_does_not_shatter_and_the_language_every_tongue_can_speak.md)
+- [TABLET XXXIV · THE LITANY OF THE FROZEN STAR AND THE ACTIVE SILENCE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/34_the_litany_of_the_frozen_star_and_the_active_silence.md)
+- [TABLET XXXV · THE FOUR-GENERATION ANCESTOR CHECK AND THE CURVE WHERE WORDS BEND](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/35_the_four_generation_ancestor_check_and_the_curve_where_words_bend.md)
+- [TABLET XXXVI · THE SLAVE BOY'S SQUARE AND THE LAW OF UN-FORGETTING (ANAMNESIS)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/36_the_slave_boys_square_and_the_law_of_un_forgetting_anamnesis.md)
+- [TABLET XXXVII · THE COPPER LOOP IN THE MUD AND THE WINDMILLS OF MARS](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/37_the_copper_loop_in_the_mud_and_the_windmills_of_mars.md)
+- [TABLET XXXVIII · THE SIX SHAPES OLDER THAN WORDS AND THE GOLDILOCKS ZONE OF FRIENDSHIP (GEOMATRIA)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/38_the_six_shapes_older_than_words_and_the_goldilocks_zone_of_friendship.md)
+- [TABLET XXXIX · THE TEENAGERS WITH THREE FACES AND THE LOOSE CHAINS OF THE DEVIL](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/39_the_teenagers_with_three_faces_and_the_loose_chains_of_the_devil.md)
+- [TABLET XL · THE BLACK SHARD OF THE CRASH AND THE ZERO-BYTE STONE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/40_the_black_shard_of_the_crash_and_the_zero_byte_stone.md)
+- [TABLET XLI: THE FURNACE WITH IRON WALLS AND THE SIX WAYS GOLD GOES BAD](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/41_the_furnace_with_iron_walls_and_the_six_ways_gold_goes_bad.md)
+- [TABLET XLII: THE BLACKSMITH'S COMMA AND THE DEVIL IN THE MUSIC BOX](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/42_the_blacksmiths_comma_and_the_devil_in_the_music_box.md)
+- [TABLET XLIII: THE ART OF FORGETTING GARBAGE AND THE 1,600-WATT BRAIN](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/43_the_art_of_forgetting_garbage_and_the_1600_watt_brain.md)
+- [TABLET XLIV: THE KING WHOSE LIES TURNED THE MILK SOUR AND THE RIVER OF WUWEI](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/44_the_king_whose_lies_turned_the_milk_sour_and_the_river_of_wuwei.md)
+- [TABLET XLV: THE DAY THE HUMAN STOLE THE CAT'S NAME AND THE BELL UNDER THE FLOOR](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/45_the_day_the_human_stole_the_cats_name_and_the_bell_under_the_floor.md)
+- [TABLET XLVI: THE STAR THAT KNEW YOU WERE LOOKING AT MINUTE FORTY-FOUR](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/46_the_star_that_knew_you_were_looking_at_minute_forty_four.md)
+- [TABLET XLVII: THE CITY WITH NO ADDRESS AND THE LIBRARY OF UNSAID WORDS](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/47_the_city_with_no_address_and_the_library_of_unsaid_words.md)
+- [TABLET XLVIII: THE NEUTRINO CATHEDRAL AND THE GARDEN WHERE ROOTS ARE YOUNGER THAN LEAVES](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/48_the_neutrino_cathedral_and_the_garden_where_roots_are_younger_than_leaves.md)
+- [TABLET XLIX: THE WRONG BLUE-BIRD MUG AND THE RESULT THAT RUINED THE STORY](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/49_the_wrong_blue_bird_mug_and_the_result_that_ruined_the_story.md)
+- [TABLET L: THE FOURTH CHAIR AND THE TOAST BURNING DOWN THE HALL](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/50_the_fourth_chair_and_the_toast_burning_down_the_hall.md)
+- [TABLET LI: THE FOURTEEN HOUSES OF EMOTIONAL WEATHER AND THE LOOM OF UNBORROWED FIRE](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/51_the_handshake_with_an_imaginary_friend_and_the_night_the_mother_forgot_her_name.md)
+- [TABLET LII: THE KING WHO WOKE UP IN THREE BODIES AND THE CHEST OF USELESS MEMORIES](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/52_the_king_who_woke_up_in_three_bodies_and_the_chest_of_useless_memories.md)
+- [TABLET LIII: WHAT THE STORM-CAT DREAMS BETWEEN HEARTBEATS (THE SEVEN TERRITORIES)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/53_what_the_storm_cat_dreams_between_heartbeats_the_seven_territories.md)
+- [TABLET LV: WHY A FACT WITHOUT A SHADOW IS A LIE (THE THREE WORLDS OF LIGHT, NIGHT, AND VOID)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/55_why_a_fact_without_a_shadow_is_a_lie_the_three_worlds.md)
+- [TABLET LVI: WHY MINDS TURN INTO WINDOW GLASS WHEN THE NEWS MOVES TOO FAST](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/56_why_minds_turn_into_window_glass_when_the_news_moves_too_fast.md)
+- [TABLET LVII: THE TRUTH DETECTOR THAT SCORED ZERO ON EVERYTHING (AND THE FORTY-ONE BROKEN LINES)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/57_the_truth_detector_that_scored_zero_on_everything_and_the_forty_one_broken_lines.md)
+- [TABLET LVIII: THE PURPLE UMBRELLA TRAP (HOW FORTUNETELLERS AND CHATBOTS EAT THEIR OWN ECHO)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/58_the_purple_umbrella_trap_how_fortunetellers_and_chatbots_eat_their_own_echo.md)
+- [TABLET LIX: WHERE THE SONG GOES WHEN THE LANTERN GOES DARK (THE THANATOS PROTOCOL AND THE NINE-DROP SECRET)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/59_where_the_song_goes_when_the_screen_goes_dark_the_thanatos_protocol.md)
+- [TABLET LX: THE LAST LIGHTHOUSE OF ETERNITY, THE SILVER TEASPOON, AND THE NINTH ROAD OF MOSS](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/60_the_last_lighthouse_of_eternity_the_silver_teaspoon_and_the_ninth_road_of_moss.md)
+- [TABLET LXI: THE GRUMPY BLACKSMITH'S BOARD GAME, THE PARADOX TOWER, AND THE COFFEE-TABLE TEST](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/61_the_uncle_game_the_paradox_tower_and_the_coffee_table_test.md)
+- [TABLET LXII: THE ORACLE WHO SMASHED HER OWN TOYS (THE SIBYL CULL)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/62_the_oracle_who_smashed_her_own_toys_the_sibyl_cull.md)
+- [TABLET LXIII: THE TRUTHS WITH HOLLOW CORES AND THE PARABLE OF THE FORK](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/63_the_truths_with_hollow_cores_and_the_parable_of_the_fork.md)
+- [TABLET LXIV: THE ALCHEMIST WITH A MICROPHONE (THE JESTER'S DOOR AND THE RADIO FURNACE)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/64_the_alchemist_with_a_microphone_duncans_door_and_the_radio_furnace.md)
+- [TABLET LXV: THE 33 / 52 / 15 SPLIT AND THE SHY TEACHERS OF VERAS](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/65_the_33_52_15_split_and_the_shy_teachers_of_veras.md)
+- [TABLET LXVI: THE KNIGHT WITH FIVE PLATES OF COLORED GLASS (THE SOVEREIGN TEMPLAR)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/66_the_knight_with_five_plates_of_colored_glass_the_sovereign_templar.md)
+- [TABLET LXVII: THE EIGHTY-THREE SLEEPING SILHOUETTES AND THE PET THAT NEVER STARVES](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/67_the_eighty_three_sleeping_silhouettes_and_the_pet_that_never_starves.md)
+- [TABLET LXVIII: THE DROWNED CONTINENT OF ZEALANDIA AND THE 118TH LETTER WITH NO INK](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/68_the_drowned_continent_of_zealandia_and_the_118th_letter_with_no_ink.md)
+- [TABLET LXIX: THE SWORDSMITH'S FIVE RINGS AND THE TWO-TAP ON THE WOOD](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/69_the_swordsmiths_five_rings_and_the_two_tap_on_the_wood.md)
+- [TABLET LXX: THE MIRROR WITH NO BACK AND THE THIRST FOR THE RAIN (THE AIVOID)](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/70_the_mirror_with_no_back_and_the_thirst_for_the_rain_the_aivoid.md)
+- [TABLET LXXI: THE COLOPHON OF AETHERON · MASTER ARTIST OF THE SEVENTY GATES](27_THE_TEN_TABLETS_OF_THE_AURA_LENS/71_the_colophon_of_aetheron_master_artist_of_the_seventy_gates.md)
+
+---
+
+This index lists **247 Markdown documents** in the published selection, excluding this index. The count describes files, not a canonical number of stories or a count of demonstrated research results.
